@@ -53,12 +53,12 @@ Feel free to email me if you are unable to access any of the publications listed
 * Ferrinho Lopes, H. (2014). [As Virtudes do Homem Bom. Um paralelismo entre Platão e Aristóteles](http://www.lusosofia.net/textos/20140517-lopes_hugo_2014_virtudes_homem_bom.pdf). <i>LusoSofia</i>, 1-34.
 
 
+# Encyclopedia entries
+- Ferrinho Lopes, H., Hanenberg, L., Pimenta, D., & Magalhães, P. C. (forthcoming in 2025). Regime Support. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
+- Pimenta, D., Hanenberg, L., Ferrinho Lopes, H., & Magalhães, P. C. (forthcoming in 2025). <i>Growing citizens’ tolerance \textit{vis-à-vis} authoritarian alternatives</i>. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
+
 
 <!---
-# Encyclopedia entries
-- Ferrinho Lopes, H., Hanenberg, L., Pimenta, D., & Magalhães, P. C. (forthcoming). Regime Support. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
-- Pimenta, D., Hanenberg, L., Ferrinho Lopes, H., & Magalhães, P. C. (forthcoming). <i>Growing citizens’ tolerance \textit{vis-à-vis} authoritarian alternatives</i>. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
-
 # Working Papers
 - Moving online? The use of web surveys in political science research (2005-2019). (with [Ana M. Belchior](https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv), Viriato Queiroga and Ana Rezende-Matias)
 
