@@ -41,16 +41,16 @@ Feel free to email me if you are unable to access any of the publications listed
 * Silveira, P., & Ferrinho Lopes, H. (2020). Governo, segundo Marina Costa Lobo. In Camerlo, M., Malamud, A., & Vaz-Pinto, R. (Eds.). <i>[Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf)</i> (pp. 87-98). Lisbon: Imprensa de Ciências Sociais.
 
 
+## Encyclopedia entries
+- Ferrinho Lopes, H., Hanenberg, L., Pimenta, D., & Magalhães, P. C. (forthcoming in 2025). Regime Support. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
+- Pimenta, D., Hanenberg, L., Ferrinho Lopes, H., & Magalhães, P. C. (forthcoming in 2025). <i>Growing citizens’ tolerance \textit{vis-à-vis} authoritarian alternatives</i>. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
+
+  
 ## Briefs and Reports
 
 * Ferrinho Lopes, H., Nina, S. R., Santos, N., & Hanenberg, L. (2023). <i>[Ciência Política Portuguesa. Evolução e caraterísticas da produção científica indexada](https://oqd.ics.ulisboa.pt/webwp/wp-content/uploads/2023/01/2023-Research-Brief-OQD-1.pdf)</i>. Research Brief. Lisbon: Observatory of the Quality of Democracy.
 * Ferrinho Lopes, H., Silveira, P., & Lopes, A. H. (2021). <i>[Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf)</i>. Research Brief. Lisbon: Permanent Youth Observatory.
   * Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
-
-
-## Encyclopedia entries
-- Ferrinho Lopes, H., Hanenberg, L., Pimenta, D., & Magalhães, P. C. (forthcoming in 2025). Regime Support. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
-- Pimenta, D., Hanenberg, L., Ferrinho Lopes, H., & Magalhães, P. C. (forthcoming in 2025). <i>Growing citizens’ tolerance \textit{vis-à-vis} authoritarian alternatives</i>. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
 
 
 ## Other
