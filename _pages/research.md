@@ -40,11 +40,18 @@ Feel free to email me if you are unable to access any of the publications listed
 * Ferrinho Lopes, H., & Bondarenko, A. (2022). [The integration of the Eastern and Western Balkans into the EU and NATO. A longitudinal and integrated analysis](https://www.igi-global.com/chapter/the-integration-of-the-eastern-and-western-balkans-into-the-eu-and-nato/295606). In Costa, B. F. (Ed.). <i>[Challenges and Barriers to the European Union Expansion to the Balkan Region](https://www.igi-global.com/book/challenges-barriers-european-union-expansion/275497)</i> (pp. 135-152). Hershey: IGI Global.
 * Silveira, P., & Ferrinho Lopes, H. (2020). Governo, segundo Marina Costa Lobo. In Camerlo, M., Malamud, A., & Vaz-Pinto, R. (Eds.). <i>[Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf)</i> (pp. 87-98). Lisbon: Imprensa de Ciências Sociais.
 
+
 ## Briefs and Reports
 
 * Ferrinho Lopes, H., Nina, S. R., Santos, N., & Hanenberg, L. (2023). <i>[Ciência Política Portuguesa. Evolução e caraterísticas da produção científica indexada](https://oqd.ics.ulisboa.pt/webwp/wp-content/uploads/2023/01/2023-Research-Brief-OQD-1.pdf)</i>. Research Brief. Lisbon: Observatory of the Quality of Democracy.
 * Ferrinho Lopes, H., Silveira, P., & Lopes, A. H. (2021). <i>[Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf)</i>. Research Brief. Lisbon: Permanent Youth Observatory.
   * Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
+
+
+## Encyclopedia entries
+- Ferrinho Lopes, H., Hanenberg, L., Pimenta, D., & Magalhães, P. C. (forthcoming in 2025). Regime Support. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
+- Pimenta, D., Hanenberg, L., Ferrinho Lopes, H., & Magalhães, P. C. (forthcoming in 2025). <i>Growing citizens’ tolerance \textit{vis-à-vis} authoritarian alternatives</i>. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
+
 
 ## Other
 
@@ -53,9 +60,6 @@ Feel free to email me if you are unable to access any of the publications listed
 * Ferrinho Lopes, H. (2014). [As Virtudes do Homem Bom. Um paralelismo entre Platão e Aristóteles](http://www.lusosofia.net/textos/20140517-lopes_hugo_2014_virtudes_homem_bom.pdf). <i>LusoSofia</i>, 1-34.
 
 
-# Encyclopedia entries
-- Ferrinho Lopes, H., Hanenberg, L., Pimenta, D., & Magalhães, P. C. (forthcoming in 2025). Regime Support. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
-- Pimenta, D., Hanenberg, L., Ferrinho Lopes, H., & Magalhães, P. C. (forthcoming in 2025). <i>Growing citizens’ tolerance \textit{vis-à-vis} authoritarian alternatives</i>. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
 
 
 <!---
