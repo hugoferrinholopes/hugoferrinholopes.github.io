@@ -42,8 +42,8 @@ Feel free to email me if you are unable to access any of the publications listed
 
 
 ## Encyclopedia entries
-- Ferrinho Lopes, H., Hanenberg, L., Pimenta, D., & Magalhães, P. C. (forthcoming in 2025). Regime Support. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
-- Pimenta, D., Hanenberg, L., Ferrinho Lopes, H., & Magalhães, P. C. (forthcoming in 2025). <i>Growing citizens’ tolerance \textit{vis-à-vis} authoritarian alternatives</i>. In Freire, A., Önudottir, E., Pedrazzani, A., \& Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
+- Ferrinho Lopes, H., Hanenberg, L., Pimenta, D., & Magalhães, P. C. (forthcoming in 2025). Regime Support. In Freire, A., Önudottir, E., Pedrazzani, A., & Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
+- Pimenta, D., Hanenberg, L., Ferrinho Lopes, H., & Magalhães, P. C. (forthcoming in 2025). <i>Growing citizens’ tolerance \textit{vis-à-vis} authoritarian alternatives</i>. In Freire, A., Önudottir, E., Pedrazzani, A., & Schmitt, H. (Eds.). <i>Elgar Encyclopedia of Political Representation</i>. Cheltenham: Edward Elgar.
 
   
 ## Briefs and Reports
