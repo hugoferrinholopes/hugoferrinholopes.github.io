@@ -10,7 +10,7 @@ redirect_from:
 Thank you for your visit!
 ======
 
-I am currently pursuing my PhD in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/) (Portugal). I have undertaken research periods at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence (Italy) and the [Institute of Public Goods and Policies of the Spanish National Research Council (CSIC)](https://ipp.csic.es/en/about-ipp) in Madrid (Spain).
+I am currently pursuing my PhD in Comparative Politics at the [Institute of Social Sciences, University of Lisbon](https://www.ics.ulisboa.pt/). I have undertaken research periods at the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) in Florence and the [Spanish National Research Council](https://ipp.csic.es/en/about-ipp) in Madrid.
 
 My thesis leverages observational and experimental data to examine how intra-party cohesion (or lack thereof) relates to political behavior. In addition to my focus on political parties, political representation, elections, and political attitudes and behavior, I have a broad interest in the role of youth in politics. My work has been published, inter alia, in <i>West European Politics</i>, <i>International Political Science Review</i>, and <i>Journal of Elections, Public Opinion and Parties</i>. 
 
