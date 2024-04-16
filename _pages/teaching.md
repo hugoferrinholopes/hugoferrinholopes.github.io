@@ -21,11 +21,12 @@ author_profile: true
 
 ## Guest lectures
 
+- "Election campaigns in a context without a mediator," Postgraduation in Digital Politics (invited by Susana Rogeiro Nina), Lusofona University. (16/05/2024).
 - "The evolution of political parties and party system in Portugal," BA in Politics, Economics and Society (invited by Tiago Carvalho), Iscte-Sintra, University Institute of Lisbon, Portugal. (03/05/2024).
 - "Political parties and party systems," short course for adults (invited by Sofia Serra-Silva), ICS, University of Lisbon. (April 2024).
 - "Political parties," short course on Local, National and International Political Analysis (invited by Pedro Silveira), University of Beira Interior, Online. (23/10/2023).
 - "Political parties and citizen electoral groups," short course on Municipal Law (invited by Luís F. Mota Almeida, Tiago Serrão, and Manuel Ferreira Ramos), Coimbra Business School (with the National Association of Municipal Assemblies and Center for the Valorization of Local Elected Representatives), Online. (17/10/2023).
-- "The political system of the United Kingdom," BA in Political Science and International Relations (invited by Vinicius Albernaz), University of Beira Interior. (03/03/2023)
+- "The political system of the United Kingdom," BA in Political Science and International Relations (invited by Vinicius Albernaz), University of Beira Interior. (03/03/2023).
 - "Comparison as a method of political research," BA in Political Science and International Relations (invited by Susana Rogeiro Nina), Lusófona University. (10/11/2022).
 - "Second-order elections and the EU's transnational constituency," Msc in International Studies (invited by Sabrina Cavatorto), University of Siena, Italy. (26/05/2022).
 - "Comparative Politics," Msc in International Studies (invited by Francesco Marangoni), University of Siena, Italy. (25/05/2022).
