@@ -7,7 +7,7 @@ author_profile: true
 
 ## Graduate
 
-- [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0). <i>Postgraduation in Political Psichology</i>, Lusófona University (2022/2023)
+- [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0). <i>Post-graduation in Political Psichology</i>, Lusófona University (2022/2023)
 
 
 ## Undergraduate
