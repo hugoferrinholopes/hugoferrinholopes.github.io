@@ -44,14 +44,14 @@ Feel free to email me if you are unable to access any of the publications listed
 
 
 ## Encyclopedia entries
-- Ferrinho Lopes, Hugo, Lúcio Hanenberg, David Pimenta, and Pedro C. Magalhães (forthcoming). Regime Support. In <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
-- Pimenta, David, Lúcio Hanenberg, Hugo Ferrinho Lopes, and Pedro C. Magalhães (forthcoming). Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives. In <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
+- Ferrinho Lopes, Hugo, Lúcio Hanenberg, David Pimenta, and Pedro C. Magalhães (forthcoming). "Regime Support". In <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
+- Pimenta, David, Lúcio Hanenberg, Hugo Ferrinho Lopes, and Pedro C. Magalhães (forthcoming). "Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives". In <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt. Cheltenham: Edward Elgar.
 
   
 ## Briefs and Reports
 
 * Ferrinho Lopes, Hugo, Susana Rogeiro Nina, Nelson Santos, and Lúcio Hanenberg (2023). <i>[Ciência Política Portuguesa. Evolução e caraterísticas da produção científica indexada](https://oqd.ics.ulisboa.pt/webwp/wp-content/uploads/2023/01/2023-Research-Brief-OQD-1.pdf)</i>. Research Brief. Lisbon: Observatory of the Quality of Democracy.
-* Ferrinho Lopes, Hugo, Pedro Silveira, and Antóino H. Lopes (2021). <i>[Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf)</i>. Research Brief. Lisbon: Permanent Youth Observatory of ICS-ULisboa.
+* Ferrinho Lopes, Hugo, Pedro Silveira, and António H. Lopes (2021). <i>[Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf)</i>. Research Brief. Lisbon: Permanent Youth Observatory of ICS-ULisboa.
   * Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
 
 
