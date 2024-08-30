@@ -104,7 +104,7 @@ Feel free to email me if you are unable to access any of the publications listed
 * <i>[Ciência Política Portuguesa. Evolução e caraterísticas da produção científica indexada](https://oqd.ics.ulisboa.pt/webwp/wp-content/uploads/2023/01/2023-Research-Brief-OQD-1.pdf)</i> (Research Brief)<br>
   Lisbon: Observatory of the Quality of Democracy. (2023)<br>
   with Ferrinho Lopes, Hugo, Susana R. Nina, Nelson Santos, and Lúcio Hanenberg<br>
-* <i>[Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf)</i>. (Research Brief)<br>
+* <i>[Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf)</i> (Research Brief)<br>
   Lisbon: Permanent Youth Observatory of ICS-ULisboa. (2021)<br>
   with Pedro Silveira and António H. Lopes<br>
   * Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
