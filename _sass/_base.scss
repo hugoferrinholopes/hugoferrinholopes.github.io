@@ -14,12 +14,7 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  font-size: 14px; /* Diminuir o tamanho da fonte padrão do body */
-
-  &.overflow--hidden {
-    /* when primary navigation is visible, the content in the background won't scroll */
-    overflow: hidden;
-  }
+  font-size: 14px; /* Adicionei um font-size ao body para ajustar o texto geral */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -76,6 +71,12 @@ ins {
 del a {
   color: inherit;
   font-size: 0.9em; /* Diminuir o tamanho da fonte */
+}
+
+/* Ajuste para links e itálicos */
+a, em, i {
+  font-size: inherit; /* Garantir que o tamanho da fonte seja consistente */
+  line-height: inherit; /* Garantir que a altura da linha seja consistente */
 }
 
 /* reduce orphans and widows when printing */
