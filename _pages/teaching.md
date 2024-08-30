@@ -5,6 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<style>
+  ul {
+    padding-left: 15px; /* Diminua este valor para reduzir o espaçamento à esquerda */
+  }
+  
+  ul li {
+    margin-left: -5px; /* Diminua este valor para reduzir o espaçamento à esquerda dos itens */
+  }
+</style>
+
 ## Graduate
 
 - [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0). <i>Post-graduation in Political Psichology</i>, Lusófona University (2022/2023)
