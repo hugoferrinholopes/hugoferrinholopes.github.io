@@ -10,22 +10,34 @@ redirect_from:
 
 Feel free to email me if you are unable to access any of the publications listed below.
 
+<style>
+  ol.continuous {
+    counter-reset: item;
+  }
   
+  ol.continuous li {
+    counter-increment: item;
+  }
+  
+  ol.continuous li::before {
+    content: counter(item) ". ";
+  }
+</style>
+
 ## Journal Articles
 
-* Ferrinho Lopes, Hugo (2024). [Radical right advance and party system change: the 2024 Portuguese snap elections](https://doi.org/10.1080/01402382.2024.2372752). <b><i>West European Politics</i></b>. DOI: 10.1080/01402382.2024.2372752.
-* Ferrinho Lopes, Hugo and Marco Lisi (2023). [Until another party do us part? Party members’ electoral disloyalty in Portugal](https://doi.org/10.1080/17457289.2023.2292675). <b><i>Journal of Elections, Public Opinion and Parties</i></b>. DOI: 10.1080/17457289.2023.2292675. 
-* Belchior, Ana. M., Hugo Ferrinho Lopes, Luís Cabrita, and Emmanouil Tsatsanis (2024). [Party policy responsiveness at the agenda-setting and decision-making stages: The mediating effect of the types of government and promise](https://journals.sagepub.com/doi/pdf/10.1177/01925121231155140). <b><i>International Political Science Review</i></b>, 45(3), 316-335. 
-* Ferrinho Lopes, Hugo (2023). [An unexpected Socialist majority: the 2022 Portuguese general elections](https://www.tandfonline.com/doi/pdf/10.1080/01402382.2022.2070983?casa_token=LcYisGvvnAgAAAAA:crAT_E-1iAN4OAOFmhm-S3WVaQplB5ayAlIESzTYBNLhh7yegYlg9JL5K7w0uOAvdUJYpASwsS0Lwg). <b><i>West European Politics</i></b>. 46(2), 437-450. 
-* Santana-Pereira, José, Hugo Ferrinho Lopes, and Susana Rogeiro Nina (2023). [Sailing Uncharted Waters with Old Boats: COVID-19 and the digitalization and professionalization of presidential campaigns in Portugal](https://www.mdpi.com/2076-0760/12/1/45). <b><i>Social Sciences</i></b>. 12(1), 45.
-* Nascimento, Andreia, and Hugo Ferrinho Lopes (2020). [How we have been productive when Coronavirus locked us out of University](https://repositorio.ul.pt/bitstream/10451/45557/1/ICS_ANascimento_How.pdf). <b><i>Fennia – International Journal of Geography</i></b>, 198(1–2), 243-246.
-* Freire, André, Luís Cabrita, Mariana Carmo Duarte, and Hugo Ferrinho Lopes (2017). [Workers’ EU political alignments during the Great Recession](https://journals.sagepub.com/doi/10.1177/1024258917696239). <b><i>Transfer: European Review of Labour and Research</i></b>, 23(4), 387-408. 
-  * Awards: Iscte-IUL Scientific Prize 
-
+<ol class="continuous">
+  <li>Ferrinho Lopes, Hugo (2024). <a href="https://doi.org/10.1080/01402382.2024.2372752">Radical right advance and party system change: the 2024 Portuguese snap elections</a>. <b><i>West European Politics</i></b>. DOI: 10.1080/01402382.2024.2372752.</li>
+  <li>Ferrinho Lopes, Hugo and Marco Lisi (2023). <a href="https://doi.org/10.1080/17457289.2023.2292675">Until another party do us part? Party members’ electoral disloyalty in Portugal</a>. <b><i>Journal of Elections, Public Opinion and Parties</i></b>. DOI: 10.1080/17457289.2023.2292675.</li>
+  <li>Belchior, Ana. M., Hugo Ferrinho Lopes, Luís Cabrita, and Emmanouil Tsatsanis (2024). <a href="https://journals.sagepub.com/doi/pdf/10.1177/01925121231155140">Party policy responsiveness at the agenda-setting and decision-making stages: The mediating effect of the types of government and promise</a>. <b><i>International Political Science Review</i></b>, 45(3), 316-335.</li>
+</ol>
 
 ## Books
 
-* Almeida, Luís Filipe Mota, Cláudia S. Costa, Noel Gomes, Hugo Ferrinho Lopes, and Tânia Maia (2023). <i>[A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude](https://www.aevst.com/wp-content/uploads/2023/10/Livro-Conselhos-Municipais-de-Juventude-1.pdf)</i>. Coimbra: ValorGlocal.
+<ol class="continuous">
+  <li>Almeida, Luís Filipe Mota, Cláudia S. Costa, Noel Gomes, Hugo Ferrinho Lopes, and Tânia Maia (2023). <i><a href="https://www.aevst.com/wp-content/uploads/2023/10/Livro-Conselhos-Municipais-de-Juventude-1.pdf">A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude</a></i>. Coimbra: ValorGlocal.</li>
+</ol>
+
   * Media coverage: [Jornal de Notícias](https://www.jn.pt/2122761049/metade-dos-municipios-nao-tem-conselho-municipal-da-juventude/)
 
 ## Book chapters
