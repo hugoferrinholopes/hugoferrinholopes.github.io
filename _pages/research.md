@@ -66,19 +66,25 @@ Feel free to email me if you are unable to access any of the publications listed
   In <i>Liberalismo. Da Teoria à Formação de Governos</i>, edited by Bruno F. Costa. (forthcoming). Lisbon: Alêtheia<br> 
   with Pedro Figueira<br>
   (autonomous chapter with the empirical strategy of the two chapters above)<br>
-* "[Método Comparativo](https://www.dropbox.com/scl/fi/0xgf0fd9gc2z6n7pjk80v/Cap.-M-todo-Comparativo-em-Ci-ncia-Pol-tica-rev.-HFL-LH-05-04-2023.pdf?rlkey=hwzct3f97scyk4p3orb1qdnaz&dl=0)"
+* "[Método Comparativo](https://www.dropbox.com/scl/fi/0xgf0fd9gc2z6n7pjk80v/Cap.-M-todo-Comparativo-em-Ci-ncia-Pol-tica-rev.-HFL-LH-05-04-2023.pdf?rlkey=hwzct3f97scyk4p3orb1qdnaz&dl=0)"<br>
   In <i>Manual de Métodos de Investigação em Ciência Política</i>, edited by Susana R. Nina, Pedro Silveira, João Terrenas, and Liliana Reis (pp. 37-59). (2024). Coimbra: Almedina<br>
   with Lea Heyne<br>
 * "[<i>Business as usual</i> ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/scl/fi/4nqlax0pmlvv7ntzaaqvz/2023-Chapter-Mundos-Sociais.pdf?rlkey=4xge3q048ov8ddjs5ruwdnawu&dl=0)"<br>
-  In <i>Da Austeridade à Pandemia. Portugal e a Europa Entre as Crises e as Inovações</i>, edited by André Freire, Guya Accornero, Viriato Queiroga, Maria Asensio, José Santana-Pereira, and Helena Belchior-Rocha (pp. 281-296). (2023). Lisbon: Mundos Sociais.<br>
+  In <i>Da Austeridade à Pandemia. Portugal e a Europa Entre as Crises e as Inovações</i>, edited by André Freire, Guya Accornero, Viriato Queiroga, Maria Asensio, José Santana-Pereira, and Helena Belchior-Rocha (pp. 281-296). (2023). Lisbon: Mundos Sociais<br>
   with José Santana Pereira and Susana R. Nina
 * "[A Produção Académica em Portugal](https://www.dropbox.com/scl/fi/fttp8exx8o54psl7q5x0z/2023-Chapter-OQD-ICS.pdf?rlkey=7fr7yzjgk60jbkn5qfco3rr6q&dl=0)"<br>
-  In <i>Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia</i>, edited by Marcelo Camerlo, David Pimenta, João Gabriel de Lima, and Lúcio Hanenberg (pp. 171-182). (2023). Lisbon: Imprensa de Ciências Sociais.<br>
+  In <i>Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia</i>, edited by Marcelo Camerlo, David Pimenta, João Gabriel de Lima, and Lúcio Hanenberg (pp. 171-182). (2023). Lisbon: Imprensa de Ciências Sociais<br>
   with Nelson Santos<br>
-* Costa, Bruno Ferreira, and Hugo Ferrinho Lopes (2022). "[Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d)". In <i>The Routledge Handbook of Nonprofit Communication</i>, edited by Gisela Gonçalves and Evandro Oliveira (pp. 142-149). London: Routledge.
-* Ferrinho Lopes, Hugo, and Alona Bondarenko (2022). "[The integration of the Eastern and Western Balkans into the EU and NATO. A longitudinal and integrated analysis](https://www.igi-global.com/chapter/the-integration-of-the-eastern-and-western-balkans-into-the-eu-and-nato/295606)". In <i>Challenges and Barriers to the European Union Expansion to the Balkan Region</i>, edited by Bruno F. Costa (pp. 135-152). Hershey: IGI Global.
+* "[Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d)"<br>
+  In <i>The Routledge Handbook of Nonprofit Communication</i>, edited by Gisela Gonçalves and Evandro Oliveira (pp. 142-149). (2022). London: Routledge<br>
+  with Bruno F. Costa<br>
+* "[The integration of the Eastern and Western Balkans into the EU and NATO. A longitudinal and integrated analysis](https://www.igi-global.com/chapter/the-integration-of-the-eastern-and-western-balkans-into-the-eu-and-nato/295606)"<br>
+  In <i>Challenges and Barriers to the European Union Expansion to the Balkan Region</i>, edited by Bruno F. Costa (pp. 135-152). Hershey: IGI Global<br>
+  with Alona Bondarenko<br
   * Awards: Stimulus and Recognition for Internationalization in the Social Sciences (ICS-ULisbon)
-* Silveira, Pedro, and Hugo Ferrinho Lopes (2020). "[Governo, segundo Marina Costa Lobo](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf)". In <i>Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas</i>, edited by Marcelo Camerlo, Andrés Malamud, and Raquel Vaz-Pinto (pp. 87-98). Lisbon: Imprensa de Ciências Sociais.
+* "[Governo, segundo Marina Costa Lobo](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf)"<br>
+  In <i>Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas</i>, edited by Marcelo Camerlo, Andrés Malamud, and Raquel Vaz-Pinto (pp. 87-98). (2020). Lisbon: Imprensa de Ciências Sociais<br>
+  with Pedro Silveira<br>
 
 
 ## Encyclopedia entries
