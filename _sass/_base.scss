@@ -14,7 +14,11 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  font-size: 14px; /* Adicionei um font-size ao body para ajustar o texto geral */
+
+  &.overflow--hidden {
+    /* when primary navigation is visible, the content in the background won't scroll */
+    overflow: hidden;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -26,36 +30,35 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-top: 0;
-  font-size: 1.75em; /* Diminuir o tamanho da fonte */
+  font-size: $type-size-2;
 }
 
 h2 {
-  font-size: 1.5em; /* Diminuir o tamanho da fonte */
+  font-size: $type-size-3;
 }
 
 h3 {
-  font-size: 1.25em; /* Diminuir o tamanho da fonte */
+  font-size: $type-size-4;
 }
 
 h4 {
-  font-size: 1em; /* Diminuir o tamanho da fonte */
+  font-size: $type-size-5;
 }
 
 h5 {
-  font-size: 1em; /* Diminuir o tamanho da fonte */
+  font-size: $type-size-5;
 }
 
 h6 {
-  font-size: 1em; /* Diminuir o tamanho da fonte */
+  font-size: $type-size-5;
 }
 
 small, .small {
-  font-size: 0.875em; /* Diminuir o tamanho da fonte */
+  font-size: $type-size-5;
 }
 
 p {
   margin-bottom: 1.3em;
-  font-size: 0.9em; /* Diminuir o tamanho da fonte dos parágrafos */
 }
 
 u,
@@ -64,19 +67,11 @@ ins {
   border-bottom: 1px solid $text-color;
   a {
     color: inherit;
-    font-size: 0.9em; /* Diminuir o tamanho da fonte */
   }
 }
 
 del a {
   color: inherit;
-  font-size: 0.9em; /* Diminuir o tamanho da fonte */
-}
-
-/* Ajuste para links e itálicos */
-a, em, i {
-  font-size: inherit; /* Garantir que o tamanho da fonte seja consistente */
-  line-height: inherit; /* Garantir que a altura da linha seja consistente */
 }
 
 /* reduce orphans and widows when printing */
@@ -84,7 +79,6 @@ a, em, i {
 p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
   orphans: 3;
   widows: 3;
-  font-size: 0.9em; /* Diminuir o tamanho da fonte */
 }
 
 /* abbreviations */
@@ -94,7 +88,6 @@ abbr[data-original-title] {
   text-decoration: none;
   cursor: help;
   border-bottom: 1px dotted $text-color;
-  font-size: 0.9em; /* Diminuir o tamanho da fonte */
 }
 
 /* blockquotes */
@@ -104,7 +97,6 @@ blockquote {
   padding-left: 1em;
   padding-right: 1em;
   font-style: italic;
-  font-size: 0.95em; /* Diminuir o tamanho da fonte */
   border-left: 0.25em solid $primary-color;
 
   cite {
@@ -120,7 +112,6 @@ blockquote {
 /* links */
 
 a {
-  font-size: 0.9em; /* Diminuir o tamanho da fonte */
   &:focus {
     @extend %tab-focus;
   }
@@ -131,11 +122,11 @@ a {
   }
 }
 
+
 /* code */
 
 tt, code, kbd, samp, pre {
   font-family: $monospace;
-  font-size: 0.875em; /* Diminuir o tamanho da fonte */
 }
 
 pre {
@@ -149,7 +140,7 @@ figcaption > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-  font-size: 0.85em; /* Diminuir o tamanho da fonte */
+  font-size: $type-size-5;
   background: $code-background-color;
   border: 1px solid $lighter-gray;
   border-radius: $border-radius;
@@ -175,7 +166,6 @@ hr {
 ul li,
 ol li {
   margin-bottom: 0.5em;
-  font-size: 0.9em; /* Diminuir o tamanho da fonte */
 }
 
 li ul,
@@ -198,7 +188,6 @@ figure {
           align-items: flex-start;
   flex-wrap: wrap;
   margin: 2em 0;
-  font-size: 0.9em; /* Diminuir o tamanho da fonte */
 
   img,
   iframe,
@@ -250,7 +239,7 @@ figcaption {
   margin-bottom: 0.5em;
   color: mix(#fff, $text-color, 25%);
   font-family: $caption-font-family;
-  font-size: 0.875em; /* Diminuir o tamanho da fonte */
+  font-size: $type-size-5;
 
   a {
     color: inherit;
@@ -266,11 +255,13 @@ figcaption {
   }
 }
 
+
 /* Fix IE9 SVG bug */
 
 svg:not(:root) {
   overflow: hidden;
 }
+
 
 /*
    Navigation lists
@@ -301,7 +292,6 @@ nav {
 
   a {
     text-decoration: none;
-    font-size: 0.9em; /* Diminuir o tamanho da fonte */
   }
 
   /* override white-space for nested lists */
@@ -323,5 +313,5 @@ nav {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
-  font-size: 0.9em; /* Diminuir o tamanho da fonte */
 }
+
