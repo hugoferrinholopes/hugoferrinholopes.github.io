@@ -12,11 +12,11 @@ Feel free to email me if you are unable to access any of the publications listed
 
 <style>
   ul {
-    padding-left: 20px; /* Diminua este valor para reduzir o espaçamento à esquerda */
+    padding-left: 15px; /* Diminua este valor para reduzir o espaçamento à esquerda */
   }
   
   ul li {
-    margin-left: -10px; /* Diminua este valor para reduzir o espaçamento à esquerda dos itens */
+    margin-left: -5px; /* Diminua este valor para reduzir o espaçamento à esquerda dos itens */
   }
 </style>
 
