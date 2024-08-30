@@ -10,6 +10,27 @@ redirect_from:
 
 Feel free to email me if you are unable to access any of the publications listed below.
 
+<style>
+  ol.continuous li::before {
+    content: counter(item) ". ";
+  }
+</style>
+
+## Journal Articles
+
+<ol class="continuous">
+  <li>Ferrinho Lopes, Hugo (2024). <a href="https://doi.org/10.1080/01402382.2024.2372752">Radical right advance and party system change: the 2024 Portuguese snap elections</a>. <b><i>West European Politics</i></b>. DOI: 10.1080/01402382.2024.2372752.</li>
+  <li>Ferrinho Lopes, Hugo and Marco Lisi (2023). <a href="https://doi.org/10.1080/17457289.2023.2292675">Until another party do us part? Party members’ electoral disloyalty in Portugal</a>. <b><i>Journal of Elections, Public Opinion and Parties</i></b>. DOI: 10.1080/17457289.2023.2292675.</li>
+  <li>Belchior, Ana. M., Hugo Ferrinho Lopes, Luís Cabrita, and Emmanouil Tsatsanis (2024). <a href="https://journals.sagepub.com/doi/pdf/10.1177/01925121231155140">Party policy responsiveness at the agenda-setting and decision-making stages: The mediating effect of the types of government and promise</a>. <b><i>International Political Science Review</i></b>, 45(3), 316-335.</li>
+</ol>
+
+## Books
+
+<ol class="continuous">
+  <li>Almeida, Luís Filipe Mota, Cláudia S. Costa, Noel Gomes, Hugo Ferrinho Lopes, and Tânia Maia (2023). <i><a href="https://www.aevst.com/wp-content/uploads/2023/10/Livro-Conselhos-Municipais-de-Juventude-1.pdf">A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude</a></i>. Coimbra: ValorGlocal.</li>
+</ol>
+
+
 ## Journal Articles
 
 * Ferrinho Lopes, Hugo (2024). [Radical right advance and party system change: the 2024 Portuguese snap elections](https://doi.org/10.1080/01402382.2024.2372752). <b><i>West European Politics</i></b>. DOI: 10.1080/01402382.2024.2372752.
