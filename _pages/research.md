@@ -55,44 +55,44 @@ Feel free to email me if you are unable to access any of the publications listed
     
 ## Book chapters
 
-* "[Partidos Políticos, Grupos de Cidadãos Eleitores e a Eleição de Jovens e Mulheres como Presidentes de Câmara Municipal](https://www.dropbox.com/scl/fi/quffmnopfq3qx3gtwwjk0/HFerrinhoLopes_Chapter_PartidosGCE_PCM.pdf?rlkey=t55ypdlxgd6qf5h5iiq2swnjw&dl=0)"<br>
+* [Partidos Políticos, Grupos de Cidadãos Eleitores e a Eleição de Jovens e Mulheres como Presidentes de Câmara Municipal](https://www.dropbox.com/scl/fi/quffmnopfq3qx3gtwwjk0/HFerrinhoLopes_Chapter_PartidosGCE_PCM.pdf?rlkey=t55ypdlxgd6qf5h5iiq2swnjw&dl=0)<br>
   In <i>Manual de Direito Municipal</i>, edited by Manuel F. Ramos, Tiago Serrão, and Luís F. M. Almeida. (forthcoming)<br> 
-* "[Famílias partidárias e executivos nacionais em seis democracias. Governos liberais em perspetiva comparada (2000-2020)](https://www.dropbox.com/scl/fi/hf44y9qdykj2nb09iu0ro/Cap-tulo-4.-HFL-v4-22-04-2023.pdf?rlkey=755p0lmrze7v393d4y7vzpgqr&dl=0)"<br> 
+* [Famílias partidárias e executivos nacionais em seis democracias. Governos liberais em perspetiva comparada (2000-2020)](https://www.dropbox.com/scl/fi/hf44y9qdykj2nb09iu0ro/Cap-tulo-4.-HFL-v4-22-04-2023.pdf?rlkey=755p0lmrze7v393d4y7vzpgqr&dl=0)<br> 
   In <i>Liberalismo. Da Teoria à Formação de Governos</i>, edited by Bruno F. Costa. (forthcoming). Lisbon: Alêtheia<br> 
-* "[Elites ministeriais e recrutamento de partidos liberais em seis democracias europeias (2000-2020)](https://www.dropbox.com/scl/fi/z17g0h2ywzdnowywkddy5/Cap-tulo-5.-HFL-PF-vf-22-04-2023.pdf?rlkey=xp6j91u7a8by0paju80bffbb9&dl=0)"<br>
+* [Elites ministeriais e recrutamento de partidos liberais em seis democracias europeias (2000-2020)](https://www.dropbox.com/scl/fi/z17g0h2ywzdnowywkddy5/Cap-tulo-5.-HFL-PF-vf-22-04-2023.pdf?rlkey=xp6j91u7a8by0paju80bffbb9&dl=0)<br>
   In <i>Liberalismo. Da Teoria à Formação de Governos</i>, edited by Bruno F. Costa. (forthcoming). Lisbon: Alêtheia<br> 
   with Pedro Figueira<br>
-* Ferrinho Lopes, Hugo, and Pedro Figueira (forthcoming). "[Opções metodológicas fundamentais](https://www.dropbox.com/scl/fi/3ncmdayno2j9lun5thwcw/Cap-tulo-metodol-gico-v9-22-04-2023.pdf?rlkey=l7y8zgnbhfpgd4k6ndgmn883k&dl=0)"<br>
+* Ferrinho Lopes, Hugo, and Pedro Figueira (forthcoming). [Opções metodológicas fundamentais](https://www.dropbox.com/scl/fi/3ncmdayno2j9lun5thwcw/Cap-tulo-metodol-gico-v9-22-04-2023.pdf?rlkey=l7y8zgnbhfpgd4k6ndgmn883k&dl=0)<br>
   In <i>Liberalismo. Da Teoria à Formação de Governos</i>, edited by Bruno F. Costa. (forthcoming). Lisbon: Alêtheia<br> 
   with Pedro Figueira<br>
   (autonomous chapter with the empirical strategy of the two chapters above)<br>
-* "[Método Comparativo](https://www.dropbox.com/scl/fi/0xgf0fd9gc2z6n7pjk80v/Cap.-M-todo-Comparativo-em-Ci-ncia-Pol-tica-rev.-HFL-LH-05-04-2023.pdf?rlkey=hwzct3f97scyk4p3orb1qdnaz&dl=0)"<br>
+* [Método Comparativo](https://www.dropbox.com/scl/fi/0xgf0fd9gc2z6n7pjk80v/Cap.-M-todo-Comparativo-em-Ci-ncia-Pol-tica-rev.-HFL-LH-05-04-2023.pdf?rlkey=hwzct3f97scyk4p3orb1qdnaz&dl=0)<br>
   In <i>Manual de Métodos de Investigação em Ciência Política</i>, edited by Susana R. Nina, Pedro Silveira, João Terrenas, and Liliana Reis (pp. 37-59). (2024). Coimbra: Almedina<br>
   with Lea Heyne<br>
-* "[<i>Business as usual</i> ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/scl/fi/4nqlax0pmlvv7ntzaaqvz/2023-Chapter-Mundos-Sociais.pdf?rlkey=4xge3q048ov8ddjs5ruwdnawu&dl=0)"<br>
+* [<i>Business as usual</i> ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/scl/fi/4nqlax0pmlvv7ntzaaqvz/2023-Chapter-Mundos-Sociais.pdf?rlkey=4xge3q048ov8ddjs5ruwdnawu&dl=0)<br>
   In <i>Da Austeridade à Pandemia. Portugal e a Europa Entre as Crises e as Inovações</i>, edited by André Freire, Guya Accornero, Viriato Queiroga, Maria Asensio, José Santana-Pereira, and Helena Belchior-Rocha (pp. 281-296). (2023). Lisbon: Mundos Sociais<br>
   with José Santana Pereira and Susana R. Nina
-* "[A Produção Académica em Portugal](https://www.dropbox.com/scl/fi/fttp8exx8o54psl7q5x0z/2023-Chapter-OQD-ICS.pdf?rlkey=7fr7yzjgk60jbkn5qfco3rr6q&dl=0)"<br>
+* [A Produção Académica em Portugal](https://www.dropbox.com/scl/fi/fttp8exx8o54psl7q5x0z/2023-Chapter-OQD-ICS.pdf?rlkey=7fr7yzjgk60jbkn5qfco3rr6q&dl=0)<br>
   In <i>Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia</i>, edited by Marcelo Camerlo, David Pimenta, João Gabriel de Lima, and Lúcio Hanenberg (pp. 171-182). (2023). Lisbon: Imprensa de Ciências Sociais<br>
   with Nelson Santos<br>
-* "[Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d)"<br>
+* [Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d)<br>
   In <i>The Routledge Handbook of Nonprofit Communication</i>, edited by Gisela Gonçalves and Evandro Oliveira (pp. 142-149). (2022). London: Routledge<br>
   with Bruno F. Costa<br>
-* "[The integration of the Eastern and Western Balkans into the EU and NATO. A longitudinal and integrated analysis](https://www.igi-global.com/chapter/the-integration-of-the-eastern-and-western-balkans-into-the-eu-and-nato/295606)"<br>
+* [The integration of the Eastern and Western Balkans into the EU and NATO. A longitudinal and integrated analysis](https://www.igi-global.com/chapter/the-integration-of-the-eastern-and-western-balkans-into-the-eu-and-nato/295606)<br>
   In <i>Challenges and Barriers to the European Union Expansion to the Balkan Region</i>, edited by Bruno F. Costa (pp. 135-152). Hershey: IGI Global<br>
   with Alona Bondarenko<br
   * Awards: Stimulus and Recognition for Internationalization in the Social Sciences (ICS-ULisbon)
-* "[Governo, segundo Marina Costa Lobo](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf)"<br>
+* [Governo, segundo Marina Costa Lobo](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf)<br>
   In <i>Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas</i>, edited by Marcelo Camerlo, Andrés Malamud, and Raquel Vaz-Pinto (pp. 87-98). (2020). Lisbon: Imprensa de Ciências Sociais<br>
   with Pedro Silveira<br>
 
 
 ## Encyclopedia entries
-* "Regime Support"<br>
+* Regime Support<br>
   In <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt<br>
   Cheltenham: Edward Elgar (forthcoming)<br>
   with Lúcio Hanenberg, David Pimenta, and Pedro C. Magalhães<br>
-* "Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives"<br>
+* Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives<br>
   In <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt<br>
   Cheltenham: Edward Elgar (forthcoming)<br>
   with Lúcio Hanenberg, David Pimenta, and Pedro C. Magalhães<br>
