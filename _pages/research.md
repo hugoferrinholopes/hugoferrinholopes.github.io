@@ -23,20 +23,25 @@ Feel free to email me if you are unable to access any of the publications listed
 
 ## Journal Articles
 
-* [Radical right advance and party system change: the 2024 Portuguese snap elections](https://doi.org/10.1080/01402382.2024.2372752).<br>
-  <b><i>West European Politics</i></b>. Online First. DOI: 10.1080/01402382.2024.2372752<br>
-* [Until another party do us part? Party members’ electoral disloyalty in Portugal](https://doi.org/10.1080/17457289.2023.2292675).<br>
-  <b><i>Journal of Elections, Public Opinion and Parties</i></b>. (with Marco Lisi). Online First. DOI: 10.1080/17457289.2023.2292675.
+* [Radical right advance and party system change: the 2024 Portuguese snap elections](https://doi.org/10.1080/01402382.2024.2372752)<br>
+  <b><i>West European Politics</i></b> (Online First)<br>
+* [Until another party do us part? Party members’ electoral disloyalty in Portugal](https://doi.org/10.1080/17457289.2023.2292675)<br>
+  <b><i>Journal of Elections, Public Opinion and Parties</i></b> (Online First)<br>
+  with Marco Lisi<br>
 * [Party policy responsiveness at the agenda-setting and decision-making stages: The mediating effect of the types of government and promise](https://journals.sagepub.com/doi/pdf/10.1177/01925121231155140)<br>
-  <b><i>International Political Science Review</i></b> (2024), 45(3), 316-335. (with Ana M. Belchior, Luís Cabrita, and Emmanouil Tsatsanis).<br> 
+  <b><i>International Political Science Review</i></b> (2024)<br> 
+  with Ana M. Belchior, Luís Cabrita, and Emmanouil Tsatsanis<br> 
 * [An unexpected Socialist majority: the 2022 Portuguese general elections](https://www.tandfonline.com/doi/pdf/10.1080/01402382.2022.2070983?casa_token=LcYisGvvnAgAAAAA:crAT_E-1iAN4OAOFmhm-S3WVaQplB5ayAlIESzTYBNLhh7yegYlg9JL5K7w0uOAvdUJYpASwsS0Lwg)<br>
-  <b><i>West European Politics</i></b> (2023), 46(2), 437-450.<br>
+  <b><i>West European Politics</i></b> (2023)<br>
 * [Sailing Uncharted Waters with Old Boats: COVID-19 and the digitalization and professionalization of presidential campaigns in Portugal](https://www.mdpi.com/2076-0760/12/1/45)<br>
-  <b><i>Social Sciences</i></b> (2023), 12(1), 45. (with José Santana-Pereira and Susana Rogeiro Nina)<br>
+  <b><i>Social Sciences</i></b> (2023)<br>
+  with José Santana-Pereira and Susana Rogeiro Nina<br>
 * [How we have been productive when Coronavirus locked us out of University](https://repositorio.ul.pt/bitstream/10451/45557/1/ICS_ANascimento_How.pdf)<br>
-  <b><i>Fennia – International Journal of Geography</i></b> (2020), 198(1-2), 243–246. (with Andreia Nascimento).<br>
-* [Workers’ EU political alignments during the Great Recession](https://journals.sagepub.com/doi/10.1177/1024258917696239).<br>
-  <b><i>Transfer: European Review of Labour and Research</i></b> (2017), 23(4), 387-408. (with André Freire, Luís Cabrita, and Mariana Carmo Duarte).
+  <b><i>Fennia – International Journal of Geography</i></b> (2020)<br>
+  with Andreia Nascimento<br>
+* [Workers’ EU political alignments during the Great Recession](https://journals.sagepub.com/doi/10.1177/1024258917696239)<br>
+  <b><i>Transfer: European Review of Labour and Research</i></b> (2017)<br>
+  with André Freire, Luís Cabrita, and Mariana Carmo Duarte
   * Awards: Iscte-IUL Scientific Prize 
 
 
