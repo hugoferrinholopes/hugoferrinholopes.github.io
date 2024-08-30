@@ -8,19 +8,23 @@ redirect_from:
   - /publications/
 ---
 
+
 Feel free to email me if you are unable to access any of the publications listed below.
 
 <style>
+  /* Reset counter only at the beginning of the document */
   ol.continuous {
-    counter-reset: item;
+    counter-reset: section;
   }
-  
+
+  /* Increment counter across lists */
   ol.continuous li {
-    counter-increment: item;
+    counter-increment: section;
   }
-  
+
+  /* Apply the counter to list items */
   ol.continuous li::before {
-    content: counter(item) ". ";
+    content: counter(section) ". ";
   }
 </style>
 
