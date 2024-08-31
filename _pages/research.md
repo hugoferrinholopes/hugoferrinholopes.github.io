@@ -73,7 +73,7 @@ Feel free to email me if you are unable to access any of the publications listed
   In <i>Da Austeridade à Pandemia. Portugal e a Europa Entre as Crises e as Inovações</i>, edited by André Freire, Guya Accornero, Viriato Queiroga, Maria Asensio, José Santana-Pereira, and Helena Belchior-Rocha (pp. 281-296). Lisbon: Mundos Sociais<br>
 * [A Produção Académica em Portugal](https://www.dropbox.com/scl/fi/fttp8exx8o54psl7q5x0z/2023-Chapter-OQD-ICS.pdf?rlkey=7fr7yzjgk60jbkn5qfco3rr6q&dl=0)<br>
   with Nelson Santos<br>
-  In <i>Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia</i>, edited by Marcelo Camerlo, David Pimenta, João Gabriel de Lima, and Lúcio Hanenberg (pp. 171-182). Lisbon: Imprensa de Ciências Sociais<br>
+  In <i>Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia</i>, edited by Marcelo Camerlo, David Pimenta, João Gabriel de Lima, and Lúcio Hanenberg (pp. 171-182). Lisbon: ICS<br>
 * [Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d)<br>
   with Bruno F. Costa<br>
   In <i>The Routledge Handbook of Nonprofit Communication</i>, edited by Gisela Gonçalves and Evandro Oliveira (pp. 142-149). London: Routledge<br>
@@ -83,7 +83,7 @@ Feel free to email me if you are unable to access any of the publications listed
   * Awards: Stimulus and Recognition for Internationalization in the Social Sciences (ICS-ULisbon)
 * [Governo, segundo Marina Costa Lobo](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf)<br>
   with Pedro Silveira<br>
-  In <i>Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas</i>, edited by Marcelo Camerlo, Andrés Malamud, and Raquel Vaz-Pinto (pp. 87-98). Lisbon: Imprensa de Ciências Sociais<br>
+  In <i>Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas</i>, edited by Marcelo Camerlo, Andrés Malamud, and Raquel Vaz-Pinto (pp. 87-98). Lisbon: ICS<br>
 
 
 ## Encyclopedia entries
