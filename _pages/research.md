@@ -135,7 +135,7 @@ Feel free to email me if you are unable to access any of the publications listed
   *Observatório Político*, 76 (2017)<br>
 * [Os conceitos de liberdade e segurança em Thomas Hobbes: conjunção ou disjunção?](http://www.observatoriopolitico.pt/wp-content/uploads/2016/03/WP_59_HFL.pdf)<br>
   *Observatório Político*, 59 (2016)<br>
-* [As Virtudes do Homem Bom. Um paralelismo entre Platão e Aristóteles](http://www.lusosofia.net/textos/20140517-lopes_hugo_2014_virtudes_homem_bom.pdf)<br>
+* [As Virtudes do Homem Bom. Um paralelismo entre Platão e Aristóteles](https://lusosofia.ubi.pt/textos/20140517-lopes_hugo_2014_virtudes_homem_bom.pdf)<br>
   *LusoSofia* (2014)<br>
 
 
