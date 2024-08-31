@@ -45,7 +45,7 @@ author_profile: true
 
 - Election campaigns in a context without a mediator<br>
   Post-graduation in Digital Politics (invited by Susana Rogeiro Nina)<br>
-  Lusofona University. (16/05/2024)v
+  Lusofona University. (16/05/2024)
 - The end of the <i>'de facto'</i> two-party system in Portugal<br>
   BA in Politics, Economics and Society (invited by Tiago Carvalho)<br>
   Iscte-Sintra, University Institute of Lisbon, Portugal. (03/05/2024).
@@ -57,30 +57,50 @@ author_profile: true
   University of Beira Interior, Online (23/10/2023<br>
 - Political parties and citizen electoral groups<br>
   Short course on Municipal Law (invited by Luís F. Mota Almeida, Tiago Serrão, and Manuel Ferreira Ramos)<br>
-  Coimbra Business School (with the National Association of Municipal Assemblies and Center for the Valorization of Local Elected Representatives), Online. (17/10/2023)<br>
+  Coimbra Business School, Online. (17/10/2023)<br>
 - The political system of the United Kingdom<br>
   BA in Political Science and International Relations (invited by Vinicius Albernaz)<br>
-  University of Beira Interior. (03/03/2023)
+  University of Beira Interior. (03/03/2023)<br>
 - Comparison as a method of political research<br>
   BA in Political Science and International Relations (invited by Susana R. Nina)<br>
-  Lusófona University. (10/11/2022)
+  Lusófona University. (10/11/2022)<br>
 - Second-order elections and the EU's transnational constituency<br>
   Msc in International Studies (invited by Sabrina Cavatorto)<br>
   University of Siena, Italy. (26/05/2022)<br>
 - Comparative Politics<br>
-<br>  Msc in International Studies (invited by Francesco Marangoni)
-<br>University of Siena, Italy. (25/05/2022)
-   Constraining dissensus and the EU's democratic deficit Msc in International Studies (invited by Sabrina Cavatorto), University of Siena, Italy. (24/05/2022).
-- The Portuguese political system in comparative perspective BA in Political Science (invited by Paolo Bellucci), University of Siena, Italy. (23/05/2022).
-- Electoral system reform at the national and regional levels in Portugal BA in Political Science and International Relations (invited by Susana Rogeiro Nina), Lusófona University. (12/01/2021).
-- Business as usual or a new normal? Presidential campaigns amid a pandemic crisis in Portugal Msc in Political Science (invited by José Santana-Pereira), Iscte-University Institute of Lisbon. (09/11/2021).
-- Hypotheses and Causal Inference Msc in International Relations (invited by Guilherme Marques Pedro), University of Beira Interior. (27/05/2020).
-- Statistical and Experimental Methods BA in Political Science and International Relations (invited by Pedro Silveira), University of Beira Interior. (08/05/2020).
-- Member-party ideological incongruence in Portugal Msc in Political Science (invited by Ana M. Belchior), Iscte-University Institute of Lisbon. (03/03/2020).
+  Msc in International Studies (invited by Francesco Marangoni)<br>
+  University of Siena, Italy. (25/05/2022)<br>
+- Constraining dissensus and the EU's democratic deficit<br>
+  Msc in International Studies (invited by Sabrina Cavatorto)<br>
+  University of Siena, Italy. (24/05/2022)<br>
+- The Portuguese political system in comparative perspective<br>
+  BA in Political Science (invited by Paolo Bellucci)<br>
+  University of Siena, Italy. (23/05/2022)<br>
+- Electoral system reform at the national and regional levels in Portugal<br>
+  BA in Political Science and International Relations (invited by Susana Rogeiro Nina)<br>
+  Lusófona University. (12/01/2021)<br>
+- Business as usual or a new normal? Presidential campaigns amid a pandemic crisis in Portugal<br>
+  Msc in Political Science (invited by José Santana-Pereira)<br>
+  Iscte-University Institute of Lisbon. (09/11/2021)<br>
+- Hypotheses and Causal Inference<br>
+  Msc in International Relations (invited by Guilherme Marques Pedro)<br>
+  University of Beira Interior. (27/05/2020)<br>
+- Statistical and Experimental Methods<br>
+  BA in Political Science and International Relations (invited by Pedro Silveira)<br>
+  University of Beira Interior. (08/05/2020)<br>
+- Member-party ideological incongruence in Portugal<br>
+  Msc in Political Science (invited by Ana M. Belchior)<br>
+  Iscte-University Institute of Lisbon. (03/03/2020)<br>
 
 
-## Supervision
+## Co-supervision of master students
 
-- Eduardo Bonifácio, master thesis, co-supervisor (with Adriana Oliveira as supervisor). Porto Accounting and Business School (ISCAP). Expected 2024.
-- Diana Sousa Cordeiro, master internship report, co-supervisor (with Sofia Serra-Silva as supervisor and Pedro Silveira as co-supervisor). University of Beira Interior. Finished 2023.
-- Hilma Raquel Rodríguez Lopes, master thesis, co-supervisor (with Liliana Reis as supervisor). University of Beira Interior. Finished 2022.
+- Eduardo Bonifácio <br>
+  (with Adriana Oliveira as supervisor)<br>
+  Porto Accounting and Business School (ISCAP)<br>
+- Diana Sousa Cordeiro (finished in 2023) <br>
+  (with Sofia Serra-Silva as supervisor and Pedro Silveira as co-supervisor)<br>
+  University of Beira Interior <br>
+- Hilma Raquel Rodríguez Lopes (finished in 2022) <br>
+  (with Liliana Reis as supervisor)<br>
+  University of Beira Interior <br>
