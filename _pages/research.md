@@ -74,12 +74,12 @@ Feel free to email me if you are unable to access any of the publications listed
 * [Método Comparativo](https://www.dropbox.com/scl/fi/0xgf0fd9gc2z6n7pjk80v/Cap.-M-todo-Comparativo-em-Ci-ncia-Pol-tica-rev.-HFL-LH-05-04-2023.pdf?rlkey=hwzct3f97scyk4p3orb1qdnaz&dl=0) (2024) <br>
   with <a href="https://www.ics.ulisboa.pt/en/pessoa/lea-heyne" style="color: inherit; text-decoration: none;">Lea Heyne</a><br>
   In <i>Manual de Métodos de Investigação em Ciência Política</i><br>
-  edited by <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a>, <a href="https://cienciavitae.pt/9F10-1005-AA57" style="color: inherit; text-decoration: none;">Pedro Silveira</a>, João Terrenas, and Liliana Reis<br>
+  edited by <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a>, <a href="https://cienciavitae.pt/9F10-1005-AA57" style="color: inherit; text-decoration: none;">Pedro Silveira</a>, <a href="https://cienciavitae.pt/DE11-9968-0814" style="color: inherit; text-decoration: none;">João Terrenas</a>, and <a href="https://ipri.unl.pt/images/investigadores/cvs/2024/cv_Liliana_Reis_2024.pdf" style="color: inherit; text-decoration: none;">Liliana Reis</a><br>
   Coimbra, Almedina<br>
 * [Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d) (2023) <br>
   with <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
   In <i>Routledge Handbook of Nonprofit Communication</i><br>
-  edited by Gisela Gonçalves and Evandro Oliveira<br>
+  edited by <a href="https://cienciavitae.pt/A313-615F-1256" style="color: inherit; text-decoration: none;">Gisela Gonçalves</a> and <a href="https://orcid.org/0000-0001-8974-4214" style="color: inherit; text-decoration: none;">Evandro Oliveira</a><br>
   London, Routledge<br>
 * [<i>Business as usual</i> ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/scl/fi/4nqlax0pmlvv7ntzaaqvz/2023-Chapter-Mundos-Sociais.pdf?rlkey=4xge3q048ov8ddjs5ruwdnawu&dl=0) (2023) <br>
   with <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana Pereira</a> and <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a><br>
