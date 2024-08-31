@@ -69,7 +69,7 @@ Feel free to email me if you are unable to access any of the publications listed
   with Lea Heyne<br>
   In <i>Manual de Métodos de Investigação em Ciência Política</i>, edited by Susana R. Nina, Pedro Silveira, João Terrenas, and Liliana Reis (pp. 37-59). Coimbra: Almedina<br>
 * [<i>Business as usual</i> ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/scl/fi/4nqlax0pmlvv7ntzaaqvz/2023-Chapter-Mundos-Sociais.pdf?rlkey=4xge3q048ov8ddjs5ruwdnawu&dl=0)<br>
-  with José Santana Pereira and Susana R. Nina
+  with José Santana Pereira and Susana R. Nina<br>
   In <i>Da Austeridade à Pandemia. Portugal e a Europa Entre as Crises e as Inovações</i>, edited by André Freire, Guya Accornero, Viriato Queiroga, Maria Asensio, José Santana-Pereira, and Helena Belchior-Rocha (pp. 281-296). Lisbon: Mundos Sociais<br>
 * [A Produção Académica em Portugal](https://www.dropbox.com/scl/fi/fttp8exx8o54psl7q5x0z/2023-Chapter-OQD-ICS.pdf?rlkey=7fr7yzjgk60jbkn5qfco3rr6q&dl=0)<br>
   with Nelson Santos<br>
@@ -78,7 +78,7 @@ Feel free to email me if you are unable to access any of the publications listed
   with Bruno F. Costa<br>
   In <i>The Routledge Handbook of Nonprofit Communication</i>, edited by Gisela Gonçalves and Evandro Oliveira (pp. 142-149). London: Routledge<br>
 * [The integration of the Eastern and Western Balkans into the EU and NATO. A longitudinal and integrated analysis](https://www.igi-global.com/chapter/the-integration-of-the-eastern-and-western-balkans-into-the-eu-and-nato/295606)<br>
-  with Alona Bondarenko<br
+  with Alona Bondarenko<br>
   In <i>Challenges and Barriers to the European Union Expansion to the Balkan Region</i>, edited by Bruno F. Costa (pp. 135-152). Hershey: IGI Global<br>
   * Awards: Stimulus and Recognition for Internationalization in the Social Sciences (ICS-ULisbon)
 * [Governo, segundo Marina Costa Lobo](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf)<br>
@@ -88,8 +88,8 @@ Feel free to email me if you are unable to access any of the publications listed
 
 ## Encyclopedia entries
 * Regime Support<br>
-  In <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt<br>
   with Lúcio Hanenberg, David Pimenta, and Pedro C. Magalhães<br>
+  In <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt<br>
 * Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives<br>
   with David Pimenta, Lúcio Hanenberg, and Pedro C. Magalhães<br>
   In <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt<br>
@@ -98,10 +98,10 @@ Feel free to email me if you are unable to access any of the publications listed
   
 ## Briefs and Reports
 
-* <i>[Ciência Política Portuguesa. Evolução e caraterísticas da produção científica indexada](https://oqd.ics.ulisboa.pt/webwp/wp-content/uploads/2023/01/2023-Research-Brief-OQD-1.pdf)</i> (Research Brief)<br>
+* [Ciência Política Portuguesa. Evolução e caraterísticas da produção científica indexada](https://oqd.ics.ulisboa.pt/webwp/wp-content/uploads/2023/01/2023-Research-Brief-OQD-1.pdf) (Research Brief)<br>
   with Susana R. Nina, Nelson Santos, and Lúcio Hanenberg<br>
   Lisbon: Permanent Youth Observatory of ICS-ULisboa<br>
-* <i>[Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf)</i> (Research Brief)<br>
+* [Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf) (Research Brief)<br>
   with Pedro Silveira and António H. Lopes<br>
   Lisbon: Permanent Youth Observatory of ICS-ULisboa<br>
   * Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
