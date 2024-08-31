@@ -60,48 +60,48 @@ Feel free to email me if you are unable to access any of the publications listed
 * [Famílias partidárias e executivos nacionais em seis democracias. Governos liberais em perspetiva comparada](https://www.dropbox.com/scl/fi/hf44y9qdykj2nb09iu0ro/Cap-tulo-4.-HFL-v4-22-04-2023.pdf?rlkey=755p0lmrze7v393d4y7vzpgqr&dl=0) (forthcoming) <br> 
   In *Liberalismo. Da Teoria à Formação de Governos*<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
-  Lisbon, Alêtheia<br> 
+  Alêtheia, Lisbon<br> 
 * [Elites ministeriais e recrutamento de partidos liberais em seis democracias europeias](https://www.dropbox.com/scl/fi/z17g0h2ywzdnowywkddy5/Cap-tulo-5.-HFL-PF-vf-22-04-2023.pdf?rlkey=xp6j91u7a8by0paju80bffbb9&dl=0) (forthcoming) <br>
   with Pedro Figueira<br>
   In *Liberalismo. Da Teoria à Formação de Governos*<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
-  Lisbon, Alêtheia<br> 
+  Alêtheia, Lisbon<br> 
 * [Opções metodológicas fundamentais](https://www.dropbox.com/scl/fi/3ncmdayno2j9lun5thwcw/Cap-tulo-metodol-gico-v9-22-04-2023.pdf?rlkey=l7y8zgnbhfpgd4k6ndgmn883k&dl=0) (forthcoming) <br>
   with Pedro Figueira<br>
   In *Liberalismo. Da Teoria à Formação de Governos*<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
-  Lisbon, Alêtheia<br> 
+  Alêtheia, Lisbon<br> 
 * [Método Comparativo](https://www.dropbox.com/scl/fi/0xgf0fd9gc2z6n7pjk80v/Cap.-M-todo-Comparativo-em-Ci-ncia-Pol-tica-rev.-HFL-LH-05-04-2023.pdf?rlkey=hwzct3f97scyk4p3orb1qdnaz&dl=0) (2024) <br>
   with <a href="https://www.ics.ulisboa.pt/en/pessoa/lea-heyne" style="color: inherit; text-decoration: none;">Lea Heyne</a><br>
   In *Manual de Métodos de Investigação em Ciência Política*<br>
   edited by <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a>, <a href="https://cienciavitae.pt/9F10-1005-AA57" style="color: inherit; text-decoration: none;">Pedro Silveira</a>, <a href="https://cienciavitae.pt/DE11-9968-0814" style="color: inherit; text-decoration: none;">João Terrenas</a>, and <a href="https://ipri.unl.pt/images/investigadores/cvs/2024/cv_Liliana_Reis_2024.pdf" style="color: inherit; text-decoration: none;">Liliana Reis</a><br>
-  Coimbra, Almedina<br>
+  Almedina, Coimbra<br>
 * [Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d) (2023) <br>
   with <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
   In *Routledge Handbook of Nonprofit Communication*<br>
   edited by <a href="https://cienciavitae.pt/A313-615F-1256" style="color: inherit; text-decoration: none;">Gisela Gonçalves</a> and <a href="https://orcid.org/0000-0001-8974-4214" style="color: inherit; text-decoration: none;">Evandro Oliveira</a><br>
-  London, Routledge<br>
+  Routledge, New York<br>
 * [*Business as usual* ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/scl/fi/4nqlax0pmlvv7ntzaaqvz/2023-Chapter-Mundos-Sociais.pdf?rlkey=4xge3q048ov8ddjs5ruwdnawu&dl=0) (2023) <br>
   with <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana Pereira</a> and <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a><br>
   In *Da Austeridade à Pandemia. Portugal e a Europa Entre as Crises e as Inovações*<br>
   edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, <a href="https://ciencia.iscte-iul.pt/authors/guya-accornero/cv" style="color: inherit; text-decoration: none;">Guya Accornero</a>, Viriato Queiroga, Maria Asensio, <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana-Pereira</a>, and Helena Belchior-Rocha<br>
-  Lisbon, Mundos Sociais<br>
+  Mundos Sociais, Lisbon<br>
 * [A Produção Académica em Portugal](https://www.dropbox.com/scl/fi/fttp8exx8o54psl7q5x0z/2023-Chapter-OQD-ICS.pdf?rlkey=7fr7yzjgk60jbkn5qfco3rr6q&dl=0) (2023) <br>
   with Nelson Santos<br>
   In *Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia*<br>
   edited by <a href="https://scholar.google.pt/citations?user=3I08FWoAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Marcelo Camerlo</a>, David Pimenta, João Gabriel de Lima, and Lúcio Hanenberg<br>
-  Lisbon, ICS<br>
+  Imprensa de Ciências Sociais, Lisbon<br>
 * [The integration of the Eastern and Western Balkans into the EU and NATO. A longitudinal and integrated analysis](https://www.igi-global.com/chapter/the-integration-of-the-eastern-and-western-balkans-into-the-eu-and-nato/295606) (2022) <br>
   with Alona Bondarenko<br>
   In *Challenges and Barriers to the European Union Expansion to the Balkan Region*<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
-  Hershey, IGI Global<br>
+  IGI Global, Hershey<br>
     * Awards: ERICS (ICS-ULisbon)
 * [Governo, segundo Marina Costa Lobo](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf) (2020) <br>
   with <a href="https://cienciavitae.pt/9F10-1005-AA57" style="color: inherit; text-decoration: none;">Pedro Silveira</a><br>
   In *Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas*<br>
   edited by <a href="https://scholar.google.pt/citations?user=3I08FWoAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Marcelo Camerlo</a>, <a href="https://www.ics.ulisboa.pt/en/pessoa/andres-malamud" style="color: inherit; text-decoration: none;">Andrés Malamud</a>, and Raquel Vaz-Pinto<br>
-  Lisbon, ICS<br>
+  Imprensa de Ciências Sociais, Lisbon<br>
 
 
 ## Encyclopedia entries
@@ -109,12 +109,12 @@ Feel free to email me if you are unable to access any of the publications listed
   with Lúcio Hanenberg, David Pimenta, and <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
   In *Elgar Encyclopedia of Political Representation*<br>
   edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a><br>
-  Cheltenham, Edward Elgar<br>
+  Edward Elgar, Cheltenham<br>
 * Growing citizens’ tolerance *vis-à-vis* authoritarian alternatives (forthcoming)<br>
   with David Pimenta, Lúcio Hanenberg, and <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
   In *Elgar Encyclopedia of Political Representation*<br>
   edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a><br>
-  Cheltenham, Edward Elgar<br>
+  Edward Elgar, Cheltenham<br>
 
   
 ## Briefs and Reports
