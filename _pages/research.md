@@ -48,8 +48,7 @@ Feel free to email me if you are unable to access any of the publications listed
 ## Books
 
 * <i>[A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude](https://www.aevst.com/wp-content/uploads/2023/10/Livro-Conselhos-Municipais-de-Juventude-1.pdf)</i><br>
-  with Luís F. M. Almeida, Cláudia S. Costa, Noel Gomes, and Tânia Maia<br>
-  ValorGlocal<br>
+  with Luís F. M. Almeida, Cláudia S. Costa, Noel Gomes, and Tânia Maia. Coimbra: ValorGlocal<br>
   * Media coverage: [Jornal de Notícias](https://www.jn.pt/2122761049/metade-dos-municipios-nao-tem-conselho-municipal-da-juventude/)
  
     
