@@ -110,19 +110,20 @@ Feel free to email me if you are unable to access any of the publications listed
 ## Other
 
 * [Salazarismo: autoritarismo ou fascismo? A União Nacional em perspectiva organizacional e comparativa](http://www.observatoriopolitico.pt/wp-content/uploads/2017/11/WP_76_HL.pdf)<br>
-  <i>Observatório Político</i>, 76, 1-17.<br>
+  <i>Observatório Político</i>, 76<br>
 * [Os conceitos de liberdade e segurança em Thomas Hobbes: conjunção ou disjunção?](http://www.observatoriopolitico.pt/wp-content/uploads/2016/03/WP_59_HFL.pdf)<br>
-  <i>Observatório Político</i>, 59, 1-12.<br>
+  <i>Observatório Político</i>, 59<br>
 * [As Virtudes do Homem Bom. Um paralelismo entre Platão e Aristóteles](http://www.lusosofia.net/textos/20140517-lopes_hugo_2014_virtudes_homem_bom.pdf)<br>
-  <i>LusoSofia</i>, 1-34.<br>
+  <i>LusoSofia</i><br>
 
 
 
+
+
+# Working Papers
+- Moving online? The use of web surveys in political science research (2005-2019). (with <a href="https://doi.org/10.1080/01402382.2024.2372752" style="color: inherit; text-decoration: none;">[Ana M. Belchior](https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv)</a>, Viriato Queiroga and Ana Rezende-Matias)
 
 <!---
-# Working Papers
-- Moving online? The use of web surveys in political science research (2005-2019). (with [Ana M. Belchior](https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv), Viriato Queiroga and Ana Rezende-Matias)
-
 # Work in Progress
 - Perception of poll results and strategic voting. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [Susana R. Nina](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
 - Political party ethics self-regulation. (with [Luís de Sousa](https://www.ics.ulisboa.pt/pessoa/luis-de-sousa), [Fernando Casal Bertoa](https://whogoverns.eu/biography/) and [Lúcio Hanenberg](https://www.ics.ulisboa.pt/pessoa/lucio-hanenberg))
