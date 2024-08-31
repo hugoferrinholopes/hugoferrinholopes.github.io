@@ -40,7 +40,7 @@ Feel free to email me if you are unable to access any of the publications listed
   with Andreia Nascimento<br>
   <b><i>Fennia – International Journal of Geography</i></b><br>
 * [Workers’ EU political alignments during the Great Recession](https://journals.sagepub.com/doi/10.1177/1024258917696239)<br>
-  with André Freire, Luís Cabrita, and Mariana Carmo Duarte
+  with André Freire, Luís Cabrita, and Mariana Carmo Duarte<br>
   <b><i>Transfer: European Review of Labour and Research</i></b><br>
   * Awards: Iscte-IUL Scientific Prize 
 
