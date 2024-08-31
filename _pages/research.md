@@ -37,8 +37,8 @@ Feel free to email me if you are unable to access any of the publications listed
   ***Social Sciences*** (2023)<br>
   with <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana-Pereira</a> and <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a><br>
 * [How we have been productive when Coronavirus locked us out of University](https://repositorio.ul.pt/bitstream/10451/45557/1/ICS_ANascimento_How.pdf)<br>
-  with Andreia Nascimento<br>
   ***Fennia – International Journal of Geography*** (2020)<br>
+  with Andreia Nascimento<br>
 * [Workers’ EU political alignments during the Great Recession](https://journals.sagepub.com/doi/10.1177/1024258917696239)<br>
   ***Transfer: European Review of Labour and Research*** (2017)<br>
   with <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, Luís Cabrita, and <a href="https://marianacarmoduarte.github.io/" style="color: inherit; text-decoration: none;">Mariana Carmo Duarte</a><br>
