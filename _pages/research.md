@@ -106,26 +106,26 @@ Feel free to email me if you are unable to access any of the publications listed
 
 
 ## Encyclopedia entries
-* Regime Support (forthcoming)<br>
+* Regime Support<br>
   with Lúcio Hanenberg, David Pimenta, and <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
   In *Elgar Encyclopedia of Political Representation*<br>
   edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a><br>
-  Edward Elgar, Cheltenham<br>
-* Growing citizens’ tolerance *vis-à-vis* authoritarian alternatives (forthcoming)<br>
+  Edward Elgar, Cheltenham (forthcoming)<br>
+* Growing citizens’ tolerance *vis-à-vis* authoritarian alternatives<br>
   with David Pimenta, Lúcio Hanenberg, and <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
   In *Elgar Encyclopedia of Political Representation*<br>
   edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a><br>
-  Edward Elgar, Cheltenham<br>
+  Edward Elgar, Cheltenham (forthcoming)<br>
 
   
 ## Briefs and Reports
 
-* [Ciência Política Portuguesa. Evolução e caraterísticas da produção científica indexada](https://oqd.ics.ulisboa.pt/webwp/wp-content/uploads/2023/01/2023-Research-Brief-OQD-1.pdf) (2023)<br>
+* [Ciência Política Portuguesa. Evolução e caraterísticas da produção científica indexada](https://oqd.ics.ulisboa.pt/webwp/wp-content/uploads/2023/01/2023-Research-Brief-OQD-1.pdf)<br>
   with <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a>, Nelson Santos, and Lúcio Hanenberg<br>
-  Lisbon, <a href="https://oqd.ics.ulisboa.pt/" style="color: inherit; text-decoration: none;">Observatory of the Quality of Democracy</a><br>
-* [Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf) (2021)<br>
+  Lisbon, <a href="https://oqd.ics.ulisboa.pt/" style="color: inherit; text-decoration: none;">Observatory of the Quality of Democracy</a> (2023)<br>
+* [Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf)<br>
   with <a href="https://cienciavitae.pt/9F10-1005-AA57" style="color: inherit; text-decoration: none;">Pedro Silveira</a> and António H. Lopes<br>
-  Lisbon, <a href="https://www.opj.ics.ulisboa.pt/" style="color: inherit; text-decoration: none;">Permanent Youth Observatory</a><br>
+  Lisbon, <a href="https://www.opj.ics.ulisboa.pt/" style="color: inherit; text-decoration: none;">Permanent Youth Observatory</a> (2021)<br>
   * Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
 
 
