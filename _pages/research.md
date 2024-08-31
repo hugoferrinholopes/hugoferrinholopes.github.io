@@ -26,7 +26,7 @@ Feel free to email me if you are unable to access any of the publications listed
 * [Radical right advance and party system change: the 2024 Portuguese snap elections](https://doi.org/10.1080/01402382.2024.2372752) (forthcoming) <br>
   <b><i>West European Politics</i></b><br>
 * [Until another party do us part? Party members’ electoral disloyalty in Portugal](https://doi.org/10.1080/17457289.2023.2292675) (forthcoming) <br>
-  with Marco Lisi<br>
+  with <a href="https://scholar.google.pt/citations?user=pOoSmM4AAAAJ&hl=pt-PT" style="color: inherit; text-decoration: none;">Marco Lisi<br></a>
   <b><i>Journal of Elections, Public Opinion and Parties</i></b><br>
 * [Party policy responsiveness at the agenda-setting and decision-making stages: The mediating effect of the types of government and promise](https://journals.sagepub.com/doi/pdf/10.1177/01925121231155140) (2024) <br>
   with Ana M. Belchior, Luís Cabrita, and Emmanouil Tsatsanis<br> 
@@ -39,7 +39,7 @@ Feel free to email me if you are unable to access any of the publications listed
 * [How we have been productive when Coronavirus locked us out of University](https://repositorio.ul.pt/bitstream/10451/45557/1/ICS_ANascimento_How.pdf) (2020)<br>
   with Andreia Nascimento<br>
   <b><i>Fennia – International Journal of Geography</i></b><br>
-* [Workers’ EU political alignments during the Great Recession](https://journals.sagepub.com/doi/10.1177/1024258917696239)(2017)<br>
+* [Workers’ EU political alignments during the Great Recession](https://journals.sagepub.com/doi/10.1177/1024258917696239) (2017)<br>
   with André Freire, Luís Cabrita, and Mariana Carmo Duarte<br>
   <b><i>Transfer: European Review of Labour and Research</i></b><br>
   * Awards: Iscte-IUL Scientific Prize 
@@ -119,11 +119,11 @@ Feel free to email me if you are unable to access any of the publications listed
 
 
 
-
-# Working Papers
-- Moving online? The use of web surveys in political science research (2005-2019). (with <a href="https://doi.org/10.1080/01402382.2024.2372752" style="color: inherit; text-decoration: none;">[Ana M. Belchior](https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv)</a>, Viriato Queiroga and Ana Rezende-Matias)
-
 <!---
+# Working Papers
+- Moving online? The use of web surveys in political science research (2005-2019). (with <a href="https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv" style="color: inherit; text-decoration: none;">Ana M. Belchior</a>, Viriato Queiroga and Ana Rezende-Matias)
+
+
 # Work in Progress
 - Perception of poll results and strategic voting. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [Susana R. Nina](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
 - Political party ethics self-regulation. (with [Luís de Sousa](https://www.ics.ulisboa.pt/pessoa/luis-de-sousa), [Fernando Casal Bertoa](https://whogoverns.eu/biography/) and [Lúcio Hanenberg](https://www.ics.ulisboa.pt/pessoa/lucio-hanenberg))
