@@ -71,8 +71,8 @@ Feel free to email me if you are unable to access any of the publications listed
   with <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
   In <i>The Routledge Handbook of Nonprofit Communication</i>, edited by Gisela Gonçalves and Evandro Oliveira (pp. 142-149). London: Routledge<br>
 * [<i>Business as usual</i> ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/scl/fi/4nqlax0pmlvv7ntzaaqvz/2023-Chapter-Mundos-Sociais.pdf?rlkey=4xge3q048ov8ddjs5ruwdnawu&dl=0) (2023) <br>
-  with José Santana Pereira and <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a><br>
-  In <i>Da Austeridade à Pandemia. Portugal e a Europa Entre as Crises e as Inovações</i>, edited by André Freire, Guya Accornero, Viriato Queiroga, Maria Asensio, José Santana-Pereira, and Helena Belchior-Rocha (pp. 281-296). Lisbon: Mundos Sociais<br>
+  with <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana Pereira</a> and <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a><br>
+  In <i>Da Austeridade à Pandemia. Portugal e a Europa Entre as Crises e as Inovações</i>, edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, <a href="https://ciencia.iscte-iul.pt/authors/guya-accornero/cv" style="color: inherit; text-decoration: none;">Guya Accornero</a>, Viriato Queiroga, Maria Asensio, <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana-Pereira</a>, and Helena Belchior-Rocha (pp. 281-296). Lisbon: Mundos Sociais<br>
 * [A Produção Académica em Portugal](https://www.dropbox.com/scl/fi/fttp8exx8o54psl7q5x0z/2023-Chapter-OQD-ICS.pdf?rlkey=7fr7yzjgk60jbkn5qfco3rr6q&dl=0) (2023) <br>
   with Nelson Santos<br>
   In <i>Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia</i>, edited by <a href="https://scholar.google.pt/citations?user=3I08FWoAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Marcelo Camerlo</a>, David Pimenta, João Gabriel de Lima, and Lúcio Hanenberg (pp. 171-182). Lisbon: ICS<br>
@@ -82,16 +82,16 @@ Feel free to email me if you are unable to access any of the publications listed
   * Awards: Stimulus and Recognition for Internationalization in the Social Sciences (ICS-ULisbon)
 * [Governo, segundo Marina Costa Lobo](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf) (2020) <br>
   with Pedro Silveira<br>
-  In <i>Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas</i>, edited by <a href="https://scholar.google.pt/citations?user=3I08FWoAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Marcelo Camerlo</a>, Andrés Malamud, and Raquel Vaz-Pinto (pp. 87-98). Lisbon: ICS<br>
+  In <i>Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas</i>, edited by <a href="https://scholar.google.pt/citations?user=3I08FWoAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Marcelo Camerlo</a>, <a href="https://www.ics.ulisboa.pt/en/pessoa/andres-malamud" style="color: inherit; text-decoration: none;">Andrés Malamud</a>, and Raquel Vaz-Pinto (pp. 87-98). Lisbon: ICS<br>
 
 
 ## Encyclopedia entries
 * Regime Support (forthcoming)<br>
-  with Lúcio Hanenberg, David Pimenta, and Pedro C. Magalhães<br>
-  In <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt<br>
+  with Lúcio Hanenberg, David Pimenta, and <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
+  In <i>Elgar Encyclopedia of Political Representation</i>, edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a><br>
 * Growing citizens’ tolerance <i>vis-à-vis</i> authoritarian alternatives (forthcoming)<br>
-  with David Pimenta, Lúcio Hanenberg, and Pedro C. Magalhães<br>
-  In <i>Elgar Encyclopedia of Political Representation</i>, edited by André Freire, Eva Önudottir, Andrea Pedrazzani, and Hermann Schmitt<br>
+  with David Pimenta, Lúcio Hanenberg, and <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
+  In <i>Elgar Encyclopedia of Political Representation</i>, edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a><br>
 
 
   
@@ -124,11 +124,11 @@ Feel free to email me if you are unable to access any of the publications listed
 
 
 # Work in Progress
-- Perception of poll results and strategic voting. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [<a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a>](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
+- Perception of poll results and strategic voting. (with [<a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana-Pereira</a>](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [<a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a>](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
 - Political party ethics self-regulation. (with [Luís de Sousa](https://www.ics.ulisboa.pt/pessoa/luis-de-sousa), [Fernando Casal Bertoa](https://whogoverns.eu/biography/) and [Lúcio Hanenberg](https://www.ics.ulisboa.pt/pessoa/lucio-hanenberg))
 - Party Youth Wing Organization. (with [Brit Anlar](https://www.britanlar.com/), [Kira R. Kurz](https://kirareneekurz.owlstown.net/) and [Ieva Hofmane](https://www.eui.eu/people?id=ieva-hofmane)).
 - Youth Political Representation in Portugal. Evidence from local and national elections. (chapter for Political Youth Representation - A Global Perspective, edited by [Brit Anlar](https://www.britanlar.com/) and [Kira R. Kurz](https://kirareneekurz.owlstown.net/)).
 - Young people and corruption perceptions in Spain and Portugal. (with [Gustavo Gouvêa Maciel](https://scholar.google.com/citations?user=po780s0AAAAJ&hl=en))
-- Exposure to polls, late deciders, and strategic voting. A tale of three elections in Portugal. (with [José Santana-Pereira](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [<a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a>](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
+- Exposure to polls, late deciders, and strategic voting. A tale of three elections in Portugal. (with [<a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana-Pereira</a>](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [<a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a>](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
 
 --->
