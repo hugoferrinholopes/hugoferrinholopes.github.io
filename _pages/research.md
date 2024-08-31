@@ -29,7 +29,7 @@ Feel free to email me if you are unable to access any of the publications listed
   with <a href="https://scholar.google.pt/citations?user=pOoSmM4AAAAJ&hl=pt-PT" style="color: inherit; text-decoration: none;">Marco Lisi<br></a>
   <b><i>Journal of Elections, Public Opinion and Parties</i></b><br>
 * [Party policy responsiveness at the agenda-setting and decision-making stages: The mediating effect of the types of government and promise](https://journals.sagepub.com/doi/pdf/10.1177/01925121231155140) (2024) <br>
-  with <a href="https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv" style="color: inherit; text-decoration: none;">Ana M. Belchior</a>, Luís Cabrita, and <a href="https://scholar.google.com/citations?user=5ljcooMAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Emmanouil Tsatsaniz</a><br> 
+  with <a href="https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv" style="color: inherit; text-decoration: none;">Ana M. Belchior</a>, Luís Cabrita, and <a href="https://scholar.google.com/citations?user=5ljcooMAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Emmanouil Tsatsanis</a><br> 
   <b><i>International Political Science Review</i></b><br> 
 * [An unexpected Socialist majority: the 2022 Portuguese general elections](https://www.tandfonline.com/doi/pdf/10.1080/01402382.2022.2070983?casa_token=LcYisGvvnAgAAAAA:crAT_E-1iAN4OAOFmhm-S3WVaQplB5ayAlIESzTYBNLhh7yegYlg9JL5K7w0uOAvdUJYpASwsS0Lwg) (2023)<br>
   <b><i>West European Politics</i></b><br>
