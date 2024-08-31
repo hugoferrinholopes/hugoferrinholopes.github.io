@@ -87,11 +87,11 @@ author_profile: true
   BA in Political Science<br>
   invited by Paolo Bellucci<br>
   University of Siena, Erasmus+, May 2022<br>
-- **Electoral system reform at the national and sub-national levels in Portugal**<br>
+- **Electoral system reform in Portuguese national and sub-national politics**<br>
   BA in Political Science and International Relations<br>
   invited by Susana Rogeiro Nina<br>
   Lusófona University, Jan. 2021<br>
-- **Business as usual or a new normal? Presidential campaigns amid a pandemic crisis in Portugal**<br>
+- **Election campaigns under the pandemic**<br>
   Msc in Political Science<br>
   invited by José Santana-Pereira<br>
   Iscte-University Institute of Lisbon, Nov. 2021<br>
