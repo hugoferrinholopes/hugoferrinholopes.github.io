@@ -43,67 +43,67 @@ author_profile: true
 
 ## Guest lectures
 
-- Election campaigns in a context without a mediator<br>
+- **Election campaigns in a context without a mediator**<br>
   Post-graduation in Digital Politics<br>
   invited by Susana Rogeiro Nina<br>
   Lusofona University, May 2024<br>
-- The end of the <i>'de facto'</i> two-party system in Portugal<br>
+- **The end of the <i>'de facto'</i> two-party system in Portugal**<br>
   BA in Politics, Economics and Society<br>
   invited by Tiago Carvalho<br>
   Iscte-Sintra, University Institute of Lisbon, May 2024<br>
-- Political parties and party systems<br>
+- **Political parties and party systems**<br>
   Short course for adults<br>
   invited by Sofia Serra-Silva<br>
   ICS, University of Lisbon, Apr. 2024<br>
-- Political parties<br>
+- **Political parties**<br>
   Short course on Local, National and International Political Analysis<br>
   invited by Pedro Silveira<br>
   University of Beira Interior, Online, Oct. 2023<br>
-- Political parties and citizen electoral groups<br>
+- **Political parties and citizen electoral groups**<br>
   Short course on Municipal Law<br>
   invited by Luís F. Mota Almeida, Tiago Serrão, and Manuel Ferreira Ramos<br>
   Coimbra Business School, Online, Oct. 2023<br>
-- The political system of the United Kingdom<br>
+- **The political system of the United Kingdom**<br>
   BA in Political Science and International Relations<br>
   invited by Vinicius Albernaz<br>
   University of Beira Interior, Mar. 2023<br>
-- Comparison as a method of political research<br>
+- **Comparison as a method of political research**<br>
   BA in Political Science and International Relations<br>
   invited by Susana R. Nina<br>
   Lusófona University, Nov. 2022<br>
-- Second-order elections and the EU's transnational constituency<br>
+- **Second-order elections and the EU's transnational constituency**<br>
   Msc in International Studies<br>
   invited by Sabrina Cavatorto<br>
   University of Siena, Erasmus+, May 2022<br>
-- Comparative Politics<br>
+- **Comparative Politics**<br>
   Msc in International Studies<br>
   invited by Francesco Marangoni<br>
   University of Siena, Erasmus+, May 2022<br>
-- Constraining dissensus and the EU's democratic deficit<br>
+- **Constraining dissensus and the EU's democratic deficit**<br>
   Msc in International Studies<br>
   invited by Sabrina Cavatorto<br>
   University of Siena, Erasmus+, May 2022<br>
-- The Portuguese political system in comparative perspective<br>
+- **The Portuguese political system in comparative perspective**<br>
   BA in Political Science<br>
   invited by Paolo Bellucci<br>
   University of Siena, Erasmus+, May 2022<br>
-- Electoral system reform at the national and regional levels in Portugal<br>
+- **Electoral system reform at the national and sub-national levels in Portugal**<br>
   BA in Political Science and International Relations<br>
   invited by Susana Rogeiro Nina<br>
   Lusófona University, Jan. 2021<br>
-- Business as usual or a new normal? Presidential campaigns amid a pandemic crisis in Portugal<br>
+- **Business as usual or a new normal? Presidential campaigns amid a pandemic crisis in Portugal**<br>
   Msc in Political Science<br>
   invited by José Santana-Pereira<br>
   Iscte-University Institute of Lisbon, Nov. 2021<br>
-- Hypotheses and Causal Inference<br>
+- **Hypotheses and Causal Inference**<br>
   Msc in International Relations<br>
   invited by Guilherme Marques Pedro<br>
   University of Beira Interior, May 2020<br>
-- Statistical and Experimental Methods<br>
+- **Statistical and Experimental Methods**<br>
   BA in Political Science and International Relations<br>
   invited by Pedro Silveira<br>
   University of Beira Interior, May 2020<br>
-- Member-party ideological incongruence in Portugal<br>
+- **Member-party ideological incongruence in Portugal**<br>
   Msc in Political Science<br>
   invited by Ana M. Belchior<br>
   Iscte-University Institute of Lisbon, Mar. 2020<br>
