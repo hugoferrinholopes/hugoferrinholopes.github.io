@@ -21,7 +21,7 @@ Feel free to email me if you are unable to access any of the publications listed
 </style>
 
 
-## Journal Articles
+## Journal articles
 
 * [Radical right advance and party system change: the 2024 Portuguese snap elections](https://doi.org/10.1080/01402382.2024.2372752) <br>
   ***West European Politics*** (Online First)<br>
