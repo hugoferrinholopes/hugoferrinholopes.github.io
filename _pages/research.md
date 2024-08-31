@@ -111,7 +111,7 @@ Feel free to email me if you are unable to access any of the publications listed
   In *Elgar Encyclopedia of Political Representation*<br>
   edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a><br>
   Edward Elgar, Cheltenham (forthcoming)<br>
-* Growing citizens’ tolerance *vis-à-vis* authoritarian alternatives<br>
+* Citizens’ tolerance *vis-à-vis* authoritarian alternatives<br>
   with David Pimenta, Lúcio Hanenberg, and <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
   In *Elgar Encyclopedia of Political Representation*<br>
   edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a><br>
