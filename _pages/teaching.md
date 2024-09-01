@@ -15,6 +15,7 @@ author_profile: true
   }
 </style>
 
+<!----
 ## Graduate
 
 - [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0)<br>
@@ -39,6 +40,7 @@ author_profile: true
 - [Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0)<br>
   <i>BA in Political Science and International Relations</i><br>
   University of Beira Interior (2020/2021)
+---->
 
 | Course                                                                                                                                    | Programme                                            | Institution                  | Academic year | 
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------- | ------------- |
