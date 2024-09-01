@@ -121,6 +121,12 @@ author_profile: true
 - Diana Sousa Cordeiro (finished in 2023) <br>
   with Sofia Serra-Silva as supervisor and Pedro Silveira as co-supervisor<br>
   University of Beira Interior <br>
-- Hilma Raquel Rodríguez Lopes (finished in 2022) <br>
+- Hilma Rodríguez Lopes (finished in 2022) <br>
   with Liliana Reis as supervisor<br>
   University of Beira Interior <br>
+
+| Supervisee             | Finished  | Main supervisor   | Institution                          | 
+| ---------------------- | --------- | ----------------- | ------------------------------------ |
+| Eduardo Bonifácio      | *ongoing* | Adriana Oliveira  | Porto Accounting and Business School |
+| Diana Cordeiro         | 2023      | Sofia Serra-Silva | University of Beira Interior         |
+| Hilma Rodriguez Lopes  | 2022      | Liliana Reis      | University of Beira Interior         |
