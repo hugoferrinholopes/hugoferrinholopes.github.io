@@ -85,7 +85,7 @@ Feel free to email me if you are unable to access any of the publications listed
 * [*Business as usual* ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/scl/fi/4nqlax0pmlvv7ntzaaqvz/2023-Chapter-Mundos-Sociais.pdf?rlkey=4xge3q048ov8ddjs5ruwdnawu&dl=0)<br>
   with <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana Pereira</a> and <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a><br>
   In *<a href="https://www.mundossociais.com/livro/da-austeridade-a-pandemia/136" style="color: inherit; text-decoration: none;">Da Austeridade à Pandemia</a>*<br>
-  edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a> et al. <!--<a href="https://ciencia.iscte-iul.pt/authors/guya-accornero/cv" style="color: inherit; text-decoration: none;">Guya Accornero</a>, Viriato Queiroga, Maria Asensio, <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana-Pereira</a>, and Helena Belchior-Rocha<br>-->
+  edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a> et al. <!--<a href="https://ciencia.iscte-iul.pt/authors/guya-accornero/cv" style="color: inherit; text-decoration: none;">Guya Accornero</a>, Viriato Queiroga, Maria Asensio, <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana-Pereira</a>, and Helena Belchior-Rocha--><br>
   Mundos Sociais, Lisbon (2023)<br>
 * [A Produção Académica em Portugal](https://www.dropbox.com/scl/fi/fttp8exx8o54psl7q5x0z/2023-Chapter-OQD-ICS.pdf?rlkey=7fr7yzjgk60jbkn5qfco3rr6q&dl=0)<br>
   with Nelson Santos<br>
@@ -109,12 +109,12 @@ Feel free to email me if you are unable to access any of the publications listed
 * Regime Support<br>
   with Lúcio Hanenberg, David Pimenta, and <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
   In *Elgar Encyclopedia of Political Representation*<br>
-  edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a> et al. <!--, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a><br> -->
+  edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a> et al. <!--, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a>--><br> 
   Edward Elgar, Cheltenham (forthcoming)<br>
 * Citizens’ tolerance *vis-à-vis* authoritarian alternatives<br>
   with David Pimenta, Lúcio Hanenberg, and <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
   In *Elgar Encyclopedia of Political Representation*<br>
-  edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a> et al. <!--, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a><br> -->
+  edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a> et al. <!--, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a>--><br> 
   Edward Elgar, Cheltenham (forthcoming)<br>
 
   
