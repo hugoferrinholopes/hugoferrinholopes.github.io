@@ -40,6 +40,14 @@ author_profile: true
   <i>BA in Political Science and International Relations</i><br>
   University of Beira Interior (2020/2021)
 
+| Course                                                                                                                                    | Programme                                            | Institution                  | Academic year | 
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------- | ------------- |
+| [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0)                                          | Post-graduation in Political Psichology              | Lusófona University          | 2022/2023     |
+| [Local and Regional Politics](https://www.dropbox.com/s/uz7d5ii73ro6klh/Syllabus_PRA.pdf?dl=0)                                            | BA in Political Science and International Relations  | University of Beira Interior | 2021/2022     |
+| [Political Analysis](https://www.dropbox.com/s/469qqqelom5qxsh/Syllabus.pdf?dl=0)                                                         | BA in Political Science and International Relations  | University of Beira Interior | 2021/2022     |
+| [International Organizations](https://www.dropbox.com/s/ik3lvmeuk5ncncm/Syllabus.pdf?dl=0)                                                | BA in Political Science and International Relations  | University of Beira Interior | 2020/2021     |
+| [European Union Institutions and Policies](https://www.dropbox.com/s/ozncj6a9ifbtsks/FUC%20IPUE%202020-2021.pdf?dl=0)                     | BA in Political Science and International Relations  | University of Beira Interior | 2020/2021     |
+| [Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0) | BA in Political Science and International Relations  | University of Beira Interior | 2020/2021     |
 
 ## Guest lectures
 
@@ -115,6 +123,7 @@ author_profile: true
 
 ## Co-supervision of master students
 
+<!----
 - Eduardo Bonifácio <br>
   with Adriana Oliveira as supervisor<br>
   Porto Accounting and Business School (ISCAP)<br>
@@ -124,6 +133,7 @@ author_profile: true
 - Hilma Rodríguez Lopes (finished in 2022) <br>
   with Liliana Reis as supervisor<br>
   University of Beira Interior <br>
+---->
 
 | Supervisee             | Finished  | Main supervisor   | Institution                          | 
 | ---------------------- | --------- | ----------------- | ------------------------------------ |
