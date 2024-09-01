@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Teaching
+title: Teaching and Supervision
 permalink: /teaching/
 author_profile: true
 ---
@@ -52,9 +52,13 @@ author_profile: true
   invited by Tiago Carvalho<br>
   Iscte-Sintra, University Institute of Lisbon, May 2024<br>
 - **Political parties and party systems**<br>
-  Short course for adults<br>
+  Political Training School<br>
   invited by Sofia Serra-Silva<br>
-  ICS, University of Lisbon, Apr. 2024<br>
+  ICS-ULisbon and Order of Pharmacists, Apr. 2024<br>
+- **Political parties in municipalities**<br>
+  II short course on Municipal Law<br>
+  invited by Luís F. Mota Almeida, Tiago Serrão, and Manuel Ferreira Ramos<br>
+  Coimbra Business School (with ANAM and AVEL), Online, Mar. 2024<br>
 - **Political parties**<br>
   Short course on Local, National and International Political Analysis<br>
   invited by Pedro Silveira<br>
