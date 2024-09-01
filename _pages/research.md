@@ -74,33 +74,33 @@ Feel free to email me if you are unable to access any of the publications listed
   Alêtheia, Lisbon (forthcoming)<br> 
 * [Método Comparativo](https://www.dropbox.com/scl/fi/0xgf0fd9gc2z6n7pjk80v/Cap.-M-todo-Comparativo-em-Ci-ncia-Pol-tica-rev.-HFL-LH-05-04-2023.pdf?rlkey=hwzct3f97scyk4p3orb1qdnaz&dl=0)<br>
   with <a href="https://www.ics.ulisboa.pt/en/pessoa/lea-heyne" style="color: inherit; text-decoration: none;">Lea Heyne</a><br>
-  In *Manual de Métodos de Investigação em Ciência Política*<br>
+  In *<a href="https://www.almedina.net/manual-de-metodos-de-investigacao-em-ciencia-politica-1711385758.html" style="color: inherit; text-decoration: none;">Manual de Métodos de Investigação em Ciência Política</a>*<br>
   edited by <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a>, <a href="https://cienciavitae.pt/9F10-1005-AA57" style="color: inherit; text-decoration: none;">Pedro Silveira</a>, <a href="https://cienciavitae.pt/DE11-9968-0814" style="color: inherit; text-decoration: none;">João Terrenas</a>, and <a href="https://ipri.unl.pt/images/investigadores/cvs/2024/cv_Liliana_Reis_2024.pdf" style="color: inherit; text-decoration: none;">Liliana Reis</a><br>
   Almedina, Coimbra (2024) <br>
 * [Nonprofit and Government Relations](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003170563-18/nonprofit-government-relations-bruno-ferreira-costa-hugo-ferrinho-lopes?context=ubx&refId=e7773832-d07f-49c1-99e2-9634eed1fd0d)<br>
   with <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
-  In *Routledge Handbook of Nonprofit Communication*<br>
+  In *<a href="https://www.routledge.com/The-Routledge-Handbook-of-Nonprofit-Communication/Goncalves-Oliveira/p/book/9780367772727" style="color: inherit; text-decoration: none;">The Routledge Handbook of Nonprofit Communication</a>*<br>
   edited by <a href="https://cienciavitae.pt/A313-615F-1256" style="color: inherit; text-decoration: none;">Gisela Gonçalves</a> and <a href="https://orcid.org/0000-0001-8974-4214" style="color: inherit; text-decoration: none;">Evandro Oliveira</a><br>
   Routledge, New York (2023) <br>
 * [*Business as usual* ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/scl/fi/4nqlax0pmlvv7ntzaaqvz/2023-Chapter-Mundos-Sociais.pdf?rlkey=4xge3q048ov8ddjs5ruwdnawu&dl=0)<br>
   with <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana Pereira</a> and <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a><br>
-  In *Da Austeridade à Pandemia. Portugal e a Europa Entre as Crises e as Inovações*<br>
+  In *<a href="https://www.mundossociais.com/livro/da-austeridade-a-pandemia/136" style="color: inherit; text-decoration: none;">Da Austeridade à Pandemia. Portugal e a Europa Entre as Crises e as Inovações</a>*<br>
   edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, <a href="https://ciencia.iscte-iul.pt/authors/guya-accornero/cv" style="color: inherit; text-decoration: none;">Guya Accornero</a>, Viriato Queiroga, Maria Asensio, <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana-Pereira</a>, and Helena Belchior-Rocha<br>
   Mundos Sociais, Lisbon (2023)<br>
 * [A Produção Académica em Portugal](https://www.dropbox.com/scl/fi/fttp8exx8o54psl7q5x0z/2023-Chapter-OQD-ICS.pdf?rlkey=7fr7yzjgk60jbkn5qfco3rr6q&dl=0)<br>
   with Nelson Santos<br>
-  In *Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia*<br>
+  In *<a href="https://www.ics.ulisboa.pt/livros/democracia-em-portugal-2022" style="color: inherit; text-decoration: none;">Democracia em Portugal 2022. Caderno do Observatório da Qualidade da Democracia</a>*<br>
   edited by <a href="https://scholar.google.pt/citations?user=3I08FWoAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Marcelo Camerlo</a>, David Pimenta, João Gabriel de Lima, and Lúcio Hanenberg<br>
   Imprensa de Ciências Sociais, Lisbon (2023)<br>
 * [The integration of the Eastern and Western Balkans into the EU and NATO. A longitudinal and integrated analysis](https://www.igi-global.com/chapter/the-integration-of-the-eastern-and-western-balkans-into-the-eu-and-nato/295606)<br>
   with Alona Bondarenko<br>
-  In *Challenges and Barriers to the European Union Expansion to the Balkan Region*<br>
+  In *<a href="https://www.igi-global.com/book/challenges-barriers-european-union-expansion/275497" style="color: inherit; text-decoration: none;">Challenges and Barriers to the European Union Expansion to the Balkan Region</a>*<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
   IGI Global, Hershey (2022)<br>
     * Awards: ERICS (ICS-ULisbon)
 * [Governo, segundo Marina Costa Lobo](https://repositorio.ul.pt/bitstream/10451/47033/1/ICS_MCamerlo_Ciencia.pdf)<br>
   with <a href="https://cienciavitae.pt/9F10-1005-AA57" style="color: inherit; text-decoration: none;">Pedro Silveira</a><br>
-  In *Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas*<br>
+  In *<a href="https://www.ics.ulisboa.pt/livros/ciencia-politica-portuguesa" style="color: inherit; text-decoration: none;">Ciência Política à Portuguesa. A disciplina contada pelos seus protagonistas</a>*<br>
   edited by <a href="https://scholar.google.pt/citations?user=3I08FWoAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Marcelo Camerlo</a>, <a href="https://www.ics.ulisboa.pt/en/pessoa/andres-malamud" style="color: inherit; text-decoration: none;">Andrés Malamud</a>, and Raquel Vaz-Pinto<br>
   Imprensa de Ciências Sociais, Lisbon (2020)<br>
 
@@ -147,7 +147,7 @@ Feel free to email me if you are unable to access any of the publications listed
 
 
 # Work in Progress
-- Perception of poll results and strategic voting. (with [<a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana-Pereira</a>](https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv) and [<a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a>](https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412))
+- Perception of poll results and strategic voting. (with <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana-Pereira</a> and <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a>)
 - Political party ethics self-regulation. (with [Luís de Sousa](https://www.ics.ulisboa.pt/pessoa/luis-de-sousa), [Fernando Casal Bertoa](https://whogoverns.eu/biography/) and [Lúcio Hanenberg](https://www.ics.ulisboa.pt/pessoa/lucio-hanenberg))
 - Party Youth Wing Organization. (with [Brit Anlar](https://www.britanlar.com/), [Kira R. Kurz](https://kirareneekurz.owlstown.net/) and [Ieva Hofmane](https://www.eui.eu/people?id=ieva-hofmane)).
 - Youth Political Representation in Portugal. Evidence from local and national elections. (chapter for Political Youth Representation - A Global Perspective, edited by [Brit Anlar](https://www.britanlar.com/) and [Kira R. Kurz](https://kirareneekurz.owlstown.net/)).
