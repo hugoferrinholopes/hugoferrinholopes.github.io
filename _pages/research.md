@@ -126,9 +126,7 @@ Feel free to email me if you are unable to access any of the publications listed
 * [Sub-representação de uma Geração. Jovens na Assembleia da República, Governo e Parlamento Europeu (1976-2019)](https://www.opj.ics.ulisboa.pt/wp-content/uploads/ICS-Policy-Brief-2021.pdf)<br>
   with <a href="https://cienciavitae.pt/9F10-1005-AA57" style="color: inherit; text-decoration: none;">Pedro Silveira</a> and António H. Lopes<br>
   Lisbon, <a href="https://www.opj.ics.ulisboa.pt/" style="color: inherit; text-decoration: none;">Permanent Youth Observatory</a> (2021)<br>
-  * Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: <a href="https://www.almedina.net/manual-de-metodos-de-investigacao-em-ciencia-politica-1711385758.html" style="color: red; text-decoration: red;">[IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/)</a>
-  
- [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
+  * Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
 
 
 ## Other
