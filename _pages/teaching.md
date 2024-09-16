@@ -68,7 +68,7 @@ author_profile: true
 - **Political parties in municipalities**<br>
   II short course on Municipal Law<br>
   invited by Luís F. Mota Almeida, Tiago Serrão, and Manuel Ferreira Ramos<br>
-  Coimbra Business School (with ANAM and AVEL), Online, Mar. 2024<br>
+  Coimbra Business School (with ANAM and CVEL), Online, Mar. 2024<br>
 - **Political parties**<br>
   Short course on Local, National and International Political Analysis<br>
   invited by Pedro Silveira<br>
