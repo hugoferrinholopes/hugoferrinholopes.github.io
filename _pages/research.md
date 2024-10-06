@@ -106,12 +106,12 @@ Feel free to email me if you are unable to access any of the publications listed
 
 
 ## Encyclopedia entries
-* Regime Support<br>
+* [Regime Support](https://www.dropbox.com/scl/fi/3tkd0icbalhogrg5yxmns/2025-Regime-Support-Elgar-Encyclopedia.pdf?rlkey=usxt3egl6khcji4h9cyn34ip0&st=7ygtc4lt&dl=0)<br>
   with Lúcio Hanenberg, David Pimenta, and <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
   In *Elgar Encyclopedia of Political Representation*<br>
   edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a> et al. <!--, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a>--><br> 
   Edward Elgar, Cheltenham (forthcoming)<br>
-* Citizens’ tolerance *vis-à-vis* authoritarian alternatives<br>
+* [Citizens’ tolerance *vis-à-vis* authoritarian alternatives](https://www.dropbox.com/scl/fi/3hmd4ltl9l7m6l837jtk3/2025-Tolerance-Autocracies-Elgar-Encyclopedia.pdf?rlkey=7irrz9pmh0wqh03j2lk44bjyy&st=za6jqirg&dl=0)<br>
   with David Pimenta, Lúcio Hanenberg, and <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
   In *Elgar Encyclopedia of Political Representation*<br>
   edited by <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a> et al. <!--, Eva Önudottir, Andrea Pedrazzani, and <a href="https://scholar.google.de/citations?user=Gfdmqb4AAAAJ&hl=en" style="color: inherit; text-decoration: none;">Hermann Schmitt</a>--><br> 
