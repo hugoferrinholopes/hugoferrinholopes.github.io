@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/podcast1.jpeg'>"
+title: "Interview: party membership and youth wings"
+excerpt: "Podcast Política Sem Café<br/><img src='/images/podcast1.jpeg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Available at https://open.spotify.com/episode/3DKwLBQtjFyOAEEPXrH8Xx?si=4e4e446abe6948b1 (in Portuguese).
