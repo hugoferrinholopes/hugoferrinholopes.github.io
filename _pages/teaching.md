@@ -137,8 +137,8 @@ author_profile: true
   University of Beira Interior <br>
 ---->
 
-| Supervisee             | Finished  | Main supervisor   | Institution                          | 
-| ---------------------- | --------- | ----------------- | ------------------------------------ |
-| Eduardo Bonifácio      | *ongoing* | Adriana Oliveira  | Porto Accounting and Business School |
-| Diana Cordeiro         | 2023      | Sofia Serra-Silva | University of Beira Interior         |
-| Hilma Rodriguez Lopes  | 2022      | Liliana Reis      | University of Beira Interior         |
+| Supervisee             | Finished   | Main supervisor   | Institution                          | 
+| ---------------------- | ---------- | ----------------- | ------------------------------------ |
+| Eduardo Bonifácio      | Unfinished | Adriana Oliveira  | Porto Accounting and Business School |
+| Diana Cordeiro         | 2023       | Sofia Serra-Silva | University of Beira Interior         |
+| Hilma Rodriguez Lopes  | 2022       | Liliana Reis      | University of Beira Interior         |
