@@ -61,17 +61,17 @@ Feel free to email me if you are unable to access any of the publications listed
 * [Famílias partidárias e executivos nacionais em seis democracias. Governos liberais em perspetiva comparada (2000-2020)](https://www.dropbox.com/scl/fi/hf44y9qdykj2nb09iu0ro/Cap-tulo-4.-HFL-v4-22-04-2023.pdf?rlkey=755p0lmrze7v393d4y7vzpgqr&dl=0)<br> 
   In *Liberalismo. Da Teoria à Formação de Governos*<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
-  Alêtheia, Lisbon (forthcoming)<br> 
+  Leya, Lisbon (forthcoming)<br> 
 * [Elites ministeriais e recrutamento de partidos liberais em seis democracias europeias (2000-2020)](https://www.dropbox.com/scl/fi/z17g0h2ywzdnowywkddy5/Cap-tulo-5.-HFL-PF-vf-22-04-2023.pdf?rlkey=xp6j91u7a8by0paju80bffbb9&dl=0)<br>
   with Pedro Figueira<br>
   In *Liberalismo. Da Teoria à Formação de Governos*<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
-  Alêtheia, Lisbon (forthcoming)<br> 
+  Leya, Lisbon (forthcoming)<br> 
 * [Opções metodológicas fundamentais](https://www.dropbox.com/scl/fi/3ncmdayno2j9lun5thwcw/Cap-tulo-metodol-gico-v9-22-04-2023.pdf?rlkey=l7y8zgnbhfpgd4k6ndgmn883k&dl=0) <br>
   with Pedro Figueira<br>
   In *Liberalismo. Da Teoria à Formação de Governos*<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
-  Alêtheia, Lisbon (forthcoming)<br> 
+  Leya, Lisbon (forthcoming)<br> 
 * [Método Comparativo](https://www.dropbox.com/scl/fi/0xgf0fd9gc2z6n7pjk80v/Cap.-M-todo-Comparativo-em-Ci-ncia-Pol-tica-rev.-HFL-LH-05-04-2023.pdf?rlkey=hwzct3f97scyk4p3orb1qdnaz&dl=0)<br>
   with <a href="https://www.ics.ulisboa.pt/en/pessoa/lea-heyne" style="color: inherit; text-decoration: none;">Lea Heyne</a><br>
   In *<a href="https://www.almedina.net/manual-de-metodos-de-investigacao-em-ciencia-politica-1711385758.html" style="color: inherit; text-decoration: none;">Manual de Métodos de Investigação em Ciência Política</a>*<br>
