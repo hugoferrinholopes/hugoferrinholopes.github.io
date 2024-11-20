@@ -54,6 +54,10 @@ Feel free to email me if you are unable to access any of the publications listed
     
 ## Book chapters
 
+* [Jovens, Política e Parlamento dos Jovens](https://www.dropbox.com/scl/fi/xii73o88j0dydcgpy4gcq/VAlbernaz_HFerrinhoLopes_Chapter_TintaChina.pdf?rlkey=px1p3hb6abfegwdlyks5zmqtl&st=s8lg3qw2&dl=0)<br>
+  In *Jornalismo Parlamentar: 50 anos de uma especialidade jornalística*<br>
+  edited by Jaime Lourenço<br>
+  (forthcoming)<br>
 * [Famílias partidárias e executivos nacionais em seis democracias. Governos liberais em perspetiva comparada (2000-2020)](https://www.dropbox.com/scl/fi/hf44y9qdykj2nb09iu0ro/Cap-tulo-4.-HFL-v4-22-04-2023.pdf?rlkey=755p0lmrze7v393d4y7vzpgqr&dl=0)<br> 
   In *Liberalismo. Da Teoria à Formação de Governos*<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
