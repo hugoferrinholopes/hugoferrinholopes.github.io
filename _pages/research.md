@@ -55,6 +55,7 @@ Feel free to email me if you are unable to access any of the publications listed
 ## Book chapters
 
 * [Jovens, Política e Parlamento dos Jovens](https://www.dropbox.com/scl/fi/xii73o88j0dydcgpy4gcq/VAlbernaz_HFerrinhoLopes_Chapter_TintaChina.pdf?rlkey=px1p3hb6abfegwdlyks5zmqtl&st=s8lg3qw2&dl=0)<br>
+  with Vinicius Albernaz<br>
   In *Jornalismo Parlamentar: 50 anos de uma especialidade jornalística*<br>
   edited by Jaime Lourenço<br>
   (forthcoming)<br>
