@@ -59,6 +59,11 @@ Feel free to email me if you are unable to access any of the publications listed
   In *Jornalismo Parlamentar: 50 anos de uma especialidade jornalística*<br>
   edited by Jaime Lourenço<br>
   (forthcoming)<br>
+* [Partidos Políticos, Grupos de Cidadãos Eleitores e a Eleição de Jovens e Mulheres como Presidentes de Câmara Municipal](https://www.dropbox.com/scl/fi/quffmnopfq3qx3gtwwjk0/HFerrinhoLopes_Chapter_PartidosGCE_PCM.pdf?rlkey=t55ypdlxgd6qf5h5iiq2swnjw&dl=0)<br>
+  In *Manual de Direito Municipal*<br>
+  edited by Manuel F. Ramos, Tiago Serrão, and Luís F. M. Almeida<br>
+  Almedina, Coimbra (forthcoming)
+  
 * [Famílias partidárias e executivos nacionais em seis democracias. Governos liberais em perspetiva comparada (2000-2020)](https://www.dropbox.com/scl/fi/hf44y9qdykj2nb09iu0ro/Cap-tulo-4.-HFL-v4-22-04-2023.pdf?rlkey=755p0lmrze7v393d4y7vzpgqr&dl=0)<br> 
   In *Liberalismo. Da Teoria à Formação de Governos*<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
@@ -73,10 +78,6 @@ Feel free to email me if you are unable to access any of the publications listed
   In *Liberalismo. Da Teoria à Formação de Governos*<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
   (forthcoming)<br> 
-* [Partidos Políticos, Grupos de Cidadãos Eleitores e a Eleição de Jovens e Mulheres como Presidentes de Câmara Municipal](https://www.dropbox.com/scl/fi/quffmnopfq3qx3gtwwjk0/HFerrinhoLopes_Chapter_PartidosGCE_PCM.pdf?rlkey=t55ypdlxgd6qf5h5iiq2swnjw&dl=0)<br>
-  In *Manual de Direito Municipal*<br>
-  edited by Manuel F. Ramos, Tiago Serrão, and Luís F. M. Almeida<br>
-  Almedina, Coimbra (forthcoming)<br>
 * [Método Comparativo](https://www.dropbox.com/scl/fi/0xgf0fd9gc2z6n7pjk80v/Cap.-M-todo-Comparativo-em-Ci-ncia-Pol-tica-rev.-HFL-LH-05-04-2023.pdf?rlkey=hwzct3f97scyk4p3orb1qdnaz&dl=0)<br>
   with <a href="https://www.ics.ulisboa.pt/en/pessoa/lea-heyne" style="color: inherit; text-decoration: none;">Lea Heyne</a><br>
   In *<a href="https://www.almedina.net/manual-de-metodos-de-investigacao-em-ciencia-politica-1711385758.html" style="color: inherit; text-decoration: none;">Manual de Métodos de Investigação em Ciência Política</a>*<br>
