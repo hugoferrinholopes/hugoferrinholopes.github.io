@@ -54,6 +54,16 @@ Feel free to email me if you are unable to access any of the publications listed
     
 ## Book chapters
 
+* Political climbers: Explaining candidate movement in Portuguese political parties’ list ranking<br> 
+    with João Gaio e Silva<br>
+    In *The Politics of Candidate Selection in Portugal (1975-2024)*<br>
+    edited by Jorge M. Fernandes and Mariana Carmo Duarte<br>
+    Routledge, London (in progress)<br>
+* The Higher the Office, the Narrower the Path: Youth Political Representation in Portugal<br>
+    with Patrícia Silva<br>
+    In *Political Youth Representation — A Global Perspective*<br>
+    edited by Kira R. Kurz and Brittany Anlar<br>
+    Palgrave, London (forthcoming)<br>  
 * Um Deserto de Rejuvenescimento. O Envelhecimento das Elites Ministeriais em Portugal [A Desert of Rejuvenation: The Aging of Ministerial Elites in Portugal]<br>
   In *Governantes Portugueses em Perspetiva Comparada* [Portuguese Government Members in Comparative Perspective]<br>
   edited by Marcelo Camerlo and António Costa Pinto<br>
