@@ -64,7 +64,7 @@ Feel free to email me if you are unable to access any of the publications listed
     In *Political Youth Representation — A Global Perspective*<br>
     edited by Kira R. Kurz and Brittany Anlar<br>
     Palgrave, London (forthcoming)<br>  
-* Um Deserto de Rejuvenescimento. O Envelhecimento das Elites Ministeriais em Portugal [A Desert of Rejuvenation: The Aging of Ministerial Elites in Portugal]<br>
+* [Um Deserto de Rejuvenescimento. O Envelhecimento das Elites Ministeriais em Portugal](https://www.dropbox.com/scl/fi/wcf3ax4rkn4cet5x55srj/HFerrinhoLopes_Chapter_FFMS.pdf?rlkey=ka5yvz7kc7j3g9jmwg9f5kst0&st=lqp2qjka&dl=0) [A Desert of Rejuvenation: The Aging of Ministerial Elites in Portugal]<br>
   In *Governantes Portugueses em Perspetiva Comparada* [Portuguese Government Members in Comparative Perspective]<br>
   edited by Marcelo Camerlo and António Costa Pinto<br>
   FFMS, Lisbon (forthcoming)<br>
