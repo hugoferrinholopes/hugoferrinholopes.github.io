@@ -33,6 +33,7 @@ Feel free to email me if you are unable to access any of the publications listed
   ***International Political Science Review*** (2024)<br> 
 * [An unexpected Socialist majority: the 2022 Portuguese general elections](https://www.tandfonline.com/doi/pdf/10.1080/01402382.2022.2070983?casa_token=LcYisGvvnAgAAAAA:crAT_E-1iAN4OAOFmhm-S3WVaQplB5ayAlIESzTYBNLhh7yegYlg9JL5K7w0uOAvdUJYpASwsS0Lwg)<br>
   ***West European Politics*** (2023)<br>
+    * Awards: ERICS (ICS-ULisbon)
 * [Sailing Uncharted Waters with Old Boats: COVID-19 and the digitalization and professionalization of presidential campaigns in Portugal](https://www.mdpi.com/2076-0760/12/1/45)<br>
   with <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana-Pereira</a> and <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a><br>
   ***Social Sciences*** (2023)<br>
@@ -102,6 +103,7 @@ Feel free to email me if you are unable to access any of the publications listed
   In *<a href="https://www.routledge.com/The-Routledge-Handbook-of-Nonprofit-Communication/Goncalves-Oliveira/p/book/9780367772727" style="color: inherit; text-decoration: none;">Routledge Handbook of Nonprofit Communication</a>*<br>
   edited by <a href="https://cienciavitae.pt/A313-615F-1256" style="color: inherit; text-decoration: none;">Gisela Gonçalves</a> and <a href="https://orcid.org/0000-0001-8974-4214" style="color: inherit; text-decoration: none;">Evandro Oliveira</a><br>
   Routledge, New York (2023) <br>
+  * Awards: ERICS (ICS-ULisbon)
 * [*Business as usual* ou novo normal? As campanhas presidenciais de 2021 em Portugal](https://www.dropbox.com/scl/fi/4nqlax0pmlvv7ntzaaqvz/2023-Chapter-Mundos-Sociais.pdf?rlkey=4xge3q048ov8ddjs5ruwdnawu&dl=0) [Business as usual or new normal? The 2021 Presidential Campaigns in Portugal]<br>
   with <a href="https://ciencia.iscte-iul.pt/authors/jose-santana-pereira/cv" style="color: inherit; text-decoration: none;">José Santana Pereira</a> and <a href="https://www.ulusofona.pt/docentes/susana-isabel-rogeiro-pereira-nina-6412" style="color: inherit; text-decoration: none;">Susana R. Nina</a><br>
   In *<a href="https://www.mundossociais.com/livro/da-austeridade-a-pandemia/136" style="color: inherit; text-decoration: none;">Da Austeridade à Pandemia</a>* [From Austerity to the Pandemic. Portugal and Europe Between Crises and Innovations]<br>
