@@ -23,13 +23,16 @@ Feel free to email me if you are unable to access any of the publications listed
 
 ## Journal articles
 
+* Young radicals, moderates, and aligned: Ideological congruence and incongruence in party youth wings<br>
+  with <a href="https://experts.griffith.edu.au/18626-duncan-mcdonnell" style="color: inherit; text-decoration: none;">Duncan McDonnell</a> et al.<br>
+  ***European Journal of Political Research*** (forthcoming)<br>
 * [Until another party do us part? Party members’ electoral disloyalty in Portugal](https://doi.org/10.1080/17457289.2023.2292675) <br>
   with <a href="https://scholar.google.pt/citations?user=pOoSmM4AAAAJ&hl=pt-PT" style="color: inherit; text-decoration: none;">Marco Lisi<br></a>
   ***Journal of Elections, Public Opinion and Parties*** (Online First)<br>
 * [Radical right advance and party system change: the 2024 Portuguese snap elections](https://doi.org/10.1080/01402382.2024.2372752) <br>
   ***West European Politics*** (2025)<br>
 * [Party policy responsiveness at the agenda-setting and decision-making stages: The mediating effect of the types of government and promise](https://journals.sagepub.com/doi/pdf/10.1177/01925121231155140)<br>
-  with <a href="https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv" style="color: inherit; text-decoration: none;">Ana M. Belchior</a>, Luís Cabrita, and <a href="https://scholar.google.com/citations?user=5ljcooMAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Emmanouil Tsatsanis</a><br> 
+  with <a href="https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv" style="color: inherit; text-decoration: none;">Ana M. Belchior</a> et al.<br> 
   ***International Political Science Review*** (2024)<br> 
 * [An unexpected Socialist majority: the 2022 Portuguese general elections](https://www.tandfonline.com/doi/pdf/10.1080/01402382.2022.2070983?casa_token=LcYisGvvnAgAAAAA:crAT_E-1iAN4OAOFmhm-S3WVaQplB5ayAlIESzTYBNLhh7yegYlg9JL5K7w0uOAvdUJYpASwsS0Lwg)<br>
   ***West European Politics*** (2023)<br>
@@ -41,14 +44,14 @@ Feel free to email me if you are unable to access any of the publications listed
   with Andreia Nascimento<br>
   ***Fennia – International Journal of Geography*** (2020)<br>
 * [Workers’ EU political alignments during the Great Recession](https://journals.sagepub.com/doi/10.1177/1024258917696239)<br>
-  with <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a>, Luís Cabrita, and <a href="https://marianacarmoduarte.github.io/" style="color: inherit; text-decoration: none;">Mariana C. Duarte</a><br>
+  with <a href="https://ciencia.iscte-iul.pt/authors/andre-renato-leonardo-neves-dos-santos-freire/cv" style="color: inherit; text-decoration: none;">André Freire</a> et al.<br>
   ***Transfer: European Review of Labour and Research*** (2017)<br>
   * Awards: Iscte-IUL Scientific Prize 
 
 ## Books
 
 * [A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude](https://www.aevst.com/wp-content/uploads/2023/10/Livro-Conselhos-Municipais-de-Juventude-1.pdf) [Youth Participation in Municipalities and Youth Municipal Councils]<br>
-  with Luís F. M. Almeida, Cláudia S. Costa, Noel Gomes, and Tânia Maia<br>
+  with Luís F. M. Almeida et al. <br>
   Coimbra, ValorGlocal (2023)<br>
   * Media coverage: [Jornal de Notícias](https://www.jn.pt/2122761049/metade-dos-municipios-nao-tem-conselho-municipal-da-juventude/)
  
