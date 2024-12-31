@@ -14,7 +14,7 @@ I am a PhD candidate in Comparative Politics at [ICS, University of Lisbon](http
 
 My thesis challenges conventional wisdom by examining how party factionalism and preference heterogeneity can have not only negative but also positive effects on both party and voter behavior. In a parallel stream of research, I study the pathways through which underrepresented groups gain access to and shape political institutions, including youth representation and the role of youth wings as "ideological watchdogs" within parties. 
 
-Methodologically, I leverage observational data and design, conduct, and analyze randomized experiments with party members and voters, both as partners and subjects. I am also interested in quasi-experimental methods for causal inference. My work has been published in <i>West European Politics</i>, <i>International Political Science Review</i>, and the <i>Journal of Elections, Public Opinion and Parties</i>, among others.
+Methodologically, I leverage observational data and design, conduct, and analyze randomized experiments with party members and voters, both as partners and subjects. I am also interested in quasi-experimental methods for causal inference. My work has been published in the <i>European Journal of Political Research</i>, <i>West European Politics</i>, and <i>International Political Science Review</i>, among others.
 
 <!-- 
  can have both negative and positive effects on both party and voter behavior I am also interested in how minorities and marginalized groups gain access to political institutions and engage with them — especially the youth. 
