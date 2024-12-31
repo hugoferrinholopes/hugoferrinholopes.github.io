@@ -27,7 +27,7 @@ Feel free to email me if you are unable to access any of the publications listed
   with <a href="https://scholar.google.pt/citations?user=pOoSmM4AAAAJ&hl=pt-PT" style="color: inherit; text-decoration: none;">Marco Lisi<br></a>
   ***Journal of Elections, Public Opinion and Parties*** (Online First)<br>
 * [Radical right advance and party system change: the 2024 Portuguese snap elections](https://doi.org/10.1080/01402382.2024.2372752) <br>
-  ***West European Politics*** (2024)<br>
+  ***West European Politics*** (2025)<br>
 * [Party policy responsiveness at the agenda-setting and decision-making stages: The mediating effect of the types of government and promise](https://journals.sagepub.com/doi/pdf/10.1177/01925121231155140)<br>
   with <a href="https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv" style="color: inherit; text-decoration: none;">Ana M. Belchior</a>, Luís Cabrita, and <a href="https://scholar.google.com/citations?user=5ljcooMAAAAJ&hl=en" style="color: inherit; text-decoration: none;">Emmanouil Tsatsanis</a><br> 
   ***International Political Science Review*** (2024)<br> 
