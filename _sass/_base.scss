@@ -14,11 +14,20 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.25;
-  font-size: 14px; 
+  font-size: 14px;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
+  }
+
+  /* Ajustar para dispositivos maiores */
+  @media (min-width: 768px) {
+    font-size: 16px; /* Tablets e computadores pequenos */
+  }
+
+  @media (min-width: 1200px) {
+    font-size: 18px; /* Computadores grandes */
   }
 }
 
@@ -122,7 +131,6 @@ a {
     outline: 0;
   }
 }
-
 
 /* code */
 
@@ -256,30 +264,15 @@ figcaption {
   }
 }
 
-
 /* Fix IE9 SVG bug */
 
 svg:not(:root) {
   overflow: hidden;
 }
 
-
 /*
    Navigation lists
    ========================================================================== */
-
-/**
- * Removes margins, padding, and bullet points from navigation lists
- *
- * Example usage:
- * <nav>
- *    <ul>
- *      <li><a href="#link-1">Link 1</a></li>
- *      <li><a href="#link-2">Link 2</a></li>
- *      <li><a href="#link-3">Link 3</a></li>
- *    </ul>
- *  </nav>
- */
 
 nav {
   ul {
