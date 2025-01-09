@@ -18,7 +18,7 @@ author_profile: true
 
 ## Graduate
 
-- [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0)<br>
+- [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0) (with Susana R. Nina)<br>
   <i>Post-graduation in Political Psichology</i><br>
   Lusófona University, Spring 2023
 
@@ -73,15 +73,15 @@ author_profile: true
 - **Political parties in municipalities**<br>
   II short course on Municipal Law<br>
   invited by Luís F. Mota Almeida, Tiago Serrão, and Manuel Ferreira Ramos<br>
-  Coimbra Business School (with ANAM and CVEL), Online, Mar. 2024<br>
+  Coimbra Business School (with ANAM and CVEL), Mar. 2024<br>
 - **Political parties**<br>
   Short course on Local, National and International Political Analysis<br>
   invited by Pedro Silveira<br>
-  University of Beira Interior, Online, Oct. 2023<br>
+  University of Beira Interior, Oct. 2023<br>
 - **Political parties and citizen electoral groups**<br>
   Short course on Municipal Law<br>
   invited by Luís F. Mota Almeida, Tiago Serrão, and Manuel Ferreira Ramos<br>
-  Coimbra Business School, Online, Oct. 2023<br>
+  Coimbra Business School, Oct. 2023<br>
 - **The political system of the United Kingdom**<br>
   BA in Political Science and International Relations<br>
   invited by Vinicius Albernaz<br>
@@ -93,19 +93,19 @@ author_profile: true
 - **Second-order elections and the EU's transnational constituency**<br>
   Msc in International Studies<br>
   invited by Sabrina Cavatorto<br>
-  University of Siena, Erasmus+, May 2022<br>
+  University of Siena, May 2022<br>
 - **Comparative Politics**<br>
   Msc in International Studies<br>
   invited by Francesco Marangoni<br>
-  University of Siena, Erasmus+, May 2022<br>
+  University of Siena, May 2022<br>
 - **Constraining dissensus and the EU's democratic deficit**<br>
   Msc in International Studies<br>
   invited by Sabrina Cavatorto<br>
-  University of Siena, Erasmus+, May 2022<br>
+  University of Siena, May 2022<br>
 - **The Portuguese political system in comparative perspective**<br>
   BA in Political Science<br>
   invited by Paolo Bellucci<br>
-  University of Siena, Erasmus+, May 2022<br>
+  University of Siena, May 2022<br>
 - **Electoral system reform in Portuguese national and sub-national politics**<br>
   BA in Political Science and International Relations<br>
   invited by Susana Rogeiro Nina<br>
@@ -134,14 +134,14 @@ author_profile: true
 | The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
 | Political parties and party systems                                                                            | Political Training School                           | ICS-ULisbon and Order of Pharmacists           | Sofia Serra-Silva                        | Apr. 2024     |
 | Political parties in municipalities                                                                            | II short course on Municipal Law                    | Coimbra Business School (with ANAM and CVEL)   | Luís F. Mota Almeida, Tiago Serrão, Manuel Ferreira Ramos | Mar. 2024     |
-| Political parties                                                                                              | Short course on Local, National and International Political Analysis | University of Beira Interior, Online         | Pedro Silveira                           | Oct. 2023     |
-| Political parties and citizen electoral groups                                                                 | Short course on Municipal Law                       | Coimbra Business School, Online                | Luís F. Mota Almeida, Tiago Serrão, Manuel Ferreira Ramos | Oct. 2023     |
+| Political parties                                                                                              | Short course on Local, National and International Political Analysis | University of Beira Interior         | Pedro Silveira                           | Oct. 2023     |
+| Political parties and citizen electoral groups                                                                 | Short course on Municipal Law                       | Coimbra Business School                | Luís F. Mota Almeida, Tiago Serrão, Manuel Ferreira Ramos | Oct. 2023     |
 | The political system of the United Kingdom                                                                     | BA in Political Science and International Relations | University of Beira Interior                   | Vinicius Albernaz                         | Mar. 2023     |
 | Comparison as a method of political research                                                                   | BA in Political Science and International Relations | Lusófona University                            | Susana R. Nina                           | Nov. 2022     |
-| Second-order elections and the EU's transnational constituency                                                 | Msc in International Studies                        | University of Siena, Erasmus+                  | Sabrina Cavatorto                         | May 2022      |
-| Comparative Politics                                                                                           | Msc in International Studies                        | University of Siena, Erasmus+                  | Francesco Marangoni                       | May 2022      |
-| Constraining dissensus and the EU's democratic deficit                                                         | Msc in International Studies                        | University of Siena, Erasmus+                  | Sabrina Cavatorto                         | May 2022      |
-| The Portuguese political system in comparative perspective                                                     | BA in Political Science                             | University of Siena, Erasmus+                  | Paolo Bellucci                            | May 2022      |
+| Second-order elections and the EU's transnational constituency                                                 | Msc in International Studies                        | University of Siena                  | Sabrina Cavatorto                         | May 2022      |
+| Comparative Politics                                                                                           | Msc in International Studies                        | University of Siena                  | Francesco Marangoni                       | May 2022      |
+| Constraining dissensus and the EU's democratic deficit                                                         | Msc in International Studies                        | University of Siena                  | Sabrina Cavatorto                         | May 2022      |
+| The Portuguese political system in comparative perspective                                                     | BA in Political Science                             | University of Siena                  | Paolo Bellucci                            | May 2022      |
 | Electoral system reform in Portuguese national and sub-national politics                                       | BA in Political Science and International Relations | Lusófona University                            | Susana Rogeiro Nina                      | Jan. 2021     |
 | Election campaigns under the pandemic                                                                          | Msc in Political Science                            | Iscte-University Institute of Lisbon           | José Santana-Pereira                      | Nov. 2021     |
 | Hypotheses and Causal Inference                                                                                | Msc in International Relations                      | University of Beira Interior                   | Guilherme Marques Pedro                   | May 2020      |
