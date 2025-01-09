@@ -41,7 +41,7 @@ author_profile: true
   <i>BA in Political Science and International Relations</i><br>
   University of Beira Interior, Fall 2020
 
-
+<!----
 | Course                                                                                                                                    | Programme                                            | Institution                  | Academic year | 
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------- | ------------- |
 | [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0)                                          | Post-graduation in Political Psichology              | Lusófona University          | 2022/2023     |
@@ -50,10 +50,11 @@ author_profile: true
 | [International Organizations](https://www.dropbox.com/s/ik3lvmeuk5ncncm/Syllabus.pdf?dl=0)                                                | BA in Political Science and International Relations  | University of Beira Interior | 2020/2021     |
 | [European Union Institutions and Policies](https://www.dropbox.com/s/ozncj6a9ifbtsks/FUC%20IPUE%202020-2021.pdf?dl=0)                     | BA in Political Science and International Relations  | University of Beira Interior | 2020/2021     |
 | [Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0) | BA in Political Science and International Relations  | University of Beira Interior | 2020/2021     |
-
+---->
 
 ## Guest lectures
 
+<!----
 - **Political parties and party systems**<br>
   BA in Sociology<br>
   invited by João Gaio e Silva<br>
@@ -72,7 +73,7 @@ author_profile: true
   ICS-ULisbon and Order of Pharmacists, Apr. 2024<br>
 - **Political parties in municipalities**<br>
   II short course on Municipal Law<br>
-  invited by Luís F. Mota Almeida, Tiago Serrão, and Manuel Ferreira Ramos<br>
+  invited by Luís F. M. Almeida,, Tiago Serrão, and Manuel Ferreira Ramos<br>
   Coimbra Business School (with ANAM and CVEL), Mar. 2024<br>
 - **Political parties**<br>
   Short course on Local, National and International Political Analysis<br>
@@ -80,7 +81,7 @@ author_profile: true
   University of Beira Interior, Oct. 2023<br>
 - **Political parties and citizen electoral groups**<br>
   Short course on Municipal Law<br>
-  invited by Luís F. Mota Almeida, Tiago Serrão, and Manuel Ferreira Ramos<br>
+  invited by Luís F. M. Almeida,, Tiago Serrão, and Manuel Ferreira Ramos<br>
   Coimbra Business School, Oct. 2023<br>
 - **The political system of the United Kingdom**<br>
   BA in Political Science and International Relations<br>
@@ -126,16 +127,17 @@ author_profile: true
   Msc in Political Science<br>
   invited by Ana M. Belchior<br>
   Iscte-University Institute of Lisbon, Mar. 2020<br>
+---->
 
-| Lecture Title                                                                                                  | Programme                                             | Institution                                      | Invited by                              | Date          |
+| Title                                                                                                  | Programme                                             | Institution                                      | Invited by                              | Date          |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
 | Political parties and party systems                                                                            | BA in Sociology                                      | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | Apr. 2024     |
 | Election campaigns in a context without a mediator                                                            | Post-graduation in Digital Politics                 | Lusófona University                            | Susana Rogeiro Nina                      | May 2024      |
 | The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
 | Political parties and party systems                                                                            | Political Training School                           | ICS-ULisbon and Order of Pharmacists           | Sofia Serra-Silva                        | Apr. 2024     |
-| Political parties in municipalities                                                                            | II short course on Municipal Law                    | Coimbra Business School (with ANAM and CVEL)   | Luís F. Mota Almeida, Tiago Serrão, Manuel Ferreira Ramos | Mar. 2024     |
+| Political parties in municipalities                                                                            | II short course on Municipal Law                    | Coimbra Business School (with ANAM and CVEL)   | Luís F. M. Almeida,, Tiago Serrão, Manuel Ferreira Ramos | Mar. 2024     |
 | Political parties                                                                                              | Short course on Local, National and International Political Analysis | University of Beira Interior         | Pedro Silveira                           | Oct. 2023     |
-| Political parties and citizen electoral groups                                                                 | Short course on Municipal Law                       | Coimbra Business School                | Luís F. Mota Almeida, Tiago Serrão, Manuel Ferreira Ramos | Oct. 2023     |
+| Political parties and citizen electoral groups                                                                 | Short course on Municipal Law                       | Coimbra Business School                | Luís F. M. Almeida,, Tiago Serrão, Manuel Ferreira Ramos | Oct. 2023     |
 | The political system of the United Kingdom                                                                     | BA in Political Science and International Relations | University of Beira Interior                   | Vinicius Albernaz                         | Mar. 2023     |
 | Comparison as a method of political research                                                                   | BA in Political Science and International Relations | Lusófona University                            | Susana R. Nina                           | Nov. 2022     |
 | Second-order elections and the EU's transnational constituency                                                 | Msc in International Studies                        | University of Siena                  | Sabrina Cavatorto                         | May 2022      |
