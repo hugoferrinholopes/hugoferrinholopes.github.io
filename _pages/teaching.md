@@ -41,7 +41,7 @@ author_profile: true
   <i>BA in Political Science and International Relations</i><br>
   University of Beira Interior, Fall 2020
 
-<!----
+
 | Course                                                                                                                                    | Programme                                            | Institution                  | Academic year | 
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------- | ------------- |
 | [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0)                                          | Post-graduation in Political Psichology              | Lusófona University          | 2022/2023     |
@@ -50,9 +50,14 @@ author_profile: true
 | [International Organizations](https://www.dropbox.com/s/ik3lvmeuk5ncncm/Syllabus.pdf?dl=0)                                                | BA in Political Science and International Relations  | University of Beira Interior | 2020/2021     |
 | [European Union Institutions and Policies](https://www.dropbox.com/s/ozncj6a9ifbtsks/FUC%20IPUE%202020-2021.pdf?dl=0)                     | BA in Political Science and International Relations  | University of Beira Interior | 2020/2021     |
 | [Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0) | BA in Political Science and International Relations  | University of Beira Interior | 2020/2021     |
----->
+
+
 ## Guest lectures
 
+- **Political parties and party systems**<br>
+  BA in Sociology<br>
+  invited by João Gaio e Silva<br>
+  FCSH, NOVA University of Lisbon, April 2024<br>
 - **Election campaigns in a context without a mediator**<br>
   Post-graduation in Digital Politics<br>
   invited by Susana Rogeiro Nina<br>
@@ -121,6 +126,28 @@ author_profile: true
   Msc in Political Science<br>
   invited by Ana M. Belchior<br>
   Iscte-University Institute of Lisbon, Mar. 2020<br>
+
+| Lecture Title                                                                                                  | Programme                                             | Institution                                      | Invited by                              | Date          |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
+| Political parties and party systems                                                                            | BA in Sociology                                      | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | Apr. 2024     |
+| Election campaigns in a context without a mediator                                                            | Post-graduation in Digital Politics                 | Lusófona University                            | Susana Rogeiro Nina                      | May 2024      |
+| The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
+| Political parties and party systems                                                                            | Political Training School                           | ICS-ULisbon and Order of Pharmacists           | Sofia Serra-Silva                        | Apr. 2024     |
+| Political parties in municipalities                                                                            | II short course on Municipal Law                    | Coimbra Business School (with ANAM and CVEL)   | Luís F. Mota Almeida, Tiago Serrão, Manuel Ferreira Ramos | Mar. 2024     |
+| Political parties                                                                                              | Short course on Local, National and International Political Analysis | University of Beira Interior, Online         | Pedro Silveira                           | Oct. 2023     |
+| Political parties and citizen electoral groups                                                                 | Short course on Municipal Law                       | Coimbra Business School, Online                | Luís F. Mota Almeida, Tiago Serrão, Manuel Ferreira Ramos | Oct. 2023     |
+| The political system of the United Kingdom                                                                     | BA in Political Science and International Relations | University of Beira Interior                   | Vinicius Albernaz                         | Mar. 2023     |
+| Comparison as a method of political research                                                                   | BA in Political Science and International Relations | Lusófona University                            | Susana R. Nina                           | Nov. 2022     |
+| Second-order elections and the EU's transnational constituency                                                 | Msc in International Studies                        | University of Siena, Erasmus+                  | Sabrina Cavatorto                         | May 2022      |
+| Comparative Politics                                                                                           | Msc in International Studies                        | University of Siena, Erasmus+                  | Francesco Marangoni                       | May 2022      |
+| Constraining dissensus and the EU's democratic deficit                                                         | Msc in International Studies                        | University of Siena, Erasmus+                  | Sabrina Cavatorto                         | May 2022      |
+| The Portuguese political system in comparative perspective                                                     | BA in Political Science                             | University of Siena, Erasmus+                  | Paolo Bellucci                            | May 2022      |
+| Electoral system reform in Portuguese national and sub-national politics                                       | BA in Political Science and International Relations | Lusófona University                            | Susana Rogeiro Nina                      | Jan. 2021     |
+| Election campaigns under the pandemic                                                                          | Msc in Political Science                            | Iscte-University Institute of Lisbon           | José Santana-Pereira                      | Nov. 2021     |
+| Hypotheses and Causal Inference                                                                                | Msc in International Relations                      | University of Beira Interior                   | Guilherme Marques Pedro                   | May 2020      |
+| Statistical and Experimental Methods                                                                           | BA in Political Science and International Relations | University of Beira Interior                   | Pedro Silveira                            | May 2020      |
+| Member-party ideological incongruence in Portugal                                                             | Msc in Political Science                            | Iscte-University Institute of Lisbon           | Ana M. Belchior                           | Mar. 2020     |
+
 
 
 ## Co-supervision of master students
