@@ -63,7 +63,7 @@ Feel free to email me if you are unable to access any of the publications listed
     In *The Politics of Candidate Selection in Portugal (1975-2024)*<br>
     edited by Jorge M. Fernandes and Mariana Carmo Duarte<br>
     Routledge, London (in progress)<br>
-* The Higher the Office, the Narrower the Path: Youth Political Representation in Portugal<br>
+* The Higher the Office, the Narrower the Path? Youth Political Representation in Portugal<br>
     with Patrícia Silva<br>
     In *Political Youth Representation — A Global Perspective*<br>
     edited by Kira R. Kurz and Brittany Anlar<br>
