@@ -56,7 +56,7 @@ author_profile: true
 
 <!----
 - **Political parties and party systems**<br>
-  BA in Sociology<br>
+  BA in Political Science and International Relations<br>
   invited by João Gaio e Silva<br>
   FCSH, NOVA University of Lisbon, April 2024<br>
 - **Election campaigns in a context without a mediator**<br>
@@ -131,11 +131,11 @@ author_profile: true
 
 | Title                                                                                                  | Programme                                             | Institution                                      | Invited by                              | Date          |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
-| Political parties and party systems                                                                            | BA in Sociology                                      | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | Apr. 2024     |
+| Political parties and party systems                                                                            | BA in Political Science and International Relations  | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | Apr. 2024     |
 | Election campaigns in a context without a mediator                                                            | Post-graduation in Digital Politics                 | Lusófona University                            | Susana R. Nina                      | May 2024      |
 | The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
 | Political parties and party systems                                                                            | Political Training School                           | ICS-ULisbon and Order of Pharmacists           | Sofia Serra-Silva                        | Apr. 2024     |
-| Political parties in municipalities                                                                            | II short course on Municipal Law                    | Coimbra Business School (with ANAM and CVEL)   | Luís F. M. Almeida, Tiago Serrão, Manuel F. Ramos | Mar. 2024     |
+| Political parties in municipalities                                                                            | II short course on Municipal Law                    | Coimbra Business School    | Luís F. M. Almeida, Tiago Serrão, Manuel F. Ramos | Mar. 2024     |
 | Political parties                                                                                              | Short course on Local, National and International Political Analysis | University of Beira Interior         | Pedro Silveira                           | Oct. 2023     |
 | Political parties and citizen electoral groups                                                                 | Short course on Municipal Law                       | Coimbra Business School                | Luís F. M. Almeida, Tiago Serrão, Manuel F. Ramos | Oct. 2023     |
 | The political system of the United Kingdom                                                                     | BA in Political Science and International Relations | University of Beira Interior                   | Vinicius Albernaz                         | Mar. 2023     |
