@@ -16,7 +16,7 @@ My thesis examines how intra-party divisions can produce both negative and posit
 
 Methodologically, I design, conduct, and analyze cross-sectional surveys and randomized experiments with party members and voters, both as partners and subjects, to study these topics in Western democracies. I am also interested in quasi-experimental methods for causal inference. 
 
-My work has been published in the <i>European Journal of Political Research</i>, <i>West European Politics</i>, and <i>International Political Science Review</i>, among others.
+My work has been published in the <i>European Journal of Political Research</i>, <i>West European Politics</i>, <i>International Political Science Review</i>, and the <i>Journal of Elections, Public Opinion and Parties</i>, among others.
 
 <!-- 
  can have both negative and positive effects on both party and voter behavior I am also interested in how minorities and marginalized groups gain access to political institutions and engage with them — especially the youth. 
