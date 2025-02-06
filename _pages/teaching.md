@@ -56,9 +56,13 @@ author_profile: true
 
 <!----
 - **Political parties and party systems**<br>
+  BA in Politics, Economics and Society<br>
+  invited by Tiago Carvalho<br>
+  Iscte-Sintra, University Institute of Lisbon, May 2025<br>
+- **Youth representation in political institutions**<br>
   BA in Political Science and International Relations<br>
   invited by João Gaio e Silva<br>
-  FCSH, NOVA University of Lisbon, April 2024<br>
+  FCSH, NOVA University of Lisbon, May 2025<br>
 - **Election campaigns in a context without a mediator**<br>
   Post-graduation in Digital Politics<br>
   invited by Susana R. Nina<br>
@@ -129,10 +133,11 @@ author_profile: true
   Iscte-University Institute of Lisbon, Mar. 2020<br>
 ---->
 
-| Title                                                                                                  | Programme                                             | Institution                                      | Invited by                              | Date          |
-| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
-| Political parties and party systems                                                                            | BA in Political Science and International Relations  | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | Apr. 2024     |
-| Election campaigns in a context without a mediator                                                            | Post-graduation in Digital Politics                 | Lusófona University                            | Susana R. Nina                      | May 2024      |
+| Title                                                                                                          | Programme                                           | Institution                                      | Invited by                              | Date          |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
+| Political parties and party systems                                                                            | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
+| Youth representation in political institutions                                                                 | BA in Political Science and International Relations | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | May 2025     |
+| Election campaigns in a context without a mediator                                                             | Post-graduation in Digital Politics                 | Lusófona University                            | Susana R. Nina                      | May 2024      |
 | The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
 | Political parties and party systems                                                                            | Political Training School                           | ICS-ULisbon and Order of Pharmacists           | Sofia Serra-Silva                        | Apr. 2024     |
 | Political parties in municipalities                                                                            | II short course on Municipal Law                    | Coimbra Business School    | Luís F. M. Almeida, Tiago Serrão, Manuel F. Ramos | Mar. 2024     |
@@ -148,7 +153,7 @@ author_profile: true
 | Election campaigns under the pandemic                                                                          | Msc in Political Science                            | Iscte-University Institute of Lisbon           | José Santana-Pereira                      | Nov. 2021     |
 | Hypotheses and Causal Inference                                                                                | Msc in International Relations                      | University of Beira Interior                   | Guilherme Marques Pedro                   | May 2020      |
 | Statistical and Experimental Methods                                                                           | BA in Political Science and International Relations | University of Beira Interior                   | Pedro Silveira                            | May 2020      |
-| Member-party ideological incongruence in Portugal                                                             | Msc in Political Science                            | Iscte-University Institute of Lisbon           | Ana M. Belchior                           | Mar. 2020     |
+| Member-party ideological incongruence in Portugal                                                              | Msc in Political Science                            | Iscte-University Institute of Lisbon           | Ana M. Belchior                           | Mar. 2020     |
 
 
 
