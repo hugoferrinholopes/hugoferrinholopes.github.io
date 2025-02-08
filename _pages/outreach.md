@@ -74,6 +74,7 @@ author_profile: true
 
 
 ### Quoted in National Newspapers
+- [**Jornal Económico**](https://leitor.jornaleconomico.pt/noticia/chegou-o-dia-d-para-marques-mendes-eis-os-pontos-fortes-e-os-pontos-fracos-do-candidato) - *Chegou o dia 'D' para Marques Mendes. Eis os pontos fortes e os pontos fracos do candidato.* (2025).
 - [**ECO**](https://eco.sapo.pt/2024/10/01/marcelo-usa-conselho-de-estado-para-persuadir-governo-e-ps-a-acordo-para-o-oe2025/) - *Marcelo usa Conselho de Estado para persuadir Governo e PS a acordo para o OE2025.* (2024).
 - [**Jornal Económico**](https://jornaleconomico.sapo.pt/noticias/diretas-no-psd-montenegro-e-lider-incontestado-por-estar-no-governo/) - *Diretas no PSD: Luís Montenegro é “líder incontestado” por estar no Governo.* (2024).
 - [**Jornal Económico**](https://leitor.jornaleconomico.pt/noticia/discussao-oe2025-saude-e-justica-em-destaque-no-regresso-ao-parlamento) - *Todos os partidos se preparam para sessão marcada pelo OE2025.* (2024).
