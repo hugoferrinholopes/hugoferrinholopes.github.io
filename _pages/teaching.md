@@ -55,7 +55,7 @@ author_profile: true
 ## Guest lectures
 
 <!----
-- **Political parties and party systems**<br>
+- **Electoral systems and party systems**<br>
   BA in Politics, Economics and Society<br>
   invited by Tiago Carvalho<br>
   Iscte-Sintra, University Institute of Lisbon, May 2025<br>
@@ -135,7 +135,7 @@ author_profile: true
 
 | Title                                                                                                          | Programme                                           | Institution                                      | Invited by                              | Date          |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
-| Political parties and party systems                                                                            | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
+| Electoral systems and party systems                                                                            | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
 | Youth representation in political institutions                                                                 | BA in Political Science and International Relations | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | May 2025     |
 | Election campaigns in a context without a mediator                                                             | Post-graduation in Digital Politics                 | Lusófona University                            | Susana R. Nina                      | May 2024      |
 | The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
