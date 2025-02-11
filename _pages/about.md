@@ -24,6 +24,6 @@ I use fieldwork and experiments with political elites and party members or voter
 My thesis explores how intra-party divisions affect political behavior. I study political parties, political representation, elections, and political attitudes and behavior, with a broad interest in the role of youth in politics. 
 -->
 
-I am on the 2024/2025 academic job market. 
+I am on the academic job market. 
 
 Feel free to reach out to me at [hugo.lopes@ics.ulisboa.pt](hugo.lopes@ics.ulisboa.pt).
