@@ -76,7 +76,7 @@ Feel free to email me if you are unable to access any of the publications listed
   with Vinicius Albernaz<br>
   In *Jornalismo Parlamentar* [Parliamentary Journalism]<br>
   edited by Jaime Lourenço<br>
-  Tinta da China (forthcoming)<br>
+  Tinta da China, Lisbon (forthcoming)<br>
 * [Partidos Políticos, Grupos de Cidadãos Eleitores e a Eleição de Jovens e Mulheres como Presidentes de Câmara Municipal](https://www.dropbox.com/scl/fi/quffmnopfq3qx3gtwwjk0/HFerrinhoLopes_Chapter_PartidosGCE_PCM.pdf?rlkey=t55ypdlxgd6qf5h5iiq2swnjw&dl=0) [Political Parties, Citizens' Groups, and the Election of Young People and Women as Mayors]<br>
   In *Estudos de Direito Municipal* [Studies of Municipal Law]<br>
   edited by Manuel F. Ramos, Tiago Serrão, and Luís F. M. Almeida<br>
@@ -84,17 +84,17 @@ Feel free to email me if you are unable to access any of the publications listed
 * [Famílias partidárias e executivos nacionais em seis democracias. Governos liberais em perspetiva comparada (2000-2020)](https://www.dropbox.com/scl/fi/hf44y9qdykj2nb09iu0ro/Cap-tulo-4.-HFL-v4-22-04-2023.pdf?rlkey=755p0lmrze7v393d4y7vzpgqr&dl=0) [Party Families and National Executives in Six Democracies. Liberal Governments in Comparative Perspective (2000-2020)]<br> 
   In *Liberalismo. Da Teoria à Formação de Governos* [Liberalism. From Theory to Government Formation]<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
-  Lisbon, Sílabo (forthcoming)<br> 
+  Sílabo, Lisbon (forthcoming)<br> 
 * [Elites ministeriais e recrutamento de partidos liberais em seis democracias europeias (2000-2020)](https://www.dropbox.com/scl/fi/z17g0h2ywzdnowywkddy5/Cap-tulo-5.-HFL-PF-vf-22-04-2023.pdf?rlkey=xp6j91u7a8by0paju80bffbb9&dl=0) [Ministerial Elites and Liberal Party Recruitment in Six European Democracies (2000-2020)]<br>
   with Pedro Figueira<br>
   In *Liberalismo. Da Teoria à Formação de Governos* [Liberalism. From Theory to Government Formation]<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
-  Lisbon, Sílabo (forthcoming)<br> 
+  Sílabo, Lisbon (forthcoming)<br> 
 * [Opções metodológicas fundamentais](https://www.dropbox.com/scl/fi/3ncmdayno2j9lun5thwcw/Cap-tulo-metodol-gico-v9-22-04-2023.pdf?rlkey=l7y8zgnbhfpgd4k6ndgmn883k&dl=0) [Methodological Choices]<br>
   with Pedro Figueira<br>
   In *Liberalismo. Da Teoria à Formação de Governos* [Liberalism. From Theory to Government Formation]<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
-  Lisbon, Sílabo (forthcoming)<br> 
+  Sílabo, Lisbon (forthcoming)<br> 
   * (standalone chapter on the methods and data used in the two preceding chapters)
 * [Método Comparativo](https://www.dropbox.com/scl/fi/0xgf0fd9gc2z6n7pjk80v/Cap.-M-todo-Comparativo-em-Ci-ncia-Pol-tica-rev.-HFL-LH-05-04-2023.pdf?rlkey=hwzct3f97scyk4p3orb1qdnaz&dl=0) [Comparative Method]<br>
   with <a href="https://www.ics.ulisboa.pt/en/pessoa/lea-heyne" style="color: inherit; text-decoration: none;">Lea Heyne</a><br>
