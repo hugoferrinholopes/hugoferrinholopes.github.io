@@ -14,7 +14,7 @@ I am a PhD candidate in Comparative Politics at [ICS, University of Lisbon](http
 
 My thesis examines how intra-party divisions can have both negative and positive effects on party and voter behavior. In a parallel stream of research, I study the pathways through which youth people gain access to and shape political institutions—with a special emphasis on party youth wings as "ideological watchdogs" within parties. 
 
-Methodologically, I design, conduct, and analyze cross-sectional surveys and randomized experiments with party members and voters, both as partners and subjects, to study these topics in Western democracies. I am also interested in quasi-experimental methods for causal inference. 
+Methodologically, I specialize in designing and conducting randomized field and survey experiments with party elites and voters, both as partners and subjects, to study these topics in Western democracies. I am also interested in quasi-experimental methods for causal inference. 
 
 My work has been published in the <i>EJPR</i>, <i>WEP</i>, <i>JEPOP</i>, and <i>IPSR</i>, among other political science outlets.
 
