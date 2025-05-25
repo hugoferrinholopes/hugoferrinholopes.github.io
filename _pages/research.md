@@ -65,7 +65,7 @@ Feel free to email me if you are unable to access any of the publications listed
     Routledge, London (in progress)<br>
 * [The Higher the Office, the Narrower the Path? Youth Political Representation in Portugal](https://www.dropbox.com/scl/fi/uxtf0241r6687n0fjm03p/2025-Chapter-Palgrave.pdf?rlkey=lt8ds7pnp7gpz8spgtczchx9w&st=8inrwzli&dl=0)<br>
     with Patrícia Silva<br>
-    In *Political Youth Representation — A Global Perspective*<br>
+    In *Youth Political Representation - A Global Perspective on Young Adults’ Presence in Political Institutions*<br>
     edited by Kira R. Kurz and Brittany Anlar<br>
     Palgrave, London (forthcoming)<br>  
 * [Um Deserto de Rejuvenescimento. O Envelhecimento das Elites Ministeriais em Portugal](https://www.dropbox.com/scl/fi/wcf3ax4rkn4cet5x55srj/HFerrinhoLopes_Chapter_FFMS.pdf?rlkey=ka5yvz7kc7j3g9jmwg9f5kst0&st=lqp2qjka&dl=0) [A Desert of Rejuvenation: The Aging of Ministerial Elites in Portugal]<br>
