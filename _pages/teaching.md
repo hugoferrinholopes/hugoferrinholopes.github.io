@@ -16,15 +16,15 @@ author_profile: true
 </style>
 
 
-## Graduate
-
+- Comparative Political Systems <br>
+  <i>BA in Political Science</i><br>
+  University of Minho, Fall 2025<br>
+- Comparative Political Systems <br>
+  <i>BA in International Relations</i><br>
+  University of Minho, Fall 2025<br>
 - [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0) (with Susana R. Nina)<br>
   <i>Post-graduation in Political Psichology</i><br>
   Lusófona University, Spring 2023
-
-
-## Undergraduate
-
 - [Local and Regional Politics](https://www.dropbox.com/s/uz7d5ii73ro6klh/Syllabus_PRA.pdf?dl=0)<br>
   <i>BA in Political Science and International Relations</i><br>
   University of Beira Interior, Spring 2022
@@ -55,10 +55,7 @@ author_profile: true
 ## Guest lectures
 
 <!----
-- **Electoral systems and party systems**<br>
-  BA in Politics, Economics and Society<br>
-  invited by Tiago Carvalho<br>
-  Iscte-Sintra, University Institute of Lisbon, May 2025<br>
+
 - **Youth representation in political institutions**<br>
   BA in Political Science and International Relations<br>
   invited by João Gaio e Silva<br>
@@ -135,7 +132,6 @@ author_profile: true
 
 | Title                                                                                                          | Programme                                           | Institution                                      | Invited by                              | Date          |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
-| Party leader selection and ejection                                                                            | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2025      |
 | Youth representation in political institutions                                                                 | BA in Political Science and International Relations | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | May 2025     |
 | Causal inference with survey experiments                                                                       | MSc in Political Science & Msc in International Relations | EEG, University of Minho                  | Catarina Silva                           | Apr. 2025      |
 | Election campaigns in a context without a mediator                                                             | Post-graduation in Digital Politics                 | Lusófona University                            | Susana R. Nina                      | May 2024      |
