@@ -16,25 +16,25 @@ author_profile: true
 </style>
 
 ## University of Minho
-### BA in Political Science
-- Electoral Systems, <i>BA in Political Science</i> (Spring 2026)<br>
-- Comparative Political Systems, <i>BA in Political Science</i> (Fall 2025)<br>
+### _BA in Political Science_
+- Electoral Systems (Spring 2026)<br>
+- Comparative Political Systems (Fall 2025)<br>
 
-### BA in International Relations
-- Comparative Political Systems, <i>BA in International Relations</i> (Fall 2025)<br>
+### _BA in International Relations_
+- Comparative Political Systems (Fall 2025)<br>
 
 
 ## Lusófona University
-### Post-graduation in Political Psichology
-- [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0) (with Susana R. Nina), <i>Post-graduation in Political Psichology</i> (Spring 2023) <br>
+### _Post-graduation in Political Psichology_
+- [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0) — with Susana R. Nina (Spring 2023) <br>
 
 ## University of Beira Interior
-### BA in Political Science and International Relations
-- [Local and Regional Politics](https://www.dropbox.com/s/uz7d5ii73ro6klh/Syllabus_PRA.pdf?dl=0), <i>BA in Political Science and International Relations</i> (Spring 2022)<br>
-- [Political Analysis](https://www.dropbox.com/s/469qqqelom5qxsh/Syllabus.pdf?dl=0), <i>BA in Political Science and International Relations</i> (Fall 2021) <br>
-- [International Organizations](https://www.dropbox.com/s/ik3lvmeuk5ncncm/Syllabus.pdf?dl=0), <i>BA in Political Science and International Relations</i> (Spring 2021) <br>
-- [European Union Institutions and Policies](https://www.dropbox.com/s/ozncj6a9ifbtsks/FUC%20IPUE%202020-2021.pdf?dl=0), <i>BA in Political Science and International Relations</i> (Fall 2020) <br>
-- [Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0), <i>BA in Political Science and International Relations</i> (Fall 2020) <br>
+### _BA in Political Science and International Relations_
+- [Local and Regional Politics](https://www.dropbox.com/s/uz7d5ii73ro6klh/Syllabus_PRA.pdf?dl=0) (Spring 2022)<br>
+- [Political Analysis](https://www.dropbox.com/s/469qqqelom5qxsh/Syllabus.pdf?dl=0) (Fall 2021) <br>
+- [International Organizations](https://www.dropbox.com/s/ik3lvmeuk5ncncm/Syllabus.pdf?dl=0) (Spring 2021) <br>
+- [European Union Institutions and Policies](https://www.dropbox.com/s/ozncj6a9ifbtsks/FUC%20IPUE%202020-2021.pdf?dl=0) (Fall 2020) <br>
+- [Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0) (Fall 2020) <br>
 
 <!----
 - <b>Electoral Systems</b> <br>
