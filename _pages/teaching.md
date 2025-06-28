@@ -16,6 +16,9 @@ author_profile: true
 </style>
 
 
+- Electoral Systems <br>
+  <i>BA in Political Science</i><br>
+  University of Minho, Spring 2026<br>
 - Comparative Political Systems <br>
   <i>BA in Political Science</i><br>
   University of Minho, Fall 2025<br>
