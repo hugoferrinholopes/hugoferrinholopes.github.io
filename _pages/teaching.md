@@ -16,20 +16,20 @@ author_profile: true
 </style>
 
 ## University of Minho
-#### BA in Political Science
+### BA in Political Science
 - Electoral Systems, <i>BA in Political Science</i> (Spring 2026)<br>
 - Comparative Political Systems, <i>BA in Political Science</i> (Fall 2025)<br>
 
-#### BA in International Relations
+### BA in International Relations
 - Comparative Political Systems, <i>BA in International Relations</i> (Fall 2025)<br>
 
 
 ## Lusófona University
-#### Post-graduation in Political Psichology
+### Post-graduation in Political Psichology
 - [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0) (with Susana R. Nina), <i>Post-graduation in Political Psichology</i> (Spring 2023) <br>
 
 ## University of Beira Interior
-#### BA in Political Science and International Relations
+### BA in Political Science and International Relations
 - [Local and Regional Politics](https://www.dropbox.com/s/uz7d5ii73ro6klh/Syllabus_PRA.pdf?dl=0), <i>BA in Political Science and International Relations</i> (Spring 2022)<br>
 - [Political Analysis](https://www.dropbox.com/s/469qqqelom5qxsh/Syllabus.pdf?dl=0), <i>BA in Political Science and International Relations</i> (Fall 2021) <br>
 - [International Organizations](https://www.dropbox.com/s/ik3lvmeuk5ncncm/Syllabus.pdf?dl=0), <i>BA in Political Science and International Relations</i> (Spring 2021) <br>
