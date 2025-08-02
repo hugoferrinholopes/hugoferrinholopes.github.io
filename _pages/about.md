@@ -10,7 +10,7 @@ redirect_from:
 Welcome!
 ======
 
-I am a PhD candidate in Comparative Politics at [ICS, University of Lisbon](https://www.ics.ulisboa.pt/). From September 2025, I will be teaching at [Iscte-IUL](https://www.iscte-iul.pt/) and [EEG-UMinho](https://www.eeg.uminho.pt/pt). Previously, I was a visiting PhD student at the [EUI](https://www.eui.eu/en/academic-units/political-and-social-sciences) and [IPP-CSIC](https://ipp.csic.es/en/about-ipp), worked as an adjunct professor at [UBI](https://www.ubi.pt/) and [ULusófona](https://www.ulusofona.pt/).
+I am a PhD candidate in Comparative Politics at [ICS, University of Lisbon](https://www.ics.ulisboa.pt/). From September 2025, I will be teaching at [Iscte-IUL](https://www.iscte-iul.pt/) and [EEG-UMinho](https://www.eeg.uminho.pt/pt). Previously, I was a visiting PhD student at the [EUI](https://www.eui.eu/en/academic-units/political-and-social-sciences) and [IPP-CSIC](https://ipp.csic.es/en/about-ipp), and worked as an adjunct professor at [UBI](https://www.ubi.pt/) and [ULusófona](https://www.ulusofona.pt/).
 
 I study how intra-party divisions shape party strategies and voter behavior, and how young people gain access to—and influence—political institutions, particularly through party youth wings.
 
