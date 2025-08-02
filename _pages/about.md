@@ -16,7 +16,7 @@ I study how intra-party divisions shape party strategies and grassroots behavior
 
 Methodologically, I design and conduct field and survey experiments with party elites and voters, both as partners and subjects. I am also interested in quasi-experimental methods for causal inference.
 
-My work has been published in <i>EJPR</i>, <i>WEP</i>, <i>IPSR</i>, and <i>JEPOP</i>, among other outlets.
+My work has been published in the <i>European Journal of Political Research</i>, <i>West European Politics</i>, <i>International Political Science Review</i>, and <i>Journal of Elections, Public Opinion and Parties</i>, among other outlets.
 
 I am currently on the academic job market. 
 
