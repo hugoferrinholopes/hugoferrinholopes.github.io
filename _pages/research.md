@@ -63,6 +63,10 @@ Feel free to email me if you are unable to access any of the publications listed
     In *The Politics of Candidate Selection in Portugal (1975-2024)*<br>
     edited by Jorge M. Fernandes and Mariana Carmo Duarte<br>
     Routledge, London (in progress)<br>
+* As eleições legislativas de 2024 [The 2024 legislative elections]<br>
+  In *As Eleições Legislativas no Portugal Democrático: 1975-2025* [Legislative Elections in Portuguese Democracy: 1975-2025]<br>
+  edited by Marco Lisi<br>
+  Assembleia da República, Lisbon (in progress)<br>
 * [The Higher the Office, the Narrower the Path? Youth Political Representation in Portugal](https://www.dropbox.com/scl/fi/uxtf0241r6687n0fjm03p/2025-Chapter-Palgrave.pdf?rlkey=lt8ds7pnp7gpz8spgtczchx9w&st=8inrwzli&dl=0)<br>
     with Patrícia Silva<br>
     In *Youth Political Representation - A Global Perspective on Young Adults’ Presence in Political Institutions*<br>
