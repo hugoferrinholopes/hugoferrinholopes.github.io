@@ -10,11 +10,15 @@ redirect_from:
 Welcome!
 ======
 
-I am a PhD candidate in Comparative Politics at [ICS, University of Lisbon](https://www.ics.ulisboa.pt/). Starting September 2025, I will be teaching at [Iscte–IUL](https://www.iscte-iul.pt/) and [EEG-UMinho](https://www.eeg.uminho.pt/pt). Previously, I was a visiting doctoral researcher at the [EUI](https://www.eui.eu/en/academic-units/political-and-social-sciences) and [IPP-CSIC](https://ipp.csic.es/en/about-ipp), and have taught at [UBI](https://www.ubi.pt/) and [ULusófona](https://www.ulusofona.pt/).
+I am a PhD candidate in Comparative Politics at [ICS, University of Lisbon](https://www.ics.ulisboa.pt/). In September 2025, I join the faculty at [Iscte–IUL](https://www.iscte-iul.pt/) and [EEG-UMinho](https://www.eeg.uminho.pt/pt). I have been a visiting doctoral researcher at the [EUI](https://www.eui.eu/en/academic-units/political-and-social-sciences) and [IPP-CSIC](https://ipp.csic.es/en/about-ipp), and have taught at [UBI](https://www.ubi.pt/) and [ULusófona](https://www.ulusofona.pt/).
 
+I study the interactions between parties and their grassroots in advanced democracies. I am especially interested in understanding how politics within parties shapes party strategies and voter and member behavior. In particular, I pay particular attention to party youth wings as gateways for young people to access and influence political institutions.
+
+<!-----
 I study how intra-party divisions shape party strategies and grassroots behavior, and how young people gain access to—and influence—political institutions, particularly through party youth wings.
+----->
 
-Methodologically, I design and conduct field and survey experiments with party elites and voters, both as partners and subjects. I am also interested in quasi-experimental methods for causal inference.
+Methodologically, I design and conduct field and survey experiments with party elites and members, both as partners and subjects. I am also interested in quasi-experimental methods for causal inference.
 
 My work has been published in the <i>European Journal of Political Research</i>, <i>West European Politics</i>, and <i>International Political Science Review</i>, among other outlets.
 
