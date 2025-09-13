@@ -84,7 +84,7 @@ author:
   avatar           : "EUI (2).png" # "IMG_47262.jpg" "profile (1).png"
   bio              : "Adjunct Professor at Iscte-IUL and EEG-UMinho"
   location         : "Lisbon, Portugal"
-  employer         : "EEG-UMinho"
+  employer         : # "EEG-UMinho"
   pubmed           : 
   googlescholar    : "https://scholar.google.pt/citations?user=vK-y0CYAAAAJ&hl=pt-PT"
   email            : "hugoferrinholopes@eeg.uminho.pt"
