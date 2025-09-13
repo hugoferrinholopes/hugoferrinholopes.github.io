@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hugo Ferrinho Lopes"
 title_separator          : "-"
 name                     : &name "Hugo Ferrinho Lopes"
-description              : &description "PhD candidate in Comparative Politics"
+description              : &description "Adjunct Professor" # "PhD candidate in Comparative Politics"
 url                      : https://hugoferrinholopes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hugo Ferrinho Lopes"
   avatar           : "EUI (2).png" # "IMG_47262.jpg" "profile (1).png"
-  bio              : "PhD candidate in Comparative Politics at <a style='color: black;' href='https://www.ics.ulisboa.pt/en/'>ICS, University of Lisbon</a>"
+  bio              : "Adjunct Professor at Iscte-IUL and EEG-UMinho"
   location         : "Lisbon, Portugal"
-  employer         :
+  employer         : "EEG-UMinho"
   pubmed           : 
   googlescholar    : "https://scholar.google.pt/citations?user=vK-y0CYAAAAJ&hl=pt-PT"
-  email            : "hugo.lopes@ics.ulisboa.pt"
+  email            : "hugoferrinholopes@eeg.uminho.pt"
   researchgate     : "https://www.researchgate.net/profile/Hugo_Lopes6" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
