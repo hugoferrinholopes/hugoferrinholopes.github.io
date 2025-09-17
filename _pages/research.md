@@ -157,7 +157,7 @@ Feel free to email me if you are unable to access any of the publications listed
   Lisbon, <a href="https://www.opj.ics.ulisboa.pt/" style="color: inherit; text-decoration: none;">Permanent Youth Observatory</a> (2021)<br>
   * Media coverage: [Público](https://www.publico.pt/2022/11/28/politica/noticia/aqui-ninguem-tweetou-debate-jovens-mostraram-querem-participar-2029537) and [Rádio Renascença](https://rr.sapo.pt/especial%5C/politica/2022/01/27/pedro-silveira-os-governos-nao-podem-ser-um-one-man-show/269893/). Outreach: [IPAM](https://www.ipam.pt/blog/participacao-jovem-na-era-digital/) and [Ecclesia](https://agencia.ecclesia.pt/portal/ha-uma-sub-representacao-cronica-das-novas-geracoes-na-politica-rita-saias/).
 
-
+<!---
 ## Other
 
 * [Salazarismo: autoritarismo ou fascismo? A União Nacional em perspectiva organizacional e comparativa](http://www.observatoriopolitico.pt/wp-content/uploads/2017/11/WP_76_HL.pdf)<br>
@@ -170,7 +170,7 @@ Feel free to email me if you are unable to access any of the publications listed
 
 
 
-<!---
+
 # Working Papers
 - Moving online? The use of web surveys in political science research (2005-2019). (with <a href="https://ciencia.iscte-iul.pt/authors/ana-maria-da-conceicao-belchior/cv" style="color: inherit; text-decoration: none;">Ana M. Belchior</a>, Viriato Queiroga and Ana Rezende-Matias)
 
