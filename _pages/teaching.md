@@ -46,13 +46,13 @@ _BA in Political Science and International Relations_
 - <b>Electoral Systems</b> <br>
   <i>BA in Political Science</i><br>
   University of Minho, Spring 2026<br>
-- <b>Political Attitudes and Behavior</b> <br>
+- <b>[Political Attitudes and Behavior](https://www.dropbox.com/scl/fi/pwf269ze8itkqxwqn2xhs/Syllabus_Atitudes_e_Comportamentos_Pol-ticos.pdf?rlkey=k7lkkfzeftcvz8c0m1s7bfiwm&st=cfy1ye24&dl=0)</b> <br>
   <i>Msc in Political Science</i><br>
   Iscte-University Institute of Lisbon, Fall 2025<br>
-- <b>Comparative Political Systems</b> <br>
+- <b>[Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0)</b> <br>
   <i>BA in Political Science</i><br>
   University of Minho, Fall 2025<br>
-- <b>Comparative Political Systems</b> <br>
+- <b>[Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0)</b> <br>
   <i>BA in International Relations</i><br>
   University of Minho, Fall 2025<br>
 - <b>[Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0)</b> (with Susana R. Nina)<br>
@@ -169,7 +169,8 @@ _BA in Political Science and International Relations_
 
 | Title                                                                                                          | Programme                                           | Institution                                      | Invited by                              | Date          |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
-| Youth representation in political institutions                                                                 | BA in Political Science and International Relations | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | May 2025     |
+| Intra-party ideological disagreement and political behavior             | PhD in Political Science    | Iscte-University Institute of Lisbon | Ana M. Belchior |  Nov. 2025 | 
+| Party youth wings, ideological extremism and voting for party leaders                                                                 | BA in Political Science and International Relations | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | May 2025     |
 | Causal inference with survey experiments                                                                       | MSc in Political Science & Msc in International Relations | EEG, University of Minho                  | Catarina Silva                           | Apr. 2025      |
 | Election campaigns in a context without a mediator                                                             | Post-graduation in Digital Politics                 | Lusófona University                            | Susana R. Nina                      | May 2024      |
 | The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
