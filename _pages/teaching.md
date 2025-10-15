@@ -169,6 +169,7 @@ _BA in Political Science and International Relations_
 
 | Title                                                                                                          | Programme                                           | Institution                                      | Invited by                              | Date          |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
+| Intra-party ideological disagreement and political behavior             | PhD in Political Science and International Relations    | EEG, University of Minho | Pedro T. Magalhães |  Dec. 2025 | 
 | Intra-party ideological disagreement and political behavior             | PhD in Political Science    | Iscte-University Institute of Lisbon | Ana M. Belchior |  Nov. 2025 | 
 | Party youth wings, ideological extremism and voting for party leaders                                                                 | BA in Political Science and International Relations | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | May 2025     |
 | Causal inference with survey experiments                                                                       | MSc in Political Science & Msc in International Relations | EEG, University of Minho                  | Catarina Silva                           | Apr. 2025      |
