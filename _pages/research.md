@@ -82,9 +82,9 @@ Feel free to email me if you are unable to access any of the publications listed
   edited by Jaime Lourenço<br>
   Tinta da China, Lisbon (forthcoming)<br>
 * [Partidos Políticos, Grupos de Cidadãos Eleitores e a Eleição de Jovens e Mulheres como Presidentes de Câmara Municipal](https://www.dropbox.com/scl/fi/quffmnopfq3qx3gtwwjk0/HFerrinhoLopes_Chapter_PartidosGCE_PCM.pdf?rlkey=t55ypdlxgd6qf5h5iiq2swnjw&dl=0) [Political Parties, Citizens' Groups, and the Election of Young People and Women as Mayors]<br>
-  In *Estudos de Direito Municipal* [Studies of Municipal Law]<br>
-  edited by Manuel F. Ramos, Tiago Serrão, and Luís F. M. Almeida<br>
-  Almedina, Coimbra (forthcoming)<br>
+  In *Estudos de Direito Autárquico* [Studies of Municipal Law]<br>
+  edited by Tiago Serrão, Luís F. M. Almeida, and Manuel F. Ramos<br>
+  Almedina, Coimbra<br>
 * [Famílias partidárias e executivos nacionais em seis democracias. Governos liberais em perspetiva comparada (2000-2020)](https://www.dropbox.com/scl/fi/hf44y9qdykj2nb09iu0ro/Cap-tulo-4.-HFL-v4-22-04-2023.pdf?rlkey=755p0lmrze7v393d4y7vzpgqr&dl=0) [Party Families and National Executives in Six Democracies. Liberal Governments in Comparative Perspective (2000-2020)]<br> 
   In *Liberalismo. Da Teoria à Formação de Governos* [Liberalism. From Theory to Government Formation]<br>
   edited by <a href="https://cienciavitae.pt/portal/en/7618-70C2-C7D2" style="color: inherit; text-decoration: none;">Bruno F. Costa</a><br>
