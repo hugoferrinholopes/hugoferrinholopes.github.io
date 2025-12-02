@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hugo Ferrinho Lopes"
   avatar           : "EUI (2).png" # "IMG_47262.jpg" "profile (1).png"
-  bio              : # "Visiting Assistant Professor at Iscte-IUL and EEG-UMinho"
+  bio              : " " # "Visiting Assistant Professor at Iscte-IUL and EEG-UMinho"
   location         : "Lisbon, Portugal"
   employer         : # "EEG-UMinho"
   pubmed           : 
