@@ -51,6 +51,7 @@ author_profile: true
 
 | Course | Program | Institution | Semester | 
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------- | ------------- |
+| Comparative Political Systems                   | BA in Politics, Economy and Society | Iscte-IUL | Spring 2026 |
 | Electoral Systems                                    | BA in Political Science | EEG, University of Minho | Spring 2026 |
 | [Political Attitudes and Behavior](https://www.dropbox.com/scl/fi/pwf269ze8itkqxwqn2xhs/Syllabus_Atitudes_e_Comportamentos_Pol-ticos.pdf?rlkey=k7lkkfzeftcvz8c0m1s7bfiwm&st=cfy1ye24&dl=0)                     | Msc in Political Science | Iscte-IUL | Fall 2025 |
 | [Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0)                        | BA in Political Science | EEG, University of Minho | Fall 2025 |
