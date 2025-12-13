@@ -168,7 +168,7 @@ author_profile: true
 
 
 
-## Co-supervision of master students
+## Supervision and co-supervision of master students
 
 <!----
 - Eduardo Bonifácio <br>
@@ -182,11 +182,11 @@ author_profile: true
   University of Beira Interior <br>
 ---->
 
-| Supervisee             | Finished   | Main supervisor   | Institution                          | 
-| ---------------------- | ---------- | ----------------- | ------------------------------------ |
-| Dionísia Oliveira      | Ongoing    |                   | Iscte-IUL                            |
-| Maria Carolina Lacerda | Ongoing    |                   | Iscte-IUL                            |
-| João Lopes Taveira     | Ongoing    | Edna F. Costa     | EEG-University of Minho              |
-| Eduardo Bonifácio      | Unfinished | Adriana Oliveira  | Porto Accounting and Business School |
-| Diana Cordeiro         | 2023       | Sofia Serra-Silva | University of Beira Interior         |
-| Hilma Rodriguez Lopes  | 2022       | Liliana Reis      | University of Beira Interior         |
+| Supervisee             | Finished   | Institution                          | 
+| ---------------------- | ---------- | ------------------------------------ |
+| Dionísia Oliveira      | Ongoing    | Iscte-IUL                            |
+| Maria Carolina Lacerda | Ongoing    | Iscte-IUL                            |
+| João Lopes Taveira     | Ongoing    | EEG-University of Minho              |
+| Eduardo Bonifácio      | Unfinished | Porto Accounting and Business School |
+| Diana Cordeiro         | 2023       | University of Beira Interior         |
+| Hilma Rodriguez Lopes  | 2022       | University of Beira Interior         |
