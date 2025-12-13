@@ -185,7 +185,7 @@ author_profile: true
 | ---------------------- | ---------- | ------------------------------------ |
 | Dionísia Oliveira      | Ongoing    | Iscte-IUL                            |
 | Maria Carolina Lacerda | Ongoing    | Iscte-IUL                            |
-| João Lopes Taveira     | Ongoing    | EEG-University of Minho              |
+| João Lopes Taveira     | Ongoing    | EEG, University of Minho              |
 | Eduardo Bonifácio      | Unfinished | Porto Accounting and Business School |
 | Diana Cordeiro         | 2023       | University of Beira Interior         |
 | Hilma Rodriguez Lopes  | 2022       | University of Beira Interior         |
