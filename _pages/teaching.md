@@ -184,6 +184,9 @@ author_profile: true
 
 | Supervisee             | Finished   | Main supervisor   | Institution                          | 
 | ---------------------- | ---------- | ----------------- | ------------------------------------ |
+| Dionísia Oliveira      | Ongoing    |                   | Iscte-IUL                            |
+| Maria Carolina Lacerda | Ongoing    |                   | Iscte-IUL                            |
+| João Lopes Taveira     | Ongoing    | Edna F. Costa     | EEG-University of Minho              |
 | Eduardo Bonifácio      | Unfinished | Adriana Oliveira  | Porto Accounting and Business School |
 | Diana Cordeiro         | 2023       | Sofia Serra-Silva | University of Beira Interior         |
 | Hilma Rodriguez Lopes  | 2022       | Liliana Reis      | University of Beira Interior         |
