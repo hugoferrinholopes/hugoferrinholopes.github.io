@@ -23,7 +23,7 @@ Feel free to email me if you are unable to access any of the publications listed
 
 ## Journal articles
 
-* Latent Populists Activated? Party membership switching to the populist radical right <br>
+* [Latent Populists Activated? Party membership switching to the populist radical right](https://www.dropbox.com/scl/fi/77qu12o9js5soum60ajjv/HFerrinhoLopes_PartySwitching_Chega.pdf?rlkey=nxcuyneiy7y88x8l32fjrfejz&st=1mqcqbbx&dl=0) <br>
   ***European Politics and Society*** (forthcoming) <br>
 * [Young radicals, moderates, and aligned: Ideological congruence and incongruence in party youth wings](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.70000)<br>
   with <a href="https://experts.griffith.edu.au/18626-duncan-mcdonnell" style="color: inherit; text-decoration: none;">Duncan McDonnell</a> et al.<br>
@@ -52,6 +52,8 @@ Feel free to email me if you are unable to access any of the publications listed
 
 ## Books
 
+* Os Jovens e a Política [Young People and Politics]<br>
+  Under contract with Francisco Manuel dos Santos Foundation (FFMS)<br>
 * [A Participação dos Jovens nos Municípios e os Conselhos Municipais da Juventude](https://www.aevst.com/wp-content/uploads/2023/10/Livro-Conselhos-Municipais-de-Juventude-1.pdf) [Youth Participation in Municipalities and Youth Municipal Councils]<br>
   with Luís F. M. Almeida et al. <br>
   Coimbra, ValorGlocal (2023)<br>
