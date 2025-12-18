@@ -15,43 +15,11 @@ author_profile: true
   }
 </style>
 
-<!----
-- <b>Electoral Systems</b> <br>
-  <i>BA in Political Science</i><br>
-  University of Minho, Spring 2026<br>
-- <b>[Political Attitudes and Behavior](https://www.dropbox.com/scl/fi/pwf269ze8itkqxwqn2xhs/Syllabus_Atitudes_e_Comportamentos_Pol-ticos.pdf?rlkey=k7lkkfzeftcvz8c0m1s7bfiwm&st=cfy1ye24&dl=0)</b> <br>
-  <i>Msc in Political Science</i><br>
-  Iscte-University Institute of Lisbon, Fall 2025<br>
-- <b>[Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0)</b> <br>
-  <i>BA in Political Science</i><br>
-  University of Minho, Fall 2025<br>
-- <b>[Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0)</b> <br>
-  <i>BA in International Relations</i><br>
-  University of Minho, Fall 2025<br>
-- <b>[Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0)</b> (with Susana R. Nina)<br>
-  <i>Post-graduation in Political Psichology</i><br>
-  Lusófona University, Spring 2023
-- <b>[Local and Regional Politics](https://www.dropbox.com/s/uz7d5ii73ro6klh/Syllabus_PRA.pdf?dl=0)</b><br>
-  <i>BA in Political Science and International Relations</i><br>
-  University of Beira Interior, Spring 2022
-- <b>[Political Analysis](https://www.dropbox.com/s/469qqqelom5qxsh/Syllabus.pdf?dl=0)</b><br>
-  <i>BA in Political Science and International Relations</i><br>
-  University of Beira Interior, Fall 2021
-- <b>[International Organizations](https://www.dropbox.com/s/ik3lvmeuk5ncncm/Syllabus.pdf?dl=0)</b><br>
-  <i>BA in Political Science and International Relations</i><br>
-  University of Beira Interior, Spring 2021
-- <b>[European Union Institutions and Policies](https://www.dropbox.com/s/ozncj6a9ifbtsks/FUC%20IPUE%202020-2021.pdf?dl=0)</b><br>
-  <i>BA in Political Science and International Relations</i><br>
-  University of Beira Interior, Fall 2020
-- <b>[Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0)</b><br>
-  <i>BA in Political Science and International Relations</i><br>
-  University of Beira Interior, Fall 2020
----->
 
 
 | Course | Program | Institution | Semester | 
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------- | ------------- |
-| Comparative Political Systems                   | BA in Politics, Economy and Society | Iscte-IUL | Spring 2026 |
+| [Comparative Political Systems](https://www.dropbox.com/scl/fi/8cttivpco2hyplolzflay/Syllabus_Sistemas_Pol-ticos_Iscte_Sintra.pdf?rlkey=xqci52k71hj10rbd80t1j75gk&st=am7jecmc&dl=0)                   | BA in Politics, Economy and Society | Iscte-IUL | Spring 2026 |
 | Electoral Systems                                    | BA in Political Science | EEG, University of Minho | Spring 2026 |
 | [Political Attitudes and Behavior](https://www.dropbox.com/scl/fi/pwf269ze8itkqxwqn2xhs/Syllabus_Atitudes_e_Comportamentos_Pol-ticos.pdf?rlkey=k7lkkfzeftcvz8c0m1s7bfiwm&st=cfy1ye24&dl=0)                     | Msc in Political Science | Iscte-IUL | Fall 2025 |
 | [Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0)                        | BA in Political Science | EEG, University of Minho | Fall 2025 |
