@@ -23,8 +23,8 @@ Feel free to email me if you are unable to access any of the publications listed
 
 ## Journal articles
 
-* [Latent Populists Activated? Party membership switching to the populist radical right](https://www.dropbox.com/scl/fi/77qu12o9js5soum60ajjv/HFerrinhoLopes_PartySwitching_Chega.pdf?rlkey=nxcuyneiy7y88x8l32fjrfejz&st=1mqcqbbx&dl=0) <br>
-  ***European Politics and Society*** (forthcoming) <br>
+* [Latent Populists Activated? Party membership switching to the populist radical right](https://doi.org/10.1080/23745118.2025.2608673) <br>
+  ***European Politics and Society*** (Online first) <br>
 * [Young radicals, moderates, and aligned: Ideological congruence and incongruence in party youth wings](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.70000)<br>
   with <a href="https://experts.griffith.edu.au/18626-duncan-mcdonnell" style="color: inherit; text-decoration: none;">Duncan McDonnell</a> et al.<br>
   ***European Journal of Political Research*** (2025) <br>
