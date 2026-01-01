@@ -19,7 +19,7 @@ I study how political parties adapt, endure, or fracture under grassroots pressu
 
 Methodologically, I design and conduct field and survey experiments with party elites, members, and voters. I am also interested in quasi-experimental methods for causal inference.
 
-My work has been published in the <i>European Journal of Political Research</i>, <i>West European Politics</i>, and <i>International Political Science Review</i>, among other outlets. My first single-authored book on youth and politics (for a wider audience) is forthcoming with <i>Fundação Francisco Manuel dos Santos</i> in January 2027.
+My work has been published in the <i>European Journal of Political Research</i>, <i>West European Politics</i>, and <i>International Political Science Review</i>, among other outlets. My first single-authored book on youth and politics (for a wider audience) is forthcoming with <i>Fundação Francisco Manuel dos Santos</i> in 2027.
 
 I am on the academic job market. 
 
