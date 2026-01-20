@@ -10,7 +10,7 @@ redirect_from:
 Welcome!
 ======
 
-I am an associate researcher at [ICS, University of Lisbon](https://www.ics.ulisboa.pt/), where I earned my PhD in 2025. Currently, I am currently teaching at [Iscte–IUL](https://www.iscte-iul.pt/) and [EEG-UMinho](https://www.eeg.uminho.pt/pt). Previously, I was a visiting doctoral researcher at the [EUI](https://www.eui.eu/en/academic-units/political-and-social-sciences) and [IPP-CSIC](https://ipp.csic.es/en/about-ipp), and have taught at [UBI](https://www.ubi.pt/) and [Lusófona](https://www.ulusofona.pt/).
+I am an invited assistant professor of political science at [Iscte–IUL](https://www.iscte-iul.pt/) and [EEG-UMinho](https://www.eeg.uminho.pt/pt). Currently, I am also an associate researcher at [ICS, University of Lisbon](https://www.ics.ulisboa.pt/), where I earned my PhD in 2025. Previously, I was a visiting doctoral researcher at the [EUI](https://www.eui.eu/en/academic-units/political-and-social-sciences) and [IPP-CSIC](https://ipp.csic.es/en/about-ipp), and have taught at [UBI](https://www.ubi.pt/) and [Lusófona](https://www.ulusofona.pt/).
 <!-----
  In \hl{Fall 2026 / the full 2026–27 academic year}, I will join Georgetown University’s Department of Government as a FLAD Visiting Professor.
 ----->
