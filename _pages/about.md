@@ -10,9 +10,9 @@ redirect_from:
 Welcome!
 ======
 
-I am an invited assistant professor of political science at [EEG-UMinho](https://www.eeg.uminho.pt/pt) and [Iscte–IUL](https://www.iscte-iul.pt/). I am also an associate researcher at [ICS, University of Lisbon](https://www.ics.ulisboa.pt/), where I earned my PhD in September 2025. Previously, I was a visiting doctoral researcher at the [EUI](https://www.eui.eu/en/academic-units/political-and-social-sciences) and [IPP-CSIC](https://ipp.csic.es/en/about-ipp), and have taught at [UBI](https://www.ubi.pt/) and [Lusófona](https://www.ulusofona.pt/).
+I am an invited assistant professor of political science at [EEG-UMinho](https://www.eeg.uminho.pt/pt) and [Iscte–IUL](https://www.iscte-iul.pt/). I am also an associate researcher at [ICS, University of Lisbon](https://www.ics.ulisboa.pt/), where I earned my PhD in September 2025. Previously, I was a visiting doctoral researcher at the [EUI](https://www.eui.eu/en/academic-units/political-and-social-sciences) and [IPP-CSIC](https://ipp.csic.es/en/about-ipp), and have taught at [UBI](https://www.ubi.pt/) and [Lusófona](https://www.ulusofona.pt/). 
 <!-----
- In \hl{Fall 2026 / the full 2026–27 academic year}, I will join Georgetown University’s Department of Government as a FLAD Visiting Professor.
+In the Fall of 2026, I will join Georgetown University’s Department of Government as a FLAD Visiting Professor.
 ----->
 
 I study how political parties adapt, endure, or fracture under grassroots pressure. Specifically, I am interested in the behavior of party members and voters in destabilizing — or renewing — the foundations of party politics, driving change and representation. I am also interested in how marginalized groups, especially young people, gain access to and act within political institutions, and what party organizations (such as youth wings) do to channel (or suppress) their demands.
@@ -23,7 +23,7 @@ My work has been published in the <i>European Journal of Political Research</i>,
 
 I am on the academic job market. 
 
-Feel free to get in touch at [hugo.ferrinho.lopes@iscte-iul.pt](mailto:hugo.ferrinho.lopes@iscte-iul.pt) or [hugoferrinholopes@eeg.uminho.pt](mailto:hugoferrinholopes@eeg.uminho.pt).
+Feel free to get in touch at [hugoferrinholopes@eeg.uminho.pt](mailto:hugoferrinholopes@eeg.uminho.pt).
 
 <!-----
 I study how intra-party divisions shape party strategies and grassroots behavior, and how young people gain access to—and influence—political institutions, particularly through party youth wings.
