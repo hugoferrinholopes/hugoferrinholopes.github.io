@@ -116,6 +116,7 @@ author_profile: true
 
 | Title                                                                                                          | Programme                                           | Institution                                      | Invited by                              | Date          |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
+| Ideological disagreement and member behavior in political parties and youth wings             | PhD in Political Science and International Relations    | EEG, University of Minho | Laura C. Ferreira-Pereira |  Feb. 2026 | 
 | Intra-party ideological disagreement and political behavior             | PhD in Political Science    | Iscte-University Institute of Lisbon | Ana M. Belchior |  Nov. 2025 | 
 | Party youth wings, ideological extremism and voting for party leaders                                                                 | BA in Political Science and International Relations | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | May 2025     |
 | Causal inference with survey experiments                                                                       | MSc in Political Science & Msc in International Relations | EEG, University of Minho                  | Catarina Silva                           | Apr. 2025      |
