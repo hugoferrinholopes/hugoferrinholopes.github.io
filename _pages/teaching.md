@@ -19,10 +19,10 @@ author_profile: true
 
 | Course | Program | Institution | Semester | 
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------- | ------------- |
-| Research Design   | Msc in Political Science | Iscte-IUL | Spring 2026 |
+| Research Design   | MA in Political Science | Iscte-IUL | Spring 2026 |
 | Political Sphere and Public Opinion   | BA in Political Science | Iscte-IUL | Spring 2026 |
 | Electoral Systems                                    | BA in Political Science | EEG, University of Minho | Spring 2026 |
-| [Political Attitudes and Behavior](https://www.dropbox.com/scl/fi/k6g3gnpl4ibmjrkd7fouy/Syllabus_Atitudes_e_Comportamentos_Pol-ticos.pdf?rlkey=y7bw0fdoykn8218incx6rk7i1&st=7y8p1lk2&dl=0)                     | Msc in Political Science | Iscte-IUL | Fall 2025 |
+| [Political Attitudes and Behavior](https://www.dropbox.com/scl/fi/k6g3gnpl4ibmjrkd7fouy/Syllabus_Atitudes_e_Comportamentos_Pol-ticos.pdf?rlkey=y7bw0fdoykn8218incx6rk7i1&st=7y8p1lk2&dl=0)                     | MA in Political Science | Iscte-IUL | Fall 2025 |
 | [Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0)                        | BA in Political Science | EEG, University of Minho | Fall 2025 |
 | [Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0)                        | BA in International Relations | EEG, University of Minho | Fall 2025 |
 | [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0)                                          | Post-graduate program in Political Psichology              | Lusófona University          | Spring 2023     |
@@ -35,6 +35,33 @@ author_profile: true
 <!-----
 | [Comparative Political Systems](https://www.dropbox.com/scl/fi/8cttivpco2hyplolzflay/Syllabus_Sistemas_Pol-ticos_Iscte_Sintra.pdf?rlkey=xqci52k71hj10rbd80t1j75gk&st=am7jecmc&dl=0)                   | BA in Politics, Economy and Society | Iscte-IUL | Spring 2026 |
 -----> 
+
+
+
+| Title                                                                                                          | Programme                                           | Institution                                      | Invited by                              | Date          |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
+| Ideological disagreement and member behavior in political parties and youth wings             | PhD in Political Science and International Relations    | EEG, University of Minho | Laura C. Ferreira-Pereira |  Feb. 2026 | 
+| Anti-immigrant attitudes and behavior             | MA in Political Science     | EEG, University of Minho | Edna F. Costa |  Feb. 2026 | 
+| Member-party disagreement and political behavior             | PhD in Political Science    | Iscte-University Institute of Lisbon | Ana M. Belchior |  Nov. 2025 | 
+| Party youth wings, ideological extremism and voting for party leaders                                                                 | BA in Political Science and International Relations | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | May 2025     |
+| Causal inference with survey experiments                                                                       | MA in Political Science & MA in International Relations | EEG, University of Minho                  | Catarina Silva                           | Apr. 2025      |
+| Election campaigns in a context without a mediator                                                             | Post-graduation in Digital Politics                 | Lusófona University                            | Susana R. Nina                      | May 2024      |
+| The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
+| Political parties and party systems                                                                            | Political Training School                           | ICS-ULisbon and Order of Pharmacists           | Sofia Serra-Silva                        | Apr. 2024     |
+| Political parties in municipalities                                                                            | II short course on Municipal Law                    | Coimbra Business School    | Luís F. M. Almeida, Tiago Serrão, Manuel F. Ramos | Mar. 2024     |
+| Political parties                                                                                              | Short course on Local, National and International Political Analysis | University of Beira Interior         | Pedro Silveira                           | Oct. 2023     |
+| Political parties and citizen electoral groups                                                                 | Short course on Municipal Law                       | Coimbra Business School                | Luís F. M. Almeida, Tiago Serrão, Manuel F. Ramos | Oct. 2023     |
+| The political system of the United Kingdom                                                                     | BA in Political Science and International Relations | University of Beira Interior                   | Vinicius Albernaz                         | Mar. 2023     |
+| Comparison as a method of political research                                                                   | BA in Political Science and International Relations | Lusófona University                            | Susana R. Nina                           | Nov. 2022     |
+| Second-order elections and the EU's transnational constituency                                                 | MA in International Studies                        | University of Siena                  | Sabrina Cavatorto                         | May 2022      |
+| Comparative Politics                                                                                           | MA in International Studies                        | University of Siena                  | Francesco Marangoni                       | May 2022      |
+| Constraining dissensus and the EU's democratic deficit                                                         | MA in International Studies                        | University of Siena                  | Sabrina Cavatorto                         | May 2022      |
+| The Portuguese political system in comparative perspective                                                     | BA in Political Science                             | University of Siena                  | Paolo Bellucci                            | May 2022      |
+| Electoral system reform in Portuguese national and sub-national politics                                       | BA in Political Science and International Relations | Lusófona University                            | Susana R. Nina                      | Jan. 2021     |
+| Election campaigns under the pandemic                                                                          | MA in Political Science                            | Iscte-University Institute of Lisbon           | José Santana-Pereira                      | Nov. 2021     |
+| Hypotheses and Causal Inference                                                                                | MA in International Relations                      | University of Beira Interior                   | Guilherme Marques Pedro                   | May 2020      |
+| Statistical and Experimental Methods                                                                           | BA in Political Science and International Relations | University of Beira Interior                   | Pedro Silveira                            | May 2020      |
+| Member-party ideological incongruence in Portugal                                                              | MA in Political Science                            | Iscte-University Institute of Lisbon           | Ana M. Belchior                           | Mar. 2020     |
 
 ## Guest lectures
 
@@ -77,15 +104,15 @@ author_profile: true
   invited by Susana R. Nina<br>
   Lusófona University, Nov. 2022<br>
 - **Second-order elections and the EU's transnational constituency**<br>
-  Msc in International Studies<br>
+  MA in International Studies<br>
   invited by Sabrina Cavatorto<br>
   University of Siena, May 2022<br>
 - **Comparative Politics**<br>
-  Msc in International Studies<br>
+  MA in International Studies<br>
   invited by Francesco Marangoni<br>
   University of Siena, May 2022<br>
 - **Constraining dissensus and the EU's democratic deficit**<br>
-  Msc in International Studies<br>
+  MA in International Studies<br>
   invited by Sabrina Cavatorto<br>
   University of Siena, May 2022<br>
 - **The Portuguese political system in comparative perspective**<br>
@@ -97,11 +124,11 @@ author_profile: true
   invited by Susana R. Nina<br>
   Lusófona University, Jan. 2021<br>
 - **Election campaigns under the pandemic**<br>
-  Msc in Political Science<br>
+  MA in Political Science<br>
   invited by José Santana-Pereira<br>
   Iscte-University Institute of Lisbon, Nov. 2021<br>
 - **Hypotheses and Causal Inference**<br>
-  Msc in International Relations<br>
+  MA in International Relations<br>
   invited by Guilherme Marques Pedro<br>
   University of Beira Interior, May 2020<br>
 - **Statistical and Experimental Methods**<br>
@@ -109,36 +136,10 @@ author_profile: true
   invited by Pedro Silveira<br>
   University of Beira Interior, May 2020<br>
 - **Member-party ideological incongruence in Portugal**<br>
-  Msc in Political Science<br>
+  MA in Political Science<br>
   invited by Ana M. Belchior<br>
   Iscte-University Institute of Lisbon, Mar. 2020<br>
 ---->
-
-| Title                                                                                                          | Programme                                           | Institution                                      | Invited by                              | Date          |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
-| Ideological disagreement and member behavior in political parties and youth wings             | PhD in Political Science and International Relations    | EEG, University of Minho | Laura C. Ferreira-Pereira |  Feb. 2026 | 
-| Member-party disagreement and political behavior             | PhD in Political Science    | Iscte-University Institute of Lisbon | Ana M. Belchior |  Nov. 2025 | 
-| Party youth wings, ideological extremism and voting for party leaders                                                                 | BA in Political Science and International Relations | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | May 2025     |
-| Causal inference with survey experiments                                                                       | MSc in Political Science & Msc in International Relations | EEG, University of Minho                  | Catarina Silva                           | Apr. 2025      |
-| Election campaigns in a context without a mediator                                                             | Post-graduation in Digital Politics                 | Lusófona University                            | Susana R. Nina                      | May 2024      |
-| The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
-| Political parties and party systems                                                                            | Political Training School                           | ICS-ULisbon and Order of Pharmacists           | Sofia Serra-Silva                        | Apr. 2024     |
-| Political parties in municipalities                                                                            | II short course on Municipal Law                    | Coimbra Business School    | Luís F. M. Almeida, Tiago Serrão, Manuel F. Ramos | Mar. 2024     |
-| Political parties                                                                                              | Short course on Local, National and International Political Analysis | University of Beira Interior         | Pedro Silveira                           | Oct. 2023     |
-| Political parties and citizen electoral groups                                                                 | Short course on Municipal Law                       | Coimbra Business School                | Luís F. M. Almeida, Tiago Serrão, Manuel F. Ramos | Oct. 2023     |
-| The political system of the United Kingdom                                                                     | BA in Political Science and International Relations | University of Beira Interior                   | Vinicius Albernaz                         | Mar. 2023     |
-| Comparison as a method of political research                                                                   | BA in Political Science and International Relations | Lusófona University                            | Susana R. Nina                           | Nov. 2022     |
-| Second-order elections and the EU's transnational constituency                                                 | Msc in International Studies                        | University of Siena                  | Sabrina Cavatorto                         | May 2022      |
-| Comparative Politics                                                                                           | Msc in International Studies                        | University of Siena                  | Francesco Marangoni                       | May 2022      |
-| Constraining dissensus and the EU's democratic deficit                                                         | Msc in International Studies                        | University of Siena                  | Sabrina Cavatorto                         | May 2022      |
-| The Portuguese political system in comparative perspective                                                     | BA in Political Science                             | University of Siena                  | Paolo Bellucci                            | May 2022      |
-| Electoral system reform in Portuguese national and sub-national politics                                       | BA in Political Science and International Relations | Lusófona University                            | Susana R. Nina                      | Jan. 2021     |
-| Election campaigns under the pandemic                                                                          | Msc in Political Science                            | Iscte-University Institute of Lisbon           | José Santana-Pereira                      | Nov. 2021     |
-| Hypotheses and Causal Inference                                                                                | Msc in International Relations                      | University of Beira Interior                   | Guilherme Marques Pedro                   | May 2020      |
-| Statistical and Experimental Methods                                                                           | BA in Political Science and International Relations | University of Beira Interior                   | Pedro Silveira                            | May 2020      |
-| Member-party ideological incongruence in Portugal                                                              | Msc in Political Science                            | Iscte-University Institute of Lisbon           | Ana M. Belchior                           | Mar. 2020     |
-
-
 
 ## Supervision and co-supervision of master students
 
