@@ -30,7 +30,7 @@ author_profile: true
 ## Media Activity
 
 ### International Television
-- [**TRT World News**](https://www.youtube.com/watch?v=PRqPzAJ39hc) - Interviewed about the Portuguese general elections of May 2025 (2026).
+- [**TRT World News**](https://www.youtube.com/watch?v=PRqPzAJ39hc) - Interviewed about the Portuguese Presidential elections of May 2025 (2026).
 - [**TRT World News**](https://youtu.be/Au-qKEMXIUY?si=v3hnhcab89Wz8-pl) - Interviewed about the Portuguese general elections of May 2025 (2025).
 - [**TRT World News**](https://www.trtworld.com/video/tv-shows/portugal-election-why-is-the-far-right-rising-in-portugal-17356284) - Analysis of the 2024 Portuguese elections and the rise of the radical right (2024).
 
