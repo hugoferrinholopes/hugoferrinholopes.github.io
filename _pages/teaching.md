@@ -39,11 +39,11 @@ author_profile: true
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
 | Ideological disagreement and member behavior in political parties and youth wings             | PhD in Political Science and International Relations    | EEG, University of Minho | Laura C. Ferreira-Pereira |  Feb. 2026 | 
 | Anti-immigrant attitudes and behavior             | MA in Political Science     | EEG, University of Minho | Edna F. Costa |  Feb. 2026 | 
-| Member-party disagreement and political behavior             | PhD in Political Science    | Iscte-University Institute of Lisbon | Ana M. Belchior |  Nov. 2025 | 
+| Member-party disagreement and political behavior             | PhD in Political Science    | Iscte- | Ana M. Belchior |  Nov. 2025 | 
 | Party youth wings, ideological extremism and voting for party leaders                                                                 | BA in Political Science and International Relations | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | May 2025     |
 | Causal inference with survey experiments                                                                       | MA in Political Science & MA in International Relations | EEG, University of Minho                  | Catarina Silva                           | Apr. 2025      |
 | Election campaigns in a context without a mediator                                                             | Post-graduation in Digital Politics                 | Lusófona University                            | Susana R. Nina                      | May 2024      |
-| The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra, University Institute of Lisbon    | Tiago Carvalho                           | May 2024      |
+| The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra,     | Tiago Carvalho                           | May 2024      |
 | Political parties and party systems                                                                            | Political Training School                           | ICS-ULisbon and Order of Pharmacists           | Sofia Serra-Silva                        | Apr. 2024     |
 | Political parties in municipalities                                                                            | II short course on Municipal Law                    | Coimbra Business School    | Luís F. M. Almeida, Tiago Serrão, Manuel F. Ramos | Mar. 2024     |
 | Political parties                                                                                              | Short course on Local, National and International Political Analysis | University of Beira Interior         | Pedro Silveira                           | Oct. 2023     |
@@ -55,10 +55,10 @@ author_profile: true
 | Constraining dissensus and the EU's democratic deficit                                                         | MA in International Studies                        | University of Siena                  | Sabrina Cavatorto                         | May 2022      |
 | The Portuguese political system in comparative perspective                                                     | BA in Political Science                             | University of Siena                  | Paolo Bellucci                            | May 2022      |
 | Electoral system reform in Portuguese national and sub-national politics                                       | BA in Political Science and International Relations | Lusófona University                            | Susana R. Nina                      | Jan. 2021     |
-| Election campaigns under the pandemic                                                                          | MA in Political Science                            | Iscte-University Institute of Lisbon           | José Santana-Pereira                      | Nov. 2021     |
+| Election campaigns under the pandemic                                                                          | MA in Political Science                            | Iscte-           | José Santana-Pereira                      | Nov. 2021     |
 | Hypotheses and Causal Inference                                                                                | MA in International Relations                      | University of Beira Interior                   | Guilherme Marques Pedro                   | May 2020      |
 | Statistical and Experimental Methods                                                                           | BA in Political Science and International Relations | University of Beira Interior                   | Pedro Silveira                            | May 2020      |
-| Member-party ideological incongruence in Portugal                                                              | MA in Political Science                            | Iscte-University Institute of Lisbon           | Ana M. Belchior                           | Mar. 2020     |
+| Member-party ideological incongruence in Portugal                                                              | MA in Political Science                            | Iscte-           | Ana M. Belchior                           | Mar. 2020     |
 
 ## Guest lectures
 
@@ -75,7 +75,7 @@ author_profile: true
 - **The end of the <i>'de facto'</i> two-party system in Portugal**<br>
   BA in Politics, Economics and Society<br>
   invited by Tiago Carvalho<br>
-  Iscte-Sintra, University Institute of Lisbon, May 2024<br>
+  Iscte-Sintra, , May 2024<br>
 - **Political parties and party systems**<br>
   Political Training School<br>
   invited by Sofia Serra-Silva<br>
@@ -123,7 +123,7 @@ author_profile: true
 - **Election campaigns under the pandemic**<br>
   MA in Political Science<br>
   invited by José Santana-Pereira<br>
-  Iscte-University Institute of Lisbon, Nov. 2021<br>
+  Iscte-, Nov. 2021<br>
 - **Hypotheses and Causal Inference**<br>
   MA in International Relations<br>
   invited by Guilherme Marques Pedro<br>
@@ -135,7 +135,7 @@ author_profile: true
 - **Member-party ideological incongruence in Portugal**<br>
   MA in Political Science<br>
   invited by Ana M. Belchior<br>
-  Iscte-University Institute of Lisbon, Mar. 2020<br>
+  Iscte-, Mar. 2020<br>
 ---->
 
 ## Supervision and co-supervision of master students
