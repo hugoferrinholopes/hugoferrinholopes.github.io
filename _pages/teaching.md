@@ -21,6 +21,7 @@ author_profile: true
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------- | ------------- |
 | Research Design   | MA in Political Science | Iscte-IUL | Spring 2026 |
 | Political Sphere and Public Opinion   | BA in Political Science | Iscte-IUL | Spring 2026 |
+| [Comparative Political Systems](https://www.dropbox.com/scl/fi/8cttivpco2hyplolzflay/Syllabus_Sistemas_Pol-ticos_Iscte_Sintra.pdf?rlkey=xqci52k71hj10rbd80t1j75gk&st=am7jecmc&dl=0)                   | BA in Politics, Economy and Society | Iscte-IUL | Spring 2026 |
 | Electoral Systems                                    | BA in Political Science | EEG, University of Minho | Spring 2026 |
 | [Political Attitudes and Behavior](https://www.dropbox.com/scl/fi/k6g3gnpl4ibmjrkd7fouy/Syllabus_Atitudes_e_Comportamentos_Pol-ticos.pdf?rlkey=y7bw0fdoykn8218incx6rk7i1&st=7y8p1lk2&dl=0)                     | MA in Political Science | Iscte-IUL | Fall 2025 |
 | [Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0)                        | BA in Political Science | EEG, University of Minho | Fall 2025 |
@@ -31,10 +32,6 @@ author_profile: true
 | [International Organizations](https://www.dropbox.com/s/ik3lvmeuk5ncncm/Syllabus.pdf?dl=0)                                                | BA in Political Science and International Relations  | University of Beira Interior | Spring 2021     |
 | [European Union Institutions and Policies](https://www.dropbox.com/s/ozncj6a9ifbtsks/FUC%20IPUE%202020-2021.pdf?dl=0)                     | BA in Political Science and International Relations  | University of Beira Interior | Fall 2020     |
 | [Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0) | BA in Political Science and International Relations  | University of Beira Interior | Fall 2020     |
-
-<!-----
-| [Comparative Political Systems](https://www.dropbox.com/scl/fi/8cttivpco2hyplolzflay/Syllabus_Sistemas_Pol-ticos_Iscte_Sintra.pdf?rlkey=xqci52k71hj10rbd80t1j75gk&st=am7jecmc&dl=0)                   | BA in Politics, Economy and Society | Iscte-IUL | Spring 2026 |
------> 
 
 
 
