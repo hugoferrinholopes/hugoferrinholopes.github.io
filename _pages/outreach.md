@@ -38,8 +38,6 @@ author_profile: true
 ### National Television
 - [**RTP 2 — Sociedade Civil**](https://www.rtp.pt/play/p8130/sociedade-civil) - Interviewed about rising ideological and affective polarization in Western democracies (2026).
 - **SIC Notícias** - Interviewed about the second round of the 2026 Presidential elections in Portugal (2026).
-- **RTP Notícias** - Interviewed about the expectations about the result of the run-off of the 2026 Presidential elections in Portugal (2026).
-- **RTP Notícias** - Interviewed about the campaign for the second round of 2026 Presidential elections in Portugal (2026).
 - **RTP Notícias** - Interviewed about the 2026 Presidential elections in Portugal (2026).
 - **SIC Notícias** - Interviewed about the 2026 Presidential elections in Portugal (2026).
 - **RTP Notícias** - Interviewed about the general strike against government labor policies in Portugal (2025).
