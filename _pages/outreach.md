@@ -53,7 +53,7 @@ author_profile: true
 
 
 ### International Press
-- **Die Furche** (Austria) - *[Title to be defined]* (forthcoming).
+- [**Die Furche**](https://www.furche.at/international/andre-ventura-der-norbert-hofer-von-portugal-in-der-stichwahl-17660879) (Austria) - *André Ventura: Der Norbert Hofer von Portugal in der Stichwahl* (2026).
 - [**News AT**](https://www.news.at/politik/portugal-sozialist-und-ultrarechter-in-prasidentenstichwahl) (Austria) - *Portugal: Sozialist und Ultrarechter in Präsidentenstichwahl* (2026).
 - [**Österreichischer Rundfunk (ORF)**](https://orf.at/stories/3416914/) (Austria) - *„Impfadmiral" will Präsident werden* (2026).
 - [**Le Soir**](https://www.lesoir.be/722893/article/2026-01-16/portugal-pourquoi-lelection-presidentielle-est-elle-aussi-imprevisible) (Belgium) - *Portugal: pourquoi l'élection présidentielle est-elle aussi imprévisible?* (2026).
