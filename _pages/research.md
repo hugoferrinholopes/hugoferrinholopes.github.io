@@ -67,7 +67,7 @@ Feel free to email me if you are unable to access any of the publications listed
     In *The Politics of Candidate Selection in Portugal (1975-2024)*<br>
     edited by Jorge M. Fernandes and Mariana Carmo Duarte<br>
     Routledge, London (in progress)<br>
-* As eleições legislativas de 2024 [The 2024 legislative elections]<br>
+* [O fim do sistema bipartidário: As eleições legislativas de 2024](https://www.dropbox.com/scl/fi/tersx42ce6ewszpv5w5q2/2026-Chapter-Parlamento.pdf?rlkey=96y7b54h97rdnxcxsvttq2b3k&st=c98ayt5g&dl=0) [The 2024 legislative elections]<br>
   In *As Eleições Legislativas no Portugal Democrático: 1975-2025* [Legislative Elections in Portuguese Democracy: 1975-2025]<br>
   edited by Marco Lisi<br>
   Assembleia da República, Lisbon (in progress)<br>
