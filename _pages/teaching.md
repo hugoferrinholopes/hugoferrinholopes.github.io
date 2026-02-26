@@ -34,6 +34,8 @@ author_profile: true
 | [Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0) | BA in Political Science and International Relations  | University of Beira Interior | Fall 2020     |
 
 
+## Guest lectures
+
 
 | Title                                                                                                          | Programme                                           | Institution                                      | Invited by                              | Date          |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- | ------------- |
@@ -59,8 +61,6 @@ author_profile: true
 | Hypotheses and Causal Inference                                                                                | MA in International Relations                      | University of Beira Interior                   | Guilherme Marques Pedro                   | May 2020      |
 | Statistical and Experimental Methods                                                                           | BA in Political Science and International Relations | University of Beira Interior                   | Pedro Silveira                            | May 2020      |
 | Member-party ideological incongruence in Portugal                                                              | MA in Political Science                            | Iscte           | Ana M. Belchior                           | Mar. 2020     |
-
-## Guest lectures
 
 <!----
 
