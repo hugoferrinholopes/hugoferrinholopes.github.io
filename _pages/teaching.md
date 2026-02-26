@@ -45,7 +45,7 @@ author_profile: true
 | Party youth wings, ideological extremism and voting for party leaders                                                                 | BA in Political Science and International Relations | FCSH, NOVA University of Lisbon                 | João Gaio e Silva                        | May 2025     |
 | Causal inference with survey experiments                                                                       | MA in Political Science & MA in International Relations | EEG, University of Minho                  | Catarina Silva                           | Apr. 2025      |
 | Election campaigns in a context without a mediator                                                             | Post-graduation in Digital Politics                 | Lusófona University                            | Susana R. Nina                      | May 2024      |
-| The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra,     | Tiago Carvalho                           | May 2024      |
+| The end of the <i>'de facto'</i> two-party system in Portugal                                                  | BA in Politics, Economics and Society               | Iscte-Sintra     | Tiago Carvalho                           | May 2024      |
 | Political parties and party systems                                                                            | Political Training School                           | ICS-ULisbon and Order of Pharmacists           | Sofia Serra-Silva                        | Apr. 2024     |
 | Political parties in municipalities                                                                            | II short course on Municipal Law                    | Coimbra Business School    | Luís F. M. Almeida, Tiago Serrão, Manuel F. Ramos | Mar. 2024     |
 | Political parties                                                                                              | Short course on Local, National and International Political Analysis | University of Beira Interior         | Pedro Silveira                           | Oct. 2023     |
@@ -75,7 +75,7 @@ author_profile: true
 - **The end of the <i>'de facto'</i> two-party system in Portugal**<br>
   BA in Politics, Economics and Society<br>
   invited by Tiago Carvalho<br>
-  Iscte-Sintra, , May 2024<br>
+  Iscte-Sintra, May 2024<br>
 - **Political parties and party systems**<br>
   Political Training School<br>
   invited by Sofia Serra-Silva<br>
