@@ -19,10 +19,10 @@ author_profile: true
 
 | Course | Program | Institution | Semester | 
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------- | ------------- |
-| Research Design   | MA in Political Science | Iscte | Spring 2026 |
-| Political Sphere and Public Opinion   | BA in Political Science | Iscte | Spring 2026 |
+| [Research Design](https://fenix-mais.iscte-iul.pt/courses/00534-565977905419872/pagina-inicial)   | MA in Political Science | Iscte | Spring 2026 |
+| [Political Sphere and Public Opinion](https://www.dropbox.com/scl/fi/9e0vhhbvmbk6t82rjouty/syllabus_EPOP.pdf?rlkey=sq67cwoh28uiialecoe0zdz5i&st=8lkxurq4&dl=0)   | BA in Political Science | Iscte | Spring 2026 |
 | [Comparative Political Systems](https://www.dropbox.com/scl/fi/8cttivpco2hyplolzflay/Syllabus_Sistemas_Pol-ticos_Iscte_Sintra.pdf?rlkey=xqci52k71hj10rbd80t1j75gk&st=am7jecmc&dl=0)                   | BA in Politics, Economy and Society | Iscte-Sintra | Spring 2026 |
-| Electoral Systems                                    | BA in Political Science | EEG, University of Minho | Spring 2026 |
+| [Electoral Systems](https://www.dropbox.com/scl/fi/1qo1ouefv666sgyu4j1ii/Syllabus_Sistemas_Eleitorais_UM.pdf?rlkey=fcy2uwpwb4ucjni18xn083j6u&st=dh5eyeiu&dl=0)                                    | BA in Political Science | EEG, University of Minho | Spring 2026 |
 | [Political Attitudes and Behavior](https://www.dropbox.com/scl/fi/k6g3gnpl4ibmjrkd7fouy/Syllabus_Atitudes_e_Comportamentos_Pol-ticos.pdf?rlkey=y7bw0fdoykn8218incx6rk7i1&st=7y8p1lk2&dl=0)                     | MA in Political Science | Iscte | Fall 2025 |
 | [Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0)                        | BA in Political Science | EEG, University of Minho | Fall 2025 |
 | [Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0)                        | BA in International Relations | EEG, University of Minho | Fall 2025 |
