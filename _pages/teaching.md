@@ -19,6 +19,7 @@ author_profile: true
 
 | Course | Program | Institution | Semester | 
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------- | ------------- |
+| [Youth and Politics](https://www.dropbox.com/scl/fi/s4i4divkckybka3lp8npo/Syllabus_Georgetown.pdf?rlkey=8bfgl071hsg9oheeygg5meb2s&st=l5gep2h6&dl=0)   | TBD | Georgetown University | Fall 2026 |
 | [Research Design](https://fenix-mais.iscte-iul.pt/courses/00534-565977905419872/pagina-inicial)   | MA in Political Science | Iscte | Spring 2026 |
 | [Political Sphere and Public Opinion](https://www.dropbox.com/scl/fi/9e0vhhbvmbk6t82rjouty/syllabus_EPOP.pdf?rlkey=sq67cwoh28uiialecoe0zdz5i&st=8lkxurq4&dl=0)   | BA in Political Science | Iscte | Spring 2026 |
 | [Comparative Political Systems](https://www.dropbox.com/scl/fi/8cttivpco2hyplolzflay/Syllabus_Sistemas_Pol-ticos_Iscte_Sintra.pdf?rlkey=xqci52k71hj10rbd80t1j75gk&st=am7jecmc&dl=0)                   | BA in Politics, Economy and Society | Iscte-Sintra | Spring 2026 |
