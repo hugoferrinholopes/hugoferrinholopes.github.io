@@ -77,7 +77,7 @@ Feel free to email me if you are unable to access any of the publications listed
 * [O fim do sistema bipartidário: As eleições legislativas de 2024](https://www.dropbox.com/scl/fi/tersx42ce6ewszpv5w5q2/2026-Chapter-Parlamento.pdf?rlkey=96y7b54h97rdnxcxsvttq2b3k&st=c98ayt5g&dl=0) [The 2024 legislative elections]<br>
   In *As Eleições Legislativas no Portugal Democrático: 1975-2025* [Legislative Elections in Portuguese Democracy: 1975-2025]<br>
   edited by Marco Lisi<br>
-  Assembleia da República, Lisbon (in progress)<br>
+  Assembleia da República, Lisbon (forthcoming)<br>
 * [The Higher the Office, the Narrower the Path? Youth Political Representation in Portugal](https://www.dropbox.com/scl/fi/uxtf0241r6687n0fjm03p/2025-Chapter-Palgrave.pdf?rlkey=lt8ds7pnp7gpz8spgtczchx9w&st=8inrwzli&dl=0)<br>
     with Patrícia Silva<br>
     In *Youth Political Representation - A Global Perspective on Young Adults’ Presence in Political Institutions*<br>
