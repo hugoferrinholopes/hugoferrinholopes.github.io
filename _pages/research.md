@@ -27,7 +27,7 @@ Feel free to email me if you are unable to access any of the publications listed
   ***European Politics and Society*** (Online first) <br>
     * Featured in [Público](https://www.publico.pt/2026/02/14/politica/noticia/cerca-25-militantes-chega-vieram-partidos-maioria-psd-cds-2162631)
 * [Young radicals, moderates, and aligned: Ideological congruence and incongruence in party youth wings](https://ejpr.onlinelibrary.wiley.com/doi/full/10.1111/1475-6765.70000)<br>
-  with <a href="https://experts.griffith.edu.au/18626-duncan-mcdonnell" style="color: inherit; text-decoration: none;">Duncan McDonnell</a> et al.<br>
+  with <a href="https://duncanmcdonnell.com/" style="color: inherit; text-decoration: none;">Duncan McDonnell</a> et al.<br>
   ***European Journal of Political Research*** (2025) <br>
     * Featured in [The Australian](https://sofiaammassari.net/wp-content/uploads/2025/03/Progressive-party-youth-divisions-more-radical-than-conservatives-_-The-Australian.pdf)<br>
 * [Radical right advance and party system change: the 2024 Portuguese snap elections](https://doi.org/10.1080/01402382.2024.2372752) <br>
