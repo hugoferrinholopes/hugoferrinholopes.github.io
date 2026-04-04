@@ -69,6 +69,7 @@ author_profile: true
 
 
 ### National Press
+- **[Público](https://www.publico.pt/2026/03/30/politica/noticia/jovens-longe-partidos-jotas-mostram-evolucoes-distintas-mantem-influencia-2169219)** -- *Jovens longe dos partidos? “Jotas” mostram evoluções distintas, mas mantêm influência* (2026).
 - **Campeão das Províncias** - *Presidenciais: Ventura ou Seguro, para onde pede o "voto" na segunda volta?* (2026).
 - [**ECO — Economia Online**](https://eco.sapo.pt/2026/01/28/seguro-vs-ventura-a-oportunidade-perdida-de-um-debate-sem-impacto-na-campanha/) - *Seguro vs Ventura. "A oportunidade perdida" de um debate sem impacto na campanha* (2026).
 - [**ECO — Economia Online**](https://eco.sapo.pt/2026/01/23/contra-poder-esta-a-chegar-a-belem-e-pressiona-o-governo/) - *Contra-poder está a chegar a Belém e pressiona o Governo* (2026).
