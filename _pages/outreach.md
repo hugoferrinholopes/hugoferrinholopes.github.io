@@ -124,6 +124,7 @@ author_profile: true
 
 
 ### Radio, Podcasts, and Think-Tanks
+- **Antena 1** -- Interviewed about party finance transparency and the public disclosure of political donors in Portugal (2026).
 - [**TSF**](https://www.tsf.pt/programa/revista-de-imprensa-comentada?ep=18050050) -- Interviewed about the results of the second round of the 2026 Portuguese presidential election (2026).
 - **European Center for Populism Studies (ECPS)** - Interviewed about the results of the first round of the 2026 presidential elections in Portugal, and the rise of populism in the country (2026).
 - [**Política Sem Café**](https://open.spotify.com/episode/3DKwLBQtjFyOAEEPXrH8Xx?si=4e4e446abe6948b1) - Interview on party membership and youth wings (2024).
