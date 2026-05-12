@@ -88,7 +88,7 @@ Feel free to email me if you are unable to access any of the publications listed
   edited by Jaime Lourenço<br>
   Tinta da China, Lisbon (forthcoming)<br>
 * [The Higher the Office, the Narrower the Path? Youth Political Representation in Portugal](https://www.dropbox.com/scl/fi/uxtf0241r6687n0fjm03p/2025-Chapter-Palgrave.pdf?rlkey=lt8ds7pnp7gpz8spgtczchx9w&st=8inrwzli&dl=0)<br>
-    with Patrícia Silva<br>
+    with <a href="https://govcopp.ua.pt/user/804" style="color: inherit; text-decoration: none;">Patrícia Silva</a><br>
     In *Youth Political Representation - A Global Perspective on Young Adults’ Presence in Political Institutions*<br>
     edited by Kira R. Kurz and Brittany Anlar<br>
     Palgrave, London (2026)<br>
