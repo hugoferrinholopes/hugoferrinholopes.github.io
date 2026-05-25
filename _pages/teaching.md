@@ -19,6 +19,7 @@ author_profile: true
 
 | Course | Program | Institution | Semester | 
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------------------------- | ------------- |
+| Political Participation and Representation                                                                                                | Post-graduate program in Political Science | Universidade Europeia | Spring 2027 |
 | [Youth and Politics](https://www.dropbox.com/scl/fi/s4i4divkckybka3lp8npo/Syllabus_Georgetown.pdf?rlkey=8bfgl071hsg9oheeygg5meb2s&st=l5gep2h6&dl=0) (GOVT 3421 1)   | BA in Government | Georgetown University | Fall 2026 |
 | [Research Design](https://fenix-mais.iscte-iul.pt/courses/00534-565977905419872/pagina-inicial)   | MA in Political Science | Iscte | Spring 2026 |
 | [Political Sphere and Public Opinion](https://www.dropbox.com/scl/fi/9e0vhhbvmbk6t82rjouty/syllabus_EPOP.pdf?rlkey=sq67cwoh28uiialecoe0zdz5i&st=8lkxurq4&dl=0)   | BA in Political Science | Iscte | Spring 2026 |
