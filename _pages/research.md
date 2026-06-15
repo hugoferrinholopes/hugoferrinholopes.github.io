@@ -23,6 +23,9 @@ Feel free to email me if you are unable to access any of the publications listed
 
 ## Journal articles
 
+* Measuring and explaining the robustness of party ethics self-regulation <br>
+  with <a href="https://www.ics.ulisboa.pt/pessoa/luis-de-sousa" style="color: inherit; text-decoration: none;">Luís de Sousa</a> et al.<br>
+  ***Regulation & Governance*** (Forthcoming) <br>
 * [Latent Populists Activated? Party membership switching to the populist radical right](https://doi.org/10.1080/23745118.2025.2608673) <br>
   ***European Politics and Society*** (Online first) <br>
     * Featured in [Público](https://www.publico.pt/2026/02/14/politica/noticia/cerca-25-militantes-chega-vieram-partidos-maioria-psd-cds-2162631)
