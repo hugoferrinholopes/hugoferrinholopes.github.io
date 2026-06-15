@@ -18,8 +18,6 @@ Methodologically, I design and conduct field and survey experiments with party e
 
 My work has been published in the <i>European Journal of Political Research</i>, <i>West European Politics</i>, and <i>Regulation & Governance</i>, among other outlets. My first single-authored book on youth and politics (for a wider audience) is under contract with <i>Fundação Francisco Manuel dos Santos</i>.
 
-I am on the academic job market. 
-
 Feel free to get in touch at [hugoferrinholopes@eeg.uminho.pt](mailto:hugoferrinholopes@eeg.uminho.pt).
 
 <!-----
