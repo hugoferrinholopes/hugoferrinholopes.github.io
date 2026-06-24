@@ -70,7 +70,10 @@ author_profile: true
 
 
 ### National Press
+- **[Jornal Económico](https://jornaleconomico.sapo.pt/noticias/pacote-laboral-nao-do-chega-visa-forcar-cedencias-do-executivo-e-valorizar-o-partido/)** -- *Pacote laboral: “Não” do Chega visa forçar cedências do Executivo e valorizar o partido* (2026).
+- **Greve geral aumenta desgaste do Governo e dificulta aprovação da reforma laboral** -- *https://eco.sapo.pt/2026/06/03/greve-geral-aumenta-desgaste-do-governo-e-dificulta-aprovacao-da-reforma-laboral/* (2026).
 - **[Jornal de Notícias](https://www.jn.pt/nacional/artigo/cavaco-apoiou-a-reeleicao-de-soares-costa-e-marcelo-eram-felizes-e-nao-sabiam/18074913)** -- *Cavaco apoiou a reeleição de Soares, Costa e Marcelo eram felizes e não sabiam* (2026).
+- **[ECO](https://eco.sapo.pt/2026/05/30/operacao-imergente-trava-embalo-do-ps-e-da-forca-ao-chega/)** -- *https://eco.sapo.pt/2026/05/30/operacao-imergente-trava-embalo-do-ps-e-da-forca-ao-chega/* (2026).
 - **[Jornal de Notícias](https://www.jn.pt/nacional/artigo/montenegro-vincula-seguro-num-jogo-de-equilibrios/18074908)** -- *Montenegro vincula Seguro num jogo de equilíbrios* (2026).
 - **[ECO](https://eco.sapo.pt/2026/04/07/ps-unido-na-forma-mas-preso-no-nim-e-longe-de-se-afirmar-alternativa-ao-governo/)** -- *PS unido na forma, mas preso no “nim” e longe de se afirmar alternativa ao Governo* (2026).
 - **[Público](https://www.publico.pt/2026/03/30/politica/noticia/jovens-longe-partidos-jotas-mostram-evolucoes-distintas-mantem-influencia-2169219)** -- *Jovens longe dos partidos? “Jotas” mostram evoluções distintas, mas mantêm influência* (2026).
