@@ -83,10 +83,10 @@ Feel free to email me if you are unable to access any of the publications listed
   In *As Eleições Legislativas no Portugal Democrático: 1975-2025* [Legislative Elections in Portuguese Democracy: 1975-2025]<br>
   edited by Marco Lisi<br>
   Assembleia da República, Lisbon (forthcoming)<br>
-* [Um Deserto de Rejuvenescimento. O Envelhecimento das Elites Ministeriais em Portugal](https://www.dropbox.com/scl/fi/wcf3ax4rkn4cet5x55srj/HFerrinhoLopes_Chapter_FFMS.pdf?rlkey=ka5yvz7kc7j3g9jmwg9f5kst0&st=lqp2qjka&dl=0) [A Desert of Rejuvenation: The Aging of Ministerial Elites in Portugal]<br>
-  In *Governantes Portugueses em Perspetiva Comparada* [Portuguese Government Members in Comparative Perspective]<br>
+* [O Envelhecimento das Elites Ministeriais](https://www.dropbox.com/scl/fi/wcf3ax4rkn4cet5x55srj/HFerrinhoLopes_Chapter_FFMS.pdf?rlkey=ka5yvz7kc7j3g9jmwg9f5kst0&st=lqp2qjka&dl=0) [The Aging of Ministerial Elites]<br>
+  In *Quem Governa Portugal? Perfis ministeriais em perspetiva comparada* [Who Governs Portugal? Minister profiles in comparative perspective]<br>
   edited by Marcelo Camerlo and António Costa Pinto<br>
-  FFMS, Lisbon (forthcoming)<br>
+  FFMS, Lisbon (2026)<br>
 * [Jovens, Política e Parlamento dos Jovens](https://www.dropbox.com/scl/fi/xii73o88j0dydcgpy4gcq/VAlbernaz_HFerrinhoLopes_Chapter_TintaChina.pdf?rlkey=px1p3hb6abfegwdlyks5zmqtl&st=s8lg3qw2&dl=0) [Youth, Politics, and Youth Parliament]<br>
   with Vinicius Albernaz<br>
   In *Jornalismo Parlamentar* [Parliamentary Journalism]<br>
