@@ -70,6 +70,7 @@ author_profile: true
 
 
 ### National Press
+- **[ECO](https://eco.sapo.pt/2026/08/14/pontal-montenegro-leva-obra-feita-para-a-rentree-e-aponta-baterias-as-forcas-de-bloqueio-de-chega-e-ps/)** -- *Pontal: Montenegro leva obra feita para a rentrée e aponta baterias às “forças de bloqueio” de Chega e PS* (2026).
 - **[Jornal de Notícias](https://www.jn.pt/nacional/artigo/ps-e-o-partido-que-tem-mais-projetos-de-lei-aprovados-e-il-esta-no-fundo-da-lista/18111095)** -- *PS é o partido que tem mais projetos de lei aprovados e IL está no fundo da lista* (2026).
 - **[Jornal Económico](https://jornaleconomico.sapo.pt/noticias/pacote-laboral-nao-do-chega-visa-forcar-cedencias-do-executivo-e-valorizar-o-partido/)** -- *Pacote laboral: “Não” do Chega visa forçar cedências do Executivo e valorizar o partido* (2026).
 - **[ECO — Economia Online](https://eco.sapo.pt/2026/06/03/greve-geral-aumenta-desgaste-do-governo-e-dificulta-aprovacao-da-reforma-laboral/)** -- *Greve geral aumenta desgaste do Governo e dificulta aprovação da reforma laboral* (2026).
