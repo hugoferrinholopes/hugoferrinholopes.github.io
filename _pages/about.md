@@ -10,7 +10,7 @@ redirect_from:
 Welcome!
 ======
 
-I am the FLAD Visiting Professor at the [Department of Government at Georgetown University](https://government.georgetown.edu/). I am also an associate researcher at [ICS, University of Lisbon](https://www.ics.ulisboa.pt/), where I earned my PhD. Previously, I was a visiting doctoral researcher at the [EUI](https://www.eui.eu/en/academic-units/political-and-social-sciences) and [IPP-CSIC](https://ipp.csic.es/en/about-ipp), and have held teaching positions at [Iscte](https://www.iscte-iul.pt/), [EEG-UMinho](https://www.eeg.uminho.pt/pt), [UBI](https://www.ubi.pt/) and [Lusófona](https://www.ulusofona.pt/). 
+I am the FLAD Visiting Professor at the Department of Government at [Georgetown University](https://government.georgetown.edu/). I am also an associate researcher at [ICS, University of Lisbon](https://www.ics.ulisboa.pt/), where I earned my PhD. Previously, I was a visiting doctoral researcher at the [EUI](https://www.eui.eu/en/academic-units/political-and-social-sciences) and [IPP-CSIC](https://ipp.csic.es/en/about-ipp), and have held teaching positions at [Iscte](https://www.iscte-iul.pt/), [EEG-UMinho](https://www.eeg.uminho.pt/pt), [UBI](https://www.ubi.pt/) and [Lusófona](https://www.ulusofona.pt/). 
 
 I study how political parties adapt, endure, or fracture under grassroots pressure. Specifically, I am interested in the behavior of party members and voters in destabilizing — or renewing — the foundations of party politics, driving change and representation. I am also interested in how marginalized groups, especially young people, gain access to and act within political institutions, and what party organizations (such as youth wings) do to channel (or suppress) their demands.
 
