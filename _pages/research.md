@@ -23,6 +23,9 @@ Feel free to email me if you are unable to access any of the publications listed
 
 ## Journal articles
 
+* A voter-led cordon sanitaire: coordination failure on the right and negative voting in Portugal’s 2026 presidential elections<br>
+  with <a href="https://www.pedro-magalhaes.org/" style="color: inherit; text-decoration: none;">Pedro C. Magalhães</a><br>
+  ***South European Society and Politics*** (Forthcoming)<br>
 * [Measuring and explaining the robustness of party ethics self-regulation](https://doi.org/10.1111/rego.70189) <br>
   with <a href="https://www.ics.ulisboa.pt/pessoa/luis-de-sousa" style="color: inherit; text-decoration: none;">Luís de Sousa</a> et al.<br>
   ***Regulation & Governance*** (Online first) <br>
