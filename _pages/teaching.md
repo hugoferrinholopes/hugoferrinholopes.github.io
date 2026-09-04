@@ -20,7 +20,7 @@ author_profile: true
 | Institution | Program | Course | Semester | # students | Student eval. |
 |---|---|---|---|---|---|
 | Universidade Europeia | Post-graduate program in Political Science | Political Participation and Representation | Spring 2027 | TBD | — |
-| Georgetown University | BA in Government | [Youth and Politics](https://www.dropbox.com/scl/fi/s4i4divkckybka3lp8npo/Syllabus_Georgetown.pdf?rlkey=8bfgl071hsg9oheeygg5meb2s&st=l5gep2h6&dl=0) (GOVT 3421 1) | Fall 2026 | 15 (max. allowed) | — |
+| Georgetown University | BA in Government | [Youth and Politics](https://www.dropbox.com/scl/fi/6snat38pqpcz9qv8x9zcx/Syllabus_Youth_Politics.pdf?rlkey=xm0szh3ga43oqkpslw60g5m3j&st=vdcbevcu&dl=0) (GOVT 3421 1) | Fall 2026 | 15 (max. allowed) | — |
 | Iscte | MA in Political Science | [Political Attitudes and Behavior](https://www.dropbox.com/scl/fi/k6g3gnpl4ibmjrkd7fouy/Syllabus_Atitudes_e_Comportamentos_Pol-ticos.pdf?rlkey=y7bw0fdoykn8218incx6rk7i1&st=7y8p1lk2&dl=0) | Fall 2025 | 43 | 9.8 (1–10) |
 | Iscte | MA in Political Science | [Research Design](https://fenix-mais.iscte-iul.pt/courses/00534-565977905419872/pagina-inicial) | Spring 2026 | 19 | 9.5 (1–10) |
 | Iscte | BA in Politics, Economics and Society | [Comparative Political Systems](https://www.dropbox.com/scl/fi/8cttivpco2hyplolzflay/Syllabus_Sistemas_Pol-ticos_Iscte_Sintra.pdf?rlkey=xqci52k71hj10rbd80t1j75gk&st=am7jecmc&dl=0) | Spring 2026 | 21 | 8.5 (1–10) |
