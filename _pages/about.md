@@ -18,8 +18,6 @@ I am the FLAD Visiting Professor in the Department of Government at [Georgetown 
 
 I study how political parties adapt, endure, or fracture under grassroots pressure, and how young people gain access to political institutions and act once they are inside. A recurring question is what party organizations, and youth wings in particular, do to channel or to contain the demands that reach them. I use survey experiments with party elites, members, and voters, as well as causal inference methods to answer these questions in Western democracies.
 
-Methodologically, I design and conduct field and survey experiments with party elites, members, and voters. I am also interested in quasi-experimental methods for causal inference.
-
 My research has been published in the <i>European Journal of Political Research</i>, <i>West European Politics</i>, and <i>Regulation & Governance</i>, among other outlets. My first book on youth and politics translates some of these findings for a wider audience and is under contract with <i>Fundação Francisco Manuel dos Santos</i>. I have taught a broad range of comparative politics courses at [Iscte](https://www.iscte-iul.pt/), [EEG-UMinho](https://www.eeg.uminho.pt/pt), [UBI](https://www.ubi.pt/), [Lusófona](https://www.ulusofona.pt/), and [Europeia](https://www.europeia.pt/). 
 
 Feel free to get in touch at [hugoferrinholopes@eeg.uminho.pt](mailto:hugoferrinholopes@eeg.uminho.pt).
