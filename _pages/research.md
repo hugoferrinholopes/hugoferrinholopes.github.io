@@ -86,7 +86,7 @@ Feel free to email me if you are unable to access any of the publications listed
   In *As Eleições Legislativas no Portugal Democrático: 1975-2025* [Legislative Elections in Portuguese Democracy: 1975-2025]<br>
   edited by Marco Lisi<br>
   Assembleia da República, Lisbon (forthcoming)<br>
-* [O Envelhecimento das Elites Ministeriais](https://www.dropbox.com/scl/fi/wcf3ax4rkn4cet5x55srj/HFerrinhoLopes_Chapter_FFMS.pdf?rlkey=ka5yvz7kc7j3g9jmwg9f5kst0&st=lqp2qjka&dl=0) [The Aging of Ministerial Elites]<br>
+* [O Envelhecimento das Elites Ministeriais](https://ffms.pt/pt-pt/estudos/estudos/quem-governa-portugal-perfis-ministeriais-em-perspetiva-comparada-1976-2025#authors-main-list) [The Aging of Ministerial Elites]<br>
   In *Quem Governa Portugal? Perfis ministeriais em perspetiva comparada* [Who Governs Portugal? Minister profiles in comparative perspective]<br>
   edited by Marcelo Camerlo and António Costa Pinto<br>
   FFMS, Lisbon (2026)<br>
