@@ -72,11 +72,6 @@ Feel free to email me if you are unable to access any of the publications listed
     
 ## Book chapters
 
-* Political climbers: Explaining candidate movement in Portuguese political parties’ list ranking<br> 
-    with João Gaio e Silva<br>
-    In *The Politics of Candidate Selection in Portugal (1975-2024)*<br>
-    edited by Jorge M. Fernandes and Mariana Carmo Duarte<br>
-    Routledge, London (in progress)<br>
 * [Representação de Género nas Autarquias Locais](https://www.dropbox.com/scl/fi/onktn9kr8fsdppwkko7az/ChapterGenderRep.pdf?rlkey=mf7ua0u6c52mxbz01mgv50jye&st=xk6a7w57&dl=0) [Gender Representation in Local Government]<br>
   with Beatriz Sobrinho, André Catita, and Leonor Pires<br>
   In *Estudos de Direito Autárquico II* [Studies of Municipal Law II]<br>
