@@ -87,7 +87,7 @@ Feel free to email me if you are unable to access any of the publications listed
   edited by Marco Lisi<br>
   Assembleia da República, Lisbon (forthcoming)<br>
 * [O Envelhecimento das Elites Ministeriais](https://ffms.pt/pt-pt/estudos/estudos/quem-governa-portugal-perfis-ministeriais-em-perspetiva-comparada-1976-2025#authors-main-list) [The Aging of Ministerial Elites]<br>
-  In *Quem Governa Portugal? Perfis ministeriais em perspetiva comparada* [Who Governs Portugal? Minister profiles in comparative perspective]<br>
+  In *Quem Governa Portugal? Perfis ministeriais em perspetiva comparada (1976-2025)* [Who Governs Portugal? A Comparative Analysis of Ministerial Profiles (1976–2025)]<br>
   edited by Marcelo Camerlo and António Costa Pinto<br>
   FFMS, Lisbon (2026)<br>
 * [Jovens, Política e Parlamento dos Jovens](https://www.dropbox.com/scl/fi/xii73o88j0dydcgpy4gcq/VAlbernaz_HFerrinhoLopes_Chapter_TintaChina.pdf?rlkey=px1p3hb6abfegwdlyks5zmqtl&st=s8lg3qw2&dl=0) [Youth, Politics, and Youth Parliament]<br>
