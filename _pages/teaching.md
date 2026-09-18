@@ -164,14 +164,14 @@ author_profile: true
 ## Supervision and co-supervision of graduate students
 ### PhD
 
-| Supervisee             | Finished   | Institution                          | 
+| Supervisee             | Status   | Institution                          | 
 | ---------------------- | ---------- | ------------------------------------ |
 | Camilo Ximenes         | Ongoing    | UAveiro & Uni. Beira Interior        |
 
 
 ### Masters
 
-| Supervisee             | Finished   | Institution                          | 
+| Supervisee             | Status   | Institution                          | 
 | ---------------------- | ---------- | ------------------------------------ |
 | Verónica Medeiros      | Ongoing    | Iscte |
 | Jessica Costa          | Ongoing    | Iscte |
