@@ -21,19 +21,19 @@ author_profile: true
 |---|---|---|---|---|
 | Europeia | Post-graduate program in Political Science | Political Participation and Representation | Spring 2027 | — |
 | Georgetown | BA in Government | [Youth and Politics](https://www.dropbox.com/scl/fi/6snat38pqpcz9qv8x9zcx/Syllabus_Youth_Politics.pdf?rlkey=xm0szh3ga43oqkpslw60g5m3j&st=vdcbevcu&dl=0) (GOVT 3421 1) | Fall 2026 | — |
-| Iscte | MA in Political Science | [Political Attitudes and Behavior](https://www.dropbox.com/scl/fi/k6g3gnpl4ibmjrkd7fouy/Syllabus_Atitudes_e_Comportamentos_Pol-ticos.pdf?rlkey=y7bw0fdoykn8218incx6rk7i1&st=7y8p1lk2&dl=0) | Fall 2025 | 9.8 (1–10) |
-| Iscte | MA in Political Science | [Research Design](https://fenix-mais.iscte-iul.pt/courses/00534-565977905419872/pagina-inicial) | Spring 2026 | 9.5 (1–10) |
-| Iscte | BA in Politics, Economics and Society | [Comparative Political Systems](https://www.dropbox.com/scl/fi/8cttivpco2hyplolzflay/Syllabus_Sistemas_Pol-ticos_Iscte_Sintra.pdf?rlkey=xqci52k71hj10rbd80t1j75gk&st=am7jecmc&dl=0) | Spring 2026 | 8.5 (1–10) |
-| Iscte | BA in Political Science | [Political Sphere and Public Opinion](https://www.dropbox.com/scl/fi/9e0vhhbvmbk6t82rjouty/syllabus_EPOP.pdf?rlkey=sq67cwoh28uiialecoe0zdz5i&st=8lkxurq4&dl=0) | Spring 2026 | 8.3 (1–10) |
-| Minho | BA in Political Science | [Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0) | Fall 2025 | 4.3 (1–5) |
-| Minho | BA in International Relations | [Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0) | Fall 2025 | 4.4 (1–5) |
-| Minho | BA in Political Science | [Electoral Systems](https://www.dropbox.com/scl/fi/1qo1ouefv666sgyu4j1ii/Syllabus_Sistemas_Eleitorais_UM.pdf?rlkey=fcy2uwpwb4ucjni18xn083j6u&st=dh5eyeiu&dl=0) | Spring 2026 | 4.4 (1–5) |
-| Lusófona | Post-graduate program in Political Psychology | [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0) (with Susana R. Nina) | Spring 2023 | 4.5 (1–5) |
-| UBI | BA in Poli. Sci. & IR | [Political Analysis](https://www.dropbox.com/s/469qqqelom5qxsh/Syllabus.pdf?dl=0) | Fall 2021 | 5.9 (1–6) |
-| UBI | BA in Poli. Sci. & IR | [Local and Regional Politics](https://www.dropbox.com/s/uz7d5ii73ro6klh/Syllabus_PRA.pdf?dl=0) | Spring 2022 | 4.0 (1–6) |
-| UBI | BA in Poli. Sci. & IR | [Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0) | Fall 2020 | 5.4 (1–6) |
-| UBI | BA in Poli. Sci. & IR | [European Union Institutions and Policies](https://www.dropbox.com/s/ozncj6a9ifbtsks/FUC%20IPUE%202020-2021.pdf?dl=0) | Fall 2020 | 5.4 (1–6) |
-| UBI | BA in Poli. Sci. & IR | [International Organizations](https://www.dropbox.com/s/ik3lvmeuk5ncncm/Syllabus.pdf?dl=0) | Spring 2021 | 5.3 (1–6) |
+| Iscte | MA in Political Science | [Political Attitudes and Behavior](https://www.dropbox.com/scl/fi/k6g3gnpl4ibmjrkd7fouy/Syllabus_Atitudes_e_Comportamentos_Pol-ticos.pdf?rlkey=y7bw0fdoykn8218incx6rk7i1&st=7y8p1lk2&dl=0) | Fall 2025 | 9.8/10 |
+| Iscte | MA in Political Science | [Research Design](https://fenix-mais.iscte-iul.pt/courses/00534-565977905419872/pagina-inicial) | Spring 2026 | 9.5/10 |
+| Iscte | BA in Politics, Economics and Society | [Comparative Political Systems](https://www.dropbox.com/scl/fi/8cttivpco2hyplolzflay/Syllabus_Sistemas_Pol-ticos_Iscte_Sintra.pdf?rlkey=xqci52k71hj10rbd80t1j75gk&st=am7jecmc&dl=0) | Spring 2026 | 8.5/10 |
+| Iscte | BA in Political Science | [Political Sphere and Public Opinion](https://www.dropbox.com/scl/fi/9e0vhhbvmbk6t82rjouty/syllabus_EPOP.pdf?rlkey=sq67cwoh28uiialecoe0zdz5i&st=8lkxurq4&dl=0) | Spring 2026 | 8.3/10 |
+| Minho | BA in Political Science | [Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0) | Fall 2025 | 4.3/5 |
+| Minho | BA in International Relations | [Comparative Political Systems](https://www.dropbox.com/scl/fi/zmwcqskgui25iuifplwrw/Syllabus_Sistemas_Pol_UMinho.pdf?rlkey=pp63elmpfyl1fug4b2udvdvcg&st=b1y2ctku&dl=0) | Fall 2025 | 4.4/5 |
+| Minho | BA in Political Science | [Electoral Systems](https://www.dropbox.com/scl/fi/1qo1ouefv666sgyu4j1ii/Syllabus_Sistemas_Eleitorais_UM.pdf?rlkey=fcy2uwpwb4ucjni18xn083j6u&st=dh5eyeiu&dl=0) | Spring 2026 | 4.4/5 |
+| Lusófona | Post-graduate program in Political Psychology | [Digital Politics](https://www.dropbox.com/s/v7wrnwpbf76ft63/Syllabus_Politica_Digital.pdf?dl=0) (with Susana R. Nina) | Spring 2023 | 4.5/5 |
+| UBI | BA in Poli. Sci. & IR | [Political Analysis](https://www.dropbox.com/s/469qqqelom5qxsh/Syllabus.pdf?dl=0) | Fall 2021 | 5.9/6 |
+| UBI | BA in Poli. Sci. & IR | [Local and Regional Politics](https://www.dropbox.com/s/uz7d5ii73ro6klh/Syllabus_PRA.pdf?dl=0) | Spring 2022 | 4.0/6 |
+| UBI | BA in Poli. Sci. & IR | [Geopolitics and Strategy](https://www.dropbox.com/s/iq8erfamo2fito3/FUC%20Geopol%C3%ADtica%20e%20Estrat%C3%A9gia%202020%3A2021.pdf?dl=0) | Fall 2020 | 5.4/6 |
+| UBI | BA in Poli. Sci. & IR | [European Union Institutions and Policies](https://www.dropbox.com/s/ozncj6a9ifbtsks/FUC%20IPUE%202020-2021.pdf?dl=0) | Fall 2020 | 5.4/6 |
+| UBI | BA in Poli. Sci. & IR | [International Organizations](https://www.dropbox.com/s/ik3lvmeuk5ncncm/Syllabus.pdf?dl=0) | Spring 2021 | 5.3/6 |
 
 <!----
 | Course | Program | Institution | Semester | 
