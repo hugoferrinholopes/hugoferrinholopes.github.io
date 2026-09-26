@@ -137,6 +137,7 @@ author_profile: true
 - [**TSF**](https://www.tsf.pt/programa/revista-de-imprensa-comentada?ep=18050050) -- Interviewed about the results of the second round of the 2026 Portuguese presidential election (2026).
 - **European Center for Populism Studies (ECPS)** - Interviewed about the results of the first round of the 2026 presidential elections in Portugal, and the rise of populism in the country (2026).
 - [**Política Sem Café**](https://open.spotify.com/episode/3DKwLBQtjFyOAEEPXrH8Xx?si=4e4e446abe6948b1) - Interview on party membership and youth wings (2024).
+- [**Poder da Palavra**](https://open.spotify.com/episode/3DKwLBQtjFyOAEEPXrH8Xx?si=a6a95996fc4e48ae) - Interview on party membership and political participation (2024).
 - [**FOXP2 Monitor**](https://www.youtube.com/channel/UCzawIr72-Md0v1DmbN5E-mA) - Interview on party and candidate's performance in social media (2021).
 - [**Luz e Presença**](https://soundcloud.com/luz-politica/a-necessidade-de-identificacao-com-um-partido-politico-com-hugo-ferrinho-lopes) - Interview on party identification, voting, political parties, the rise of populism, and low turnout (2020).
 - **Rádio Cova da Beira** - Monthly short podcast (≈3 minutes each) analyzing current political issues (2019–2021).
